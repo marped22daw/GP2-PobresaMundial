@@ -1,20 +1,24 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { MatSliderModule } from '@angular/material/slider';
+import {MatSidenavModule} from '@angular/material/sidenav';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { IniciComponent } from './inici';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    IniciComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    MatSliderModule
+    MatSliderModule,
+    MatSidenavModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [IniciComponent]
 })
 export class AppModule { }
