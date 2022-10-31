@@ -1,33 +1,38 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { MatSliderModule } from '@angular/material/slider';
-import {MatSidenavModule} from '@angular/material/sidenav';
-import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
-import {MatToolbarModule} from '@angular/material/toolbar';
-import {MatButtonModule} from '@angular/material/button';
-import {MatIconModule} from '@angular/material/icon';
-import {MatDividerModule} from '@angular/material/divider';
+
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { MatToolbarModule } from '@angular/material/toolbar';
+import { MatSidenavModule } from '@angular/material/sidenav';
+import { MatButtonModule } from '@angular/material/button';
+import { MatIconModule } from '@angular/material/icon';
+import { MatDividerModule } from '@angular/material/divider';
 import { IniciComponent } from './inici';
+import { EspervidaComponent } from './espervida';
+import { FertilitatComponent } from './fertilitat';
+import { PobresaComponent } from './pobresa';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    IniciComponent
-  ],
+  AppComponent,
+  IniciComponent,
+  EspervidaComponent,
+  FertilitatComponent,
+  PobresaComponent
+],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    MatSliderModule,
-    MatSidenavModule,
     BrowserAnimationsModule,
     MatToolbarModule,
+    MatSidenavModule,
     MatButtonModule,
     MatIconModule,
     MatDividerModule
   ],
   providers: [],
-  bootstrap: [IniciComponent]
+  bootstrap: [IniciComponent],
 })
-export class AppModule { }
+export class AppModule {}

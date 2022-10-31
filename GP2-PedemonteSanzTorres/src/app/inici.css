@@ -12,6 +12,11 @@ mat-sidenav {
     border-radius: 10px;
     text-align: center;
 }
+
+mat-sidenav-container {
+    height: calc(100vh - 65px);
+}
+
 .logo{
     display: block;
   max-width:180px;
@@ -33,10 +38,6 @@ mat-sidenav {
     border-radius: 10px;
 }
 
-mat-sidenav-container {
-    height: calc(100vh - 65px);
-}
-
 .menu-button {
     width: 100%;
     display: flex;
@@ -48,4 +49,10 @@ mat-sidenav-container {
 
 mat-icon {
     margin-right: 8px;
+}
+
+mat-divider {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    background-color: gray;
 }
