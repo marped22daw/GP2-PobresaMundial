@@ -13,6 +13,11 @@ import { IniciComponent } from './inici';
 import { EspervidaComponent } from './espervida';
 import { FertilitatComponent } from './fertilitat';
 import { PobresaComponent } from './pobresa';
+import { MatTableModule } from '@angular/material/table' 
+
+import { MatListModule } from '@angular/material/list';
+import { MatCardModule } from '@angular/material/card';
+import { MatGridListModule } from '@angular/material/grid-list';
 
 @NgModule({
   declarations: [
@@ -30,7 +35,12 @@ import { PobresaComponent } from './pobresa';
     MatSidenavModule,
     MatButtonModule,
     MatIconModule,
-    MatDividerModule
+    MatDividerModule,
+    MatTableModule,
+
+    MatListModule,
+    MatCardModule,
+    MatGridListModule
   ],
   providers: [],
   bootstrap: [IniciComponent],
