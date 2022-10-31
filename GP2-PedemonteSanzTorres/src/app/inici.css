@@ -1,15 +1,24 @@
 mat-toolbar {
     background: blue;
     color: white;
+    height: 97px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.topbutton {
+    margin-right: 20px;
+    
 }
 
 mat-sidenav {
-    margin: 16px;
+    position: fixed;
+    top: 0;
     width: 200px;
     border-right: none;
     background-color: black;
     color: white;
-    border-radius: 10px;
     text-align: center;
 }
 
@@ -44,12 +53,23 @@ mat-sidenav-container {
     align-items: center;
     justify-content: flex-start;
     font-size: 1rem;
-    
+    padding-top: 20px;
+    padding-bottom: 20px; 
+}
+
+.menu-button:hover {
+     background-color: gray;
+     transition: 1s;
+     border-radius: 10px;
+     margin: 7px;
+     width: 90%;
 }
 
 mat-icon {
     margin-right: 8px;
+    margin-left: 20px;
 }
+
 
 mat-divider {
     margin-top: 16px;

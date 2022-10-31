@@ -1,5 +1,5 @@
 <mat-toolbar>
-    <button mat-icon-button *ngIf="sidenav.mode === 'over'" (click)="sidenav.toggle()">
+    <button class="topbutton" mat-icon-button *ngIf="sidenav.mode === 'over'" (click)="sidenav.toggle()">
         <mat-icon *ngIf="!sidenav.opened">
             menu
         </mat-icon>
@@ -7,7 +7,7 @@
             close
         </mat-icon>
     </button>
-    Responsive sidebar navigation
+    <p>Responsive sidebar navigation</p>
 </mat-toolbar>
 
 <mat-sidenav-container>
