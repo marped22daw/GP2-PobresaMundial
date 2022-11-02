@@ -1,10 +1,10 @@
 mat-toolbar {
     background: blue;
     color: white;
-    height: 97px;
-    display: flex;
+    height: 60px;
     justify-content: center;
     align-items: center;
+
 }
 
 .topbutton {
