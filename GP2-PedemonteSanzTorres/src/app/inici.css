@@ -48,11 +48,9 @@ mat-sidenav-container {
 }
 
 .menu-button:hover {
-     background-color: gray;
+     background-color: #4757E7;
      transition: 1s;
-     border-radius: 10px;
-     margin: 7px;
-     width: 90%;
+     border-radius: 50px;
 }
 
 mat-icon {
