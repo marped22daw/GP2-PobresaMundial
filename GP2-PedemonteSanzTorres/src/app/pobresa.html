@@ -1,3 +1,4 @@
+<div class="content mat-elevation-z4">
 <h1>Pobresa</h1>
 
 <table mat-table [dataSource]="dataSource" matSort (matSortChange)="announceSortChange($event)"
@@ -38,3 +39,4 @@
   <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
   <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
 </table>
+</div>

@@ -8,3 +8,11 @@ table {
 h1{
   text-align:justify;
 }
+
+.content {
+  height: calc(100vh - 98px);
+  margin: 16px;
+  margin-left: 32px;
+  border-radius: 10px;
+  background-color: white;
+}

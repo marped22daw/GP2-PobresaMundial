@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
     selector: 'app-root',
     templateUrl: './fertilitat.html',
-    styles: ['h1 { color: #900 }']
+    styleUrls: ['./fertilitat.css']
 })
 
 export class FertilitatComponent {
