@@ -1,6 +1,8 @@
 mat-toolbar {
-    background: blue;
-    color: white;
+    /*background: rgb(71,87,231);
+    background: linear-gradient(180deg, rgba(71,87,231,1) 0%, rgba(65,78,211,1) 100%);*/
+    background-color: white; 
+    color: black;
     height: 60px;
     justify-content: center;
     align-items: center;
@@ -17,15 +19,16 @@ mat-sidenav {
     top: 0;
     width: 200px;
     border-right: none;
-    background-color: black;
+    background: rgb(71,87,231);
+    background: linear-gradient(180deg, rgba(71,87,231,1) 0%, rgba(11,5,28,1) 100%);
     color: white;
     text-align: center;
 }
 
 mat-sidenav-container {
     height: calc(100vh - 65px);
+    background-color: #F3F3F3;
 }
-
 .logo{
     display: block;
   max-width:180px;
@@ -37,8 +40,8 @@ mat-sidenav-container {
     height: calc(100vh - 98px);
     margin: 16px;
     margin-left: 32px;
-
     border-radius: 10px;
+    background-color: white;
 }
 
 .menu-button {
