@@ -7,7 +7,12 @@
             close
         </mat-icon>
     </button>
-    <p>Nom</p>
+    
+    <span *ngIf="router.url === '/principal'">Principal</span>
+    <span *ngIf="router.url === '/pobresa'">Pobresa</span>
+    <span *ngIf="router.url === '/espervida'">Esperança de vida</span>
+    <span *ngIf="router.url === '/fertilitat'">Fertilitat</span>
+    
 </mat-toolbar>
 
 <mat-sidenav-container>
@@ -16,19 +21,19 @@
 
         
 
-        <button mat-button class="menu-button" routerLink="/principal">
+        <button class="button" routerLink="/principal" [routerLinkActive]="'activebutton'">
             <mat-icon>home</mat-icon>
             <span>Inici</span>
         </button>
-        <button mat-button class="menu-button" routerLink="/pobresa">
+        <button class="button" routerLink="/pobresa" [routerLinkActive]="'activebutton'">
             <mat-icon>attach_money</mat-icon>
             <span>Pobresa</span>
         </button>
-        <button mat-button class="menu-button" routerLink="/espervida">
+        <button class="button" routerLink="/espervida" [routerLinkActive]="'activebutton'">
             <mat-icon>favorite</mat-icon>
             <span>Esper. vida</span>
         </button>
-        <button mat-button class="menu-button" routerLink="/fertilitat">
+        <button class="button" routerLink="/fertilitat" [routerLinkActive]="'activebutton'">
             <mat-icon>local_hotel</mat-icon>
             <span>Fertilitat</span>
         </button>

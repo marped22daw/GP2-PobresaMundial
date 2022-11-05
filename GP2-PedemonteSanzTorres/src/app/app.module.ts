@@ -18,6 +18,8 @@ import { MatTableModule } from '@angular/material/table'
 import { MatListModule } from '@angular/material/list';
 import { MatCardModule } from '@angular/material/card';
 import { MatGridListModule } from '@angular/material/grid-list';
+import { RouterLinkActive } from '@angular/router';
+import { RouterLink } from '@angular/router';
 
 @NgModule({
   declarations: [
@@ -40,7 +42,10 @@ import { MatGridListModule } from '@angular/material/grid-list';
 
     MatListModule,
     MatCardModule,
-    MatGridListModule
+    MatGridListModule,
+
+    RouterLinkActive,
+    RouterLink
   ],
   providers: [],
   bootstrap: [IniciComponent],

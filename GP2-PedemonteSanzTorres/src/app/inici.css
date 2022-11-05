@@ -37,7 +37,7 @@ mat-sidenav-container {
   height: auto;
 }
 
-.menu-button {
+.button {
     width: 100%;
     display: flex;
     align-items: center;
@@ -45,9 +45,26 @@ mat-sidenav-container {
     font-size: 1rem;
     padding-top: 20px;
     padding-bottom: 20px; 
+    background-color: transparent;
+    cursor: pointer;
 }
 
-.menu-button:hover {
+.activebutton {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 1rem;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: green;
+}
+
+.textoactivo {
+    color: green;
+}
+
+.button:hover {
      background-color: #4757E7;
      transition: 1s;
      border-radius: 50px;
