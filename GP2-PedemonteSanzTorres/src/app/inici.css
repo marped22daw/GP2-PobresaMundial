@@ -47,27 +47,29 @@ mat-sidenav-container {
     padding-bottom: 20px; 
     background-color: transparent;
     cursor: pointer;
+    color: white;
+    border-width: 0ch;
 }
 
 .activebutton {
-    width: 100%;
+    /*width: 100%;
     display: flex;
     align-items: center;
     justify-content: flex-start;
     font-size: 1rem;
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: green;
-}
-
-.textoactivo {
-    color: green;
-}
-
-.button:hover {
-     background-color: #4757E7;
-     transition: 1s;
+    background-color: green;*/
+    background-color: #4757E7;
+    border-width: 0ch;
      border-radius: 50px;
+     text-decoration: underline;
+}
+.button:hover {
+     /*background-color: #4757E7;
+     transition: 1s;
+     border-radius: 50px;*/
+     text-decoration: underline;
 }
 
 mat-icon {
