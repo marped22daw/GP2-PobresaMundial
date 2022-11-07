@@ -1,14 +1,14 @@
 <mat-toolbar>
     <button class="topbutton" mat-icon-button *ngIf="sidenav.mode === 'over'" (click)="sidenav.toggle()">
-        <mat-icon *ngIf="!sidenav.opened">
+        <mat-icon *ngIf="!sidenav.opened" class="open">
             menu
         </mat-icon>
-        <mat-icon *ngIf="sidenav.opened">
+        <mat-icon *ngIf="sidenav.opened" class="close">
             close
         </mat-icon>
     </button>
     
-    <span *ngIf="router.url === '/principal'">Principal</span>
+    <span *ngIf="router.url === '/principal'">Inici</span>
     <span *ngIf="router.url === '/pobresa'">Pobresa</span>
     <span *ngIf="router.url === '/espervida'">Esperança de vida</span>
     <span *ngIf="router.url === '/fertilitat'">Fertilitat</span>

@@ -18,7 +18,7 @@ export class IniciComponent {
     }
 
     ngAfterViewInit() {
-        this.observer.observe(['(max-width: 800px)']).subscribe(result => {
+        this.observer.observe(['']).subscribe(result => {
             if (result.matches) {
                 this.sidenav.mode = 'over';
                 this.sidenav.close();

@@ -8,10 +8,17 @@ mat-toolbar {
     align-items: center;
 
 }
-
 .topbutton {
     margin-right: 20px;
-    
+}
+.open{
+    margin-left: -1550%;
+}
+.close{
+    margin-left: -1100%;
+}
+.mat-focus-indicator{
+    background-color: white;
 }
 
 mat-sidenav {
@@ -62,8 +69,8 @@ mat-sidenav-container {
     background-color: green;*/
     background-color: #4757E7;
     border-width: 0ch;
-     border-radius: 50px;
-     text-decoration: underline;
+    border-radius: 50px;
+    text-decoration: underline;
 }
 .button:hover {
      /*background-color: #4757E7;
