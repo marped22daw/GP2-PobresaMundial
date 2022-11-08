@@ -1,18 +1,24 @@
+
 table {
-    width: 100%;
-  }
+  align-items: center;
+    width: 80%;
+    height: 80%;
+    margin:20px;
+    margin-bottom: 15%;
+} 
   
-  th.mat-sort-header-sorted {
+th.mat-sort-header-sorted {
     color: black;
-  }
+}
 h1{
   margin-left: 1%;
 }
 
 .content {
-  height: calc(100vh - 98px);
+  width: 96%;
   margin: 16px;
   margin-left: 32px;
   border-radius: 10px;
   background-color: white;
+  
 }
