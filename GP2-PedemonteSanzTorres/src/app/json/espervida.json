@@ -1,5126 +1,5126 @@
 [
   {
-    "Country": "Afghanistan",
-    "Year": 2015,
-    "Life expectancy": 65,
-    "Adult Mortality": 263,
-    "infant deaths": 62
+    "Pais": "Afghanistan",
+    "Any": 2015,
+    "Espervida": 65,
+    "Adult_Mortality": 263,
+    "Infant_Deaths": 62
   },
   {
-    "Country": "Afghanistan",
-    "Year": 2010,
-    "Life expectancy": 58.8,
-    "Adult Mortality": 279,
-    "infant deaths": 74
+    "Pais": "Afghanistan",
+    "Any": 2010,
+    "Espervida": 58.8,
+    "Adult_Mortality": 279,
+    "Infant_Deaths": 74
   },
   {
-    "Country": "Afghanistan",
-    "Year": 2005,
-    "Life expectancy": 57.3,
-    "Adult Mortality": 291,
-    "infant deaths": 85
+    "Pais": "Afghanistan",
+    "Any": 2005,
+    "Espervida": 57.3,
+    "Adult_Mortality": 291,
+    "Infant_Deaths": 85
   },
   {
-    "Country": "Afghanistan",
-    "Year": 2000,
-    "Life expectancy": 54.8,
-    "Adult Mortality": 321,
-    "infant deaths": 88
+    "Pais": "Afghanistan",
+    "Any": 2000,
+    "Espervida": 54.8,
+    "Adult_Mortality": 321,
+    "Infant_Deaths": 88
   },
   {
-    "Country": "Albania",
-    "Year": 2015,
-    "Life expectancy": 77.8,
-    "Adult Mortality": 74,
-    "infant deaths": 0
+    "Pais": "Albania",
+    "Any": 2015,
+    "Espervida": 77.8,
+    "Adult_Mortality": 74,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Albania",
-    "Year": 2010,
-    "Life expectancy": 76.2,
-    "Adult Mortality": 91,
-    "infant deaths": 1
+    "Pais": "Albania",
+    "Any": 2010,
+    "Espervida": 76.2,
+    "Adult_Mortality": 91,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Albania",
-    "Year": 2005,
-    "Life expectancy": 73.5,
-    "Adult Mortality": 15,
-    "infant deaths": 1
+    "Pais": "Albania",
+    "Any": 2005,
+    "Espervida": 73.5,
+    "Adult_Mortality": 15,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Albania",
-    "Year": 2000,
-    "Life expectancy": 72.6,
-    "Adult Mortality": 11,
-    "infant deaths": 1
+    "Pais": "Albania",
+    "Any": 2000,
+    "Espervida": 72.6,
+    "Adult_Mortality": 11,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Algeria",
-    "Year": 2015,
-    "Life expectancy": 75.6,
-    "Adult Mortality": 19,
-    "infant deaths": 21
+    "Pais": "Algeria",
+    "Any": 2015,
+    "Espervida": 75.6,
+    "Adult_Mortality": 19,
+    "Infant_Deaths": 21
   },
   {
-    "Country": "Algeria",
-    "Year": 2010,
-    "Life expectancy": 74.7,
-    "Adult Mortality": 119,
-    "infant deaths": 21
+    "Pais": "Algeria",
+    "Any": 2010,
+    "Espervida": 74.7,
+    "Adult_Mortality": 119,
+    "Infant_Deaths": 21
   },
   {
-    "Country": "Algeria",
-    "Year": 2005,
-    "Life expectancy": 72.9,
-    "Adult Mortality": 136,
-    "infant deaths": 19
+    "Pais": "Algeria",
+    "Any": 2005,
+    "Espervida": 72.9,
+    "Adult_Mortality": 136,
+    "Infant_Deaths": 19
   },
   {
-    "Country": "Algeria",
-    "Year": 2000,
-    "Life expectancy": 71.3,
-    "Adult Mortality": 145,
-    "infant deaths": 21
+    "Pais": "Algeria",
+    "Any": 2000,
+    "Espervida": 71.3,
+    "Adult_Mortality": 145,
+    "Infant_Deaths": 21
   },
   {
-    "Country": "Angola",
-    "Year": 2015,
-    "Life expectancy": 52.4,
-    "Adult Mortality": 335,
-    "infant deaths": 66
+    "Pais": "Angola",
+    "Any": 2015,
+    "Espervida": 52.4,
+    "Adult_Mortality": 335,
+    "Infant_Deaths": 66
   },
   {
-    "Country": "Angola",
-    "Year": 2010,
-    "Life expectancy": 49.6,
-    "Adult Mortality": 365,
-    "infant deaths": 78
+    "Pais": "Angola",
+    "Any": 2010,
+    "Espervida": 49.6,
+    "Adult_Mortality": 365,
+    "Infant_Deaths": 78
   },
   {
-    "Country": "Angola",
-    "Year": 2005,
-    "Life expectancy": 47.4,
-    "Adult Mortality": 382,
-    "infant deaths": 92
+    "Pais": "Angola",
+    "Any": 2005,
+    "Espervida": 47.4,
+    "Adult_Mortality": 382,
+    "Infant_Deaths": 92
   },
   {
-    "Country": "Angola",
-    "Year": 2000,
-    "Life expectancy": 45.3,
-    "Adult Mortality": 48,
-    "infant deaths": 97
+    "Pais": "Angola",
+    "Any": 2000,
+    "Espervida": 45.3,
+    "Adult_Mortality": 48,
+    "Infant_Deaths": 97
   },
   {
-    "Country": "Antigua and Barbuda",
-    "Year": 2015,
-    "Life expectancy": 76.4,
-    "Adult Mortality": 13,
-    "infant deaths": 0
+    "Pais": "Antigua and Barbuda",
+    "Any": 2015,
+    "Espervida": 76.4,
+    "Adult_Mortality": 13,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Antigua and Barbuda",
-    "Year": 2010,
-    "Life expectancy": 75.6,
-    "Adult Mortality": 138,
-    "infant deaths": 0
+    "Pais": "Antigua and Barbuda",
+    "Any": 2010,
+    "Espervida": 75.6,
+    "Adult_Mortality": 138,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Antigua and Barbuda",
-    "Year": 2005,
-    "Life expectancy": 74.6,
-    "Adult Mortality": 147,
-    "infant deaths": 0
+    "Pais": "Antigua and Barbuda",
+    "Any": 2005,
+    "Espervida": 74.6,
+    "Adult_Mortality": 147,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Antigua and Barbuda",
-    "Year": 2000,
-    "Life expectancy": 73.6,
-    "Adult Mortality": 156,
-    "infant deaths": 0
+    "Pais": "Antigua and Barbuda",
+    "Any": 2000,
+    "Espervida": 73.6,
+    "Adult_Mortality": 156,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Argentina",
-    "Year": 2015,
-    "Life expectancy": 76.3,
-    "Adult Mortality": 116,
-    "infant deaths": 8
+    "Pais": "Argentina",
+    "Any": 2015,
+    "Espervida": 76.3,
+    "Adult_Mortality": 116,
+    "Infant_Deaths": 8
   },
   {
-    "Country": "Argentina",
-    "Year": 2010,
-    "Life expectancy": 75.5,
-    "Adult Mortality": 121,
-    "infant deaths": 10
+    "Pais": "Argentina",
+    "Any": 2010,
+    "Espervida": 75.5,
+    "Adult_Mortality": 121,
+    "Infant_Deaths": 10
   },
   {
-    "Country": "Argentina",
-    "Year": 2005,
-    "Life expectancy": 74.9,
-    "Adult Mortality": 127,
-    "infant deaths": 11
+    "Pais": "Argentina",
+    "Any": 2005,
+    "Espervida": 74.9,
+    "Adult_Mortality": 127,
+    "Infant_Deaths": 11
   },
   {
-    "Country": "Argentina",
-    "Year": 2000,
-    "Life expectancy": 74.1,
-    "Adult Mortality": 137,
-    "infant deaths": 12
+    "Pais": "Argentina",
+    "Any": 2000,
+    "Espervida": 74.1,
+    "Adult_Mortality": 137,
+    "Infant_Deaths": 12
   },
   {
-    "Country": "Armenia",
-    "Year": 2015,
-    "Life expectancy": 74.8,
-    "Adult Mortality": 118,
-    "infant deaths": 1
+    "Pais": "Armenia",
+    "Any": 2015,
+    "Espervida": 74.8,
+    "Adult_Mortality": 118,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Armenia",
-    "Year": 2010,
-    "Life expectancy": 73.5,
-    "Adult Mortality": 132,
-    "infant deaths": 1
+    "Pais": "Armenia",
+    "Any": 2010,
+    "Espervida": 73.5,
+    "Adult_Mortality": 132,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Armenia",
-    "Year": 2005,
-    "Life expectancy": 73,
-    "Adult Mortality": 137,
-    "infant deaths": 1
+    "Pais": "Armenia",
+    "Any": 2005,
+    "Espervida": 73,
+    "Adult_Mortality": 137,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Armenia",
-    "Year": 2000,
-    "Life expectancy": 72,
-    "Adult Mortality": 142,
-    "infant deaths": 1
+    "Pais": "Armenia",
+    "Any": 2000,
+    "Espervida": 72,
+    "Adult_Mortality": 142,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Australia",
-    "Year": 2015,
-    "Life expectancy": 82.8,
-    "Adult Mortality": 59,
-    "infant deaths": 1
+    "Pais": "Australia",
+    "Any": 2015,
+    "Espervida": 82.8,
+    "Adult_Mortality": 59,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Australia",
-    "Year": 2010,
-    "Life expectancy": 81.9,
-    "Adult Mortality": 64,
-    "infant deaths": 1
+    "Pais": "Australia",
+    "Any": 2010,
+    "Espervida": 81.9,
+    "Adult_Mortality": 64,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Australia",
-    "Year": 2005,
-    "Life expectancy": 81,
-    "Adult Mortality": 67,
-    "infant deaths": 1
+    "Pais": "Australia",
+    "Any": 2005,
+    "Espervida": 81,
+    "Adult_Mortality": 67,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Australia",
-    "Year": 2000,
-    "Life expectancy": 79.5,
-    "Adult Mortality": 78,
-    "infant deaths": 1
+    "Pais": "Australia",
+    "Any": 2000,
+    "Espervida": 79.5,
+    "Adult_Mortality": 78,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Austria",
-    "Year": 2015,
-    "Life expectancy": 81.5,
-    "Adult Mortality": 65,
-    "infant deaths": 0
+    "Pais": "Austria",
+    "Any": 2015,
+    "Espervida": 81.5,
+    "Adult_Mortality": 65,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Austria",
-    "Year": 2010,
-    "Life expectancy": 84,
-    "Adult Mortality": 75,
-    "infant deaths": 0
+    "Pais": "Austria",
+    "Any": 2010,
+    "Espervida": 84,
+    "Adult_Mortality": 75,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Austria",
-    "Year": 2005,
-    "Life expectancy": 79.4,
-    "Adult Mortality": 85,
-    "infant deaths": 0
+    "Pais": "Austria",
+    "Any": 2005,
+    "Espervida": 79.4,
+    "Adult_Mortality": 85,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Austria",
-    "Year": 2000,
-    "Life expectancy": 78.1,
-    "Adult Mortality": 96,
-    "infant deaths": 0
+    "Pais": "Austria",
+    "Any": 2000,
+    "Espervida": 78.1,
+    "Adult_Mortality": 96,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Azerbaijan",
-    "Year": 2015,
-    "Life expectancy": 72.7,
-    "Adult Mortality": 118,
-    "infant deaths": 5
+    "Pais": "Azerbaijan",
+    "Any": 2015,
+    "Espervida": 72.7,
+    "Adult_Mortality": 118,
+    "Infant_Deaths": 5
   },
   {
-    "Country": "Azerbaijan",
-    "Year": 2010,
-    "Life expectancy": 71.1,
-    "Adult Mortality": 13,
-    "infant deaths": 5
+    "Pais": "Azerbaijan",
+    "Any": 2010,
+    "Espervida": 71.1,
+    "Adult_Mortality": 13,
+    "Infant_Deaths": 5
   },
   {
-    "Country": "Azerbaijan",
-    "Year": 2005,
-    "Life expectancy": 68.4,
-    "Adult Mortality": 162,
-    "infant deaths": 6
+    "Pais": "Azerbaijan",
+    "Any": 2005,
+    "Espervida": 68.4,
+    "Adult_Mortality": 162,
+    "Infant_Deaths": 6
   },
   {
-    "Country": "Azerbaijan",
-    "Year": 2000,
-    "Life expectancy": 66.6,
-    "Adult Mortality": 16,
-    "infant deaths": 9
+    "Pais": "Azerbaijan",
+    "Any": 2000,
+    "Espervida": 66.6,
+    "Adult_Mortality": 16,
+    "Infant_Deaths": 9
   },
   {
-    "Country": "Bahamas",
-    "Year": 2015,
-    "Life expectancy": 76.1,
-    "Adult Mortality": 147,
-    "infant deaths": 0
+    "Pais": "Bahamas",
+    "Any": 2015,
+    "Espervida": 76.1,
+    "Adult_Mortality": 147,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Bahamas",
-    "Year": 2010,
-    "Life expectancy": 75,
-    "Adult Mortality": 161,
-    "infant deaths": 0
+    "Pais": "Bahamas",
+    "Any": 2010,
+    "Espervida": 75,
+    "Adult_Mortality": 161,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Bahamas",
-    "Year": 2005,
-    "Life expectancy": 74.1,
-    "Adult Mortality": 172,
-    "infant deaths": 0
+    "Pais": "Bahamas",
+    "Any": 2005,
+    "Espervida": 74.1,
+    "Adult_Mortality": 172,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Bahamas",
-    "Year": 2000,
-    "Life expectancy": 72.6,
-    "Adult Mortality": 192,
-    "infant deaths": 0
+    "Pais": "Bahamas",
+    "Any": 2000,
+    "Espervida": 72.6,
+    "Adult_Mortality": 192,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Bahrain",
-    "Year": 2015,
-    "Life expectancy": 76.9,
-    "Adult Mortality": 69,
-    "infant deaths": 0
+    "Pais": "Bahrain",
+    "Any": 2015,
+    "Espervida": 76.9,
+    "Adult_Mortality": 69,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Bahrain",
-    "Year": 2010,
-    "Life expectancy": 76.1,
-    "Adult Mortality": 73,
-    "infant deaths": 0
+    "Pais": "Bahrain",
+    "Any": 2010,
+    "Espervida": 76.1,
+    "Adult_Mortality": 73,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Bahrain",
-    "Year": 2005,
-    "Life expectancy": 75.3,
-    "Adult Mortality": 81,
-    "infant deaths": 0
+    "Pais": "Bahrain",
+    "Any": 2005,
+    "Espervida": 75.3,
+    "Adult_Mortality": 81,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Bahrain",
-    "Year": 2000,
-    "Life expectancy": 74.5,
-    "Adult Mortality": 92,
-    "infant deaths": 0
+    "Pais": "Bahrain",
+    "Any": 2000,
+    "Espervida": 74.5,
+    "Adult_Mortality": 92,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Bangladesh",
-    "Year": 2015,
-    "Life expectancy": 71.8,
-    "Adult Mortality": 129,
-    "infant deaths": 92
+    "Pais": "Bangladesh",
+    "Any": 2015,
+    "Espervida": 71.8,
+    "Adult_Mortality": 129,
+    "Infant_Deaths": 92
   },
   {
-    "Country": "Bangladesh",
-    "Year": 2010,
-    "Life expectancy": 69.9,
-    "Adult Mortality": 142,
-    "infant deaths": 126
+    "Pais": "Bangladesh",
+    "Any": 2010,
+    "Espervida": 69.9,
+    "Adult_Mortality": 142,
+    "Infant_Deaths": 126
   },
   {
-    "Country": "Bangladesh",
-    "Year": 2005,
-    "Life expectancy": 67.8,
-    "Adult Mortality": 155,
-    "infant deaths": 174
+    "Pais": "Bangladesh",
+    "Any": 2005,
+    "Espervida": 67.8,
+    "Adult_Mortality": 155,
+    "Infant_Deaths": 174
   },
   {
-    "Country": "Bangladesh",
-    "Year": 2000,
-    "Life expectancy": 65.3,
-    "Adult Mortality": 173,
-    "infant deaths": 231
+    "Pais": "Bangladesh",
+    "Any": 2000,
+    "Espervida": 65.3,
+    "Adult_Mortality": 173,
+    "Infant_Deaths": 231
   },
   {
-    "Country": "Barbados",
-    "Year": 2015,
-    "Life expectancy": 75.5,
-    "Adult Mortality": 98,
-    "infant deaths": 0
+    "Pais": "Barbados",
+    "Any": 2015,
+    "Espervida": 75.5,
+    "Adult_Mortality": 98,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Barbados",
-    "Year": 2010,
-    "Life expectancy": 74.7,
-    "Adult Mortality": 16,
-    "infant deaths": 0
+    "Pais": "Barbados",
+    "Any": 2010,
+    "Espervida": 74.7,
+    "Adult_Mortality": 16,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Barbados",
-    "Year": 2005,
-    "Life expectancy": 73.9,
-    "Adult Mortality": 117,
-    "infant deaths": 0
+    "Pais": "Barbados",
+    "Any": 2005,
+    "Espervida": 73.9,
+    "Adult_Mortality": 117,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Barbados",
-    "Year": 2000,
-    "Life expectancy": 73.3,
-    "Adult Mortality": 127,
-    "infant deaths": 0
+    "Pais": "Barbados",
+    "Any": 2000,
+    "Espervida": 73.3,
+    "Adult_Mortality": 127,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Belarus",
-    "Year": 2015,
-    "Life expectancy": 72.3,
-    "Adult Mortality": 196,
-    "infant deaths": 0
+    "Pais": "Belarus",
+    "Any": 2015,
+    "Espervida": 72.3,
+    "Adult_Mortality": 196,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Belarus",
-    "Year": 2010,
-    "Life expectancy": 73,
-    "Adult Mortality": 222,
-    "infant deaths": 0
+    "Pais": "Belarus",
+    "Any": 2010,
+    "Espervida": 73,
+    "Adult_Mortality": 222,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Belarus",
-    "Year": 2005,
-    "Life expectancy": 68.1,
-    "Adult Mortality": 252,
-    "infant deaths": 1
+    "Pais": "Belarus",
+    "Any": 2005,
+    "Espervida": 68.1,
+    "Adult_Mortality": 252,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Belarus",
-    "Year": 2000,
-    "Life expectancy": 68,
-    "Adult Mortality": 247,
-    "infant deaths": 1
+    "Pais": "Belarus",
+    "Any": 2000,
+    "Espervida": 68,
+    "Adult_Mortality": 247,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Belgium",
-    "Year": 2015,
-    "Life expectancy": 81.1,
-    "Adult Mortality": 74,
-    "infant deaths": 0
+    "Pais": "Belgium",
+    "Any": 2015,
+    "Espervida": 81.1,
+    "Adult_Mortality": 74,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Belgium",
-    "Year": 2010,
-    "Life expectancy": 80,
-    "Adult Mortality": 81,
-    "infant deaths": 0
+    "Pais": "Belgium",
+    "Any": 2010,
+    "Espervida": 80,
+    "Adult_Mortality": 81,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Belgium",
-    "Year": 2005,
-    "Life expectancy": 78.9,
-    "Adult Mortality": 89,
-    "infant deaths": 0
+    "Pais": "Belgium",
+    "Any": 2005,
+    "Espervida": 78.9,
+    "Adult_Mortality": 89,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Belgium",
-    "Year": 2000,
-    "Life expectancy": 77.6,
-    "Adult Mortality": 11,
-    "infant deaths": 1
+    "Pais": "Belgium",
+    "Any": 2000,
+    "Espervida": 77.6,
+    "Adult_Mortality": 11,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Belize",
-    "Year": 2015,
-    "Life expectancy": 71,
-    "Adult Mortality": 175,
-    "infant deaths": 0
+    "Pais": "Belize",
+    "Any": 2015,
+    "Espervida": 71,
+    "Adult_Mortality": 175,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Belize",
-    "Year": 2010,
-    "Life expectancy": 69.5,
-    "Adult Mortality": 186,
-    "infant deaths": 0
+    "Pais": "Belize",
+    "Any": 2010,
+    "Espervida": 69.5,
+    "Adult_Mortality": 186,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Belize",
-    "Year": 2005,
-    "Life expectancy": 69,
-    "Adult Mortality": 191,
-    "infant deaths": 0
+    "Pais": "Belize",
+    "Any": 2005,
+    "Espervida": 69,
+    "Adult_Mortality": 191,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Belize",
-    "Year": 2000,
-    "Life expectancy": 68.3,
-    "Adult Mortality": 196,
-    "infant deaths": 0
+    "Pais": "Belize",
+    "Any": 2000,
+    "Espervida": 68.3,
+    "Adult_Mortality": 196,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Benin",
-    "Year": 2015,
-    "Life expectancy": 60,
-    "Adult Mortality": 249,
-    "infant deaths": 25
+    "Pais": "Benin",
+    "Any": 2015,
+    "Espervida": 60,
+    "Adult_Mortality": 249,
+    "Infant_Deaths": 25
   },
   {
-    "Country": "Benin",
-    "Year": 2010,
-    "Life expectancy": 58.7,
-    "Adult Mortality": 254,
-    "infant deaths": 25
+    "Pais": "Benin",
+    "Any": 2010,
+    "Espervida": 58.7,
+    "Adult_Mortality": 254,
+    "Infant_Deaths": 25
   },
   {
-    "Country": "Benin",
-    "Year": 2005,
-    "Life expectancy": 56.5,
-    "Adult Mortality": 285,
-    "infant deaths": 25
+    "Pais": "Benin",
+    "Any": 2005,
+    "Espervida": 56.5,
+    "Adult_Mortality": 285,
+    "Infant_Deaths": 25
   },
   {
-    "Country": "Benin",
-    "Year": 2000,
-    "Life expectancy": 55.4,
-    "Adult Mortality": 279,
-    "infant deaths": 25
+    "Pais": "Benin",
+    "Any": 2000,
+    "Espervida": 55.4,
+    "Adult_Mortality": 279,
+    "Infant_Deaths": 25
   },
   {
-    "Country": "Bhutan",
-    "Year": 2015,
-    "Life expectancy": 69.8,
-    "Adult Mortality": 211,
-    "infant deaths": 0
+    "Pais": "Bhutan",
+    "Any": 2015,
+    "Espervida": 69.8,
+    "Adult_Mortality": 211,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Bhutan",
-    "Year": 2010,
-    "Life expectancy": 67.9,
-    "Adult Mortality": 228,
-    "infant deaths": 1
+    "Pais": "Bhutan",
+    "Any": 2010,
+    "Espervida": 67.9,
+    "Adult_Mortality": 228,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Bhutan",
-    "Year": 2005,
-    "Life expectancy": 65,
-    "Adult Mortality": 254,
-    "infant deaths": 1
+    "Pais": "Bhutan",
+    "Any": 2005,
+    "Espervida": 65,
+    "Adult_Mortality": 254,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Bhutan",
-    "Year": 2000,
-    "Life expectancy": 62,
-    "Adult Mortality": 312,
-    "infant deaths": 1
+    "Pais": "Bhutan",
+    "Any": 2000,
+    "Espervida": 62,
+    "Adult_Mortality": 312,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Bolivia (Plurinational State of)",
-    "Year": 2015,
-    "Life expectancy": 77,
-    "Adult Mortality": 186,
-    "infant deaths": 8
+    "Pais": "Bolivia (Plurinational State of)",
+    "Any": 2015,
+    "Espervida": 77,
+    "Adult_Mortality": 186,
+    "Infant_Deaths": 8
   },
   {
-    "Country": "Bolivia (Plurinational State of)",
-    "Year": 2010,
-    "Life expectancy": 68.7,
-    "Adult Mortality": 22,
-    "infant deaths": 9
+    "Pais": "Bolivia (Plurinational State of)",
+    "Any": 2010,
+    "Espervida": 68.7,
+    "Adult_Mortality": 22,
+    "Infant_Deaths": 9
   },
   {
-    "Country": "Bolivia (Plurinational State of)",
-    "Year": 2005,
-    "Life expectancy": 65.7,
-    "Adult Mortality": 222,
-    "infant deaths": 12
+    "Pais": "Bolivia (Plurinational State of)",
+    "Any": 2005,
+    "Espervida": 65.7,
+    "Adult_Mortality": 222,
+    "Infant_Deaths": 12
   },
   {
-    "Country": "Bolivia (Plurinational State of)",
-    "Year": 2000,
-    "Life expectancy": 62.6,
-    "Adult Mortality": 243,
-    "infant deaths": 15
+    "Pais": "Bolivia (Plurinational State of)",
+    "Any": 2000,
+    "Espervida": 62.6,
+    "Adult_Mortality": 243,
+    "Infant_Deaths": 15
   },
   {
-    "Country": "Bosnia and Herzegovina",
-    "Year": 2015,
-    "Life expectancy": 77.4,
-    "Adult Mortality": 88,
-    "infant deaths": 0
+    "Pais": "Bosnia and Herzegovina",
+    "Any": 2015,
+    "Espervida": 77.4,
+    "Adult_Mortality": 88,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Bosnia and Herzegovina",
-    "Year": 2010,
-    "Life expectancy": 76.4,
-    "Adult Mortality": 94,
-    "infant deaths": 0
+    "Pais": "Bosnia and Herzegovina",
+    "Any": 2010,
+    "Espervida": 76.4,
+    "Adult_Mortality": 94,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Bosnia and Herzegovina",
-    "Year": 2005,
-    "Life expectancy": 75,
-    "Adult Mortality": 12,
-    "infant deaths": 0
+    "Pais": "Bosnia and Herzegovina",
+    "Any": 2005,
+    "Espervida": 75,
+    "Adult_Mortality": 12,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Bosnia and Herzegovina",
-    "Year": 2000,
-    "Life expectancy": 74.6,
-    "Adult Mortality": 116,
-    "infant deaths": 0
+    "Pais": "Bosnia and Herzegovina",
+    "Any": 2000,
+    "Espervida": 74.6,
+    "Adult_Mortality": 116,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Botswana",
-    "Year": 2015,
-    "Life expectancy": 65.7,
-    "Adult Mortality": 256,
-    "infant deaths": 2
+    "Pais": "Botswana",
+    "Any": 2015,
+    "Espervida": 65.7,
+    "Adult_Mortality": 256,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Botswana",
-    "Year": 2010,
-    "Life expectancy": 61.1,
-    "Adult Mortality": 349,
-    "infant deaths": 2
+    "Pais": "Botswana",
+    "Any": 2010,
+    "Espervida": 61.1,
+    "Adult_Mortality": 349,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Botswana",
-    "Year": 2005,
-    "Life expectancy": 51.7,
-    "Adult Mortality": 566,
-    "infant deaths": 2
+    "Pais": "Botswana",
+    "Any": 2005,
+    "Espervida": 51.7,
+    "Adult_Mortality": 566,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Botswana",
-    "Year": 2000,
-    "Life expectancy": 47.8,
-    "Adult Mortality": 647,
-    "infant deaths": 2
+    "Pais": "Botswana",
+    "Any": 2000,
+    "Espervida": 47.8,
+    "Adult_Mortality": 647,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Brazil",
-    "Year": 2015,
-    "Life expectancy": 75,
-    "Adult Mortality": 142,
-    "infant deaths": 42
+    "Pais": "Brazil",
+    "Any": 2015,
+    "Espervida": 75,
+    "Adult_Mortality": 142,
+    "Infant_Deaths": 42
   },
   {
-    "Country": "Brazil",
-    "Year": 2010,
-    "Life expectancy": 73.8,
-    "Adult Mortality": 154,
-    "infant deaths": 54
+    "Pais": "Brazil",
+    "Any": 2010,
+    "Espervida": 73.8,
+    "Adult_Mortality": 154,
+    "Infant_Deaths": 54
   },
   {
-    "Country": "Brazil",
-    "Year": 2005,
-    "Life expectancy": 72.7,
-    "Adult Mortality": 163,
-    "infant deaths": 75
+    "Pais": "Brazil",
+    "Any": 2005,
+    "Espervida": 72.7,
+    "Adult_Mortality": 163,
+    "Infant_Deaths": 75
   },
   {
-    "Country": "Brazil",
-    "Year": 2000,
-    "Life expectancy": 75,
-    "Adult Mortality": 183,
-    "infant deaths": 111
+    "Pais": "Brazil",
+    "Any": 2000,
+    "Espervida": 75,
+    "Adult_Mortality": 183,
+    "Infant_Deaths": 111
   },
   {
-    "Country": "Brunei Darussalam",
-    "Year": 2015,
-    "Life expectancy": 77.7,
-    "Adult Mortality": 78,
-    "infant deaths": 0
+    "Pais": "Brunei Darussalam",
+    "Any": 2015,
+    "Espervida": 77.7,
+    "Adult_Mortality": 78,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Brunei Darussalam",
-    "Year": 2010,
-    "Life expectancy": 76.9,
-    "Adult Mortality": 79,
-    "infant deaths": 0
+    "Pais": "Brunei Darussalam",
+    "Any": 2010,
+    "Espervida": 76.9,
+    "Adult_Mortality": 79,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Brunei Darussalam",
-    "Year": 2005,
-    "Life expectancy": 76.2,
-    "Adult Mortality": 92,
-    "infant deaths": 0
+    "Pais": "Brunei Darussalam",
+    "Any": 2005,
+    "Espervida": 76.2,
+    "Adult_Mortality": 92,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Brunei Darussalam",
-    "Year": 2000,
-    "Life expectancy": 74.4,
-    "Adult Mortality": 16,
-    "infant deaths": 0
+    "Pais": "Brunei Darussalam",
+    "Any": 2000,
+    "Espervida": 74.4,
+    "Adult_Mortality": 16,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Bulgaria",
-    "Year": 2015,
-    "Life expectancy": 74.5,
-    "Adult Mortality": 137,
-    "infant deaths": 0
+    "Pais": "Bulgaria",
+    "Any": 2015,
+    "Espervida": 74.5,
+    "Adult_Mortality": 137,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Bulgaria",
-    "Year": 2010,
-    "Life expectancy": 73.4,
-    "Adult Mortality": 147,
-    "infant deaths": 1
+    "Pais": "Bulgaria",
+    "Any": 2010,
+    "Espervida": 73.4,
+    "Adult_Mortality": 147,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Bulgaria",
-    "Year": 2005,
-    "Life expectancy": 72.1,
-    "Adult Mortality": 16,
-    "infant deaths": 1
+    "Pais": "Bulgaria",
+    "Any": 2005,
+    "Espervida": 72.1,
+    "Adult_Mortality": 16,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Bulgaria",
-    "Year": 2000,
-    "Life expectancy": 71.1,
-    "Adult Mortality": 163,
-    "infant deaths": 1
+    "Pais": "Bulgaria",
+    "Any": 2000,
+    "Espervida": 71.1,
+    "Adult_Mortality": 163,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Burkina Faso",
-    "Year": 2015,
-    "Life expectancy": 59.9,
-    "Adult Mortality": 26,
-    "infant deaths": 38
+    "Pais": "Burkina Faso",
+    "Any": 2015,
+    "Espervida": 59.9,
+    "Adult_Mortality": 26,
+    "Infant_Deaths": 38
   },
   {
-    "Country": "Burkina Faso",
-    "Year": 2010,
-    "Life expectancy": 57.5,
-    "Adult Mortality": 279,
-    "infant deaths": 43
+    "Pais": "Burkina Faso",
+    "Any": 2010,
+    "Espervida": 57.5,
+    "Adult_Mortality": 279,
+    "Infant_Deaths": 43
   },
   {
-    "Country": "Burkina Faso",
-    "Year": 2005,
-    "Life expectancy": 53.3,
-    "Adult Mortality": 313,
-    "infant deaths": 48
+    "Pais": "Burkina Faso",
+    "Any": 2005,
+    "Espervida": 53.3,
+    "Adult_Mortality": 313,
+    "Infant_Deaths": 48
   },
   {
-    "Country": "Burkina Faso",
-    "Year": 2000,
-    "Life expectancy": 51,
-    "Adult Mortality": 348,
-    "infant deaths": 48
+    "Pais": "Burkina Faso",
+    "Any": 2000,
+    "Espervida": 51,
+    "Adult_Mortality": 348,
+    "Infant_Deaths": 48
   },
   {
-    "Country": "Burundi",
-    "Year": 2015,
-    "Life expectancy": 59.6,
-    "Adult Mortality": 288,
-    "infant deaths": 21
+    "Pais": "Burundi",
+    "Any": 2015,
+    "Espervida": 59.6,
+    "Adult_Mortality": 288,
+    "Infant_Deaths": 21
   },
   {
-    "Country": "Burundi",
-    "Year": 2010,
-    "Life expectancy": 56.8,
-    "Adult Mortality": 33,
-    "infant deaths": 23
+    "Pais": "Burundi",
+    "Any": 2010,
+    "Espervida": 56.8,
+    "Adult_Mortality": 33,
+    "Infant_Deaths": 23
   },
   {
-    "Country": "Burundi",
-    "Year": 2005,
-    "Life expectancy": 53.4,
-    "Adult Mortality": 369,
-    "infant deaths": 24
+    "Pais": "Burundi",
+    "Any": 2005,
+    "Espervida": 53.4,
+    "Adult_Mortality": 369,
+    "Infant_Deaths": 24
   },
   {
-    "Country": "Burundi",
-    "Year": 2000,
-    "Life expectancy": 58,
-    "Adult Mortality": 386,
-    "infant deaths": 25
+    "Pais": "Burundi",
+    "Any": 2000,
+    "Espervida": 58,
+    "Adult_Mortality": 386,
+    "Infant_Deaths": 25
   },
   {
-    "Country": "Côte d'Ivoire",
-    "Year": 2015,
-    "Life expectancy": 53.3,
-    "Adult Mortality": 397,
-    "infant deaths": 57
+    "Pais": "Côte d'Ivoire",
+    "Any": 2015,
+    "Espervida": 53.3,
+    "Adult_Mortality": 397,
+    "Infant_Deaths": 57
   },
   {
-    "Country": "Côte d'Ivoire",
-    "Year": 2010,
-    "Life expectancy": 51.5,
-    "Adult Mortality": 417,
-    "infant deaths": 60
+    "Pais": "Côte d'Ivoire",
+    "Any": 2010,
+    "Espervida": 51.5,
+    "Adult_Mortality": 417,
+    "Infant_Deaths": 60
   },
   {
-    "Country": "Côte d'Ivoire",
-    "Year": 2005,
-    "Life expectancy": 48.7,
-    "Adult Mortality": 466,
-    "infant deaths": 63
+    "Pais": "Côte d'Ivoire",
+    "Any": 2005,
+    "Espervida": 48.7,
+    "Adult_Mortality": 466,
+    "Infant_Deaths": 63
   },
   {
-    "Country": "Côte d'Ivoire",
-    "Year": 2000,
-    "Life expectancy": 47.9,
-    "Adult Mortality": 461,
-    "infant deaths": 67
+    "Pais": "Côte d'Ivoire",
+    "Any": 2000,
+    "Espervida": 47.9,
+    "Adult_Mortality": 461,
+    "Infant_Deaths": 67
   },
   {
-    "Country": "Cabo Verde",
-    "Year": 2015,
-    "Life expectancy": 73.3,
-    "Adult Mortality": 114,
-    "infant deaths": 0
+    "Pais": "Cabo Verde",
+    "Any": 2015,
+    "Espervida": 73.3,
+    "Adult_Mortality": 114,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Cabo Verde",
-    "Year": 2010,
-    "Life expectancy": 72.5,
-    "Adult Mortality": 123,
-    "infant deaths": 0
+    "Pais": "Cabo Verde",
+    "Any": 2010,
+    "Espervida": 72.5,
+    "Adult_Mortality": 123,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Cabo Verde",
-    "Year": 2005,
-    "Life expectancy": 71.8,
-    "Adult Mortality": 134,
-    "infant deaths": 0
+    "Pais": "Cabo Verde",
+    "Any": 2005,
+    "Espervida": 71.8,
+    "Adult_Mortality": 134,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Cabo Verde",
-    "Year": 2000,
-    "Life expectancy": 69.9,
-    "Adult Mortality": 155,
-    "infant deaths": 0
+    "Pais": "Cabo Verde",
+    "Any": 2000,
+    "Espervida": 69.9,
+    "Adult_Mortality": 155,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Cambodia",
-    "Year": 2015,
-    "Life expectancy": 68.7,
-    "Adult Mortality": 174,
-    "infant deaths": 10
+    "Pais": "Cambodia",
+    "Any": 2015,
+    "Espervida": 68.7,
+    "Adult_Mortality": 174,
+    "Infant_Deaths": 10
   },
   {
-    "Country": "Cambodia",
-    "Year": 2010,
-    "Life expectancy": 66.6,
-    "Adult Mortality": 192,
-    "infant deaths": 14
+    "Pais": "Cambodia",
+    "Any": 2010,
+    "Espervida": 66.6,
+    "Adult_Mortality": 192,
+    "Infant_Deaths": 14
   },
   {
-    "Country": "Cambodia",
-    "Year": 2005,
-    "Life expectancy": 62.9,
-    "Adult Mortality": 234,
-    "infant deaths": 18
+    "Pais": "Cambodia",
+    "Any": 2005,
+    "Espervida": 62.9,
+    "Adult_Mortality": 234,
+    "Infant_Deaths": 18
   },
   {
-    "Country": "Cambodia",
-    "Year": 2000,
-    "Life expectancy": 57.7,
-    "Adult Mortality": 274,
-    "infant deaths": 27
+    "Pais": "Cambodia",
+    "Any": 2000,
+    "Espervida": 57.7,
+    "Adult_Mortality": 274,
+    "Infant_Deaths": 27
   },
   {
-    "Country": "Cameroon",
-    "Year": 2015,
-    "Life expectancy": 57.3,
-    "Adult Mortality": 357,
-    "infant deaths": 45
+    "Pais": "Cameroon",
+    "Any": 2015,
+    "Espervida": 57.3,
+    "Adult_Mortality": 357,
+    "Infant_Deaths": 45
   },
   {
-    "Country": "Cameroon",
-    "Year": 2010,
-    "Life expectancy": 55.3,
-    "Adult Mortality": 37,
-    "infant deaths": 53
+    "Pais": "Cameroon",
+    "Any": 2010,
+    "Espervida": 55.3,
+    "Adult_Mortality": 37,
+    "Infant_Deaths": 53
   },
   {
-    "Country": "Cameroon",
-    "Year": 2005,
-    "Life expectancy": 52.8,
-    "Adult Mortality": 4,
-    "infant deaths": 58
+    "Pais": "Cameroon",
+    "Any": 2005,
+    "Espervida": 52.8,
+    "Adult_Mortality": 4,
+    "Infant_Deaths": 58
   },
   {
-    "Country": "Cameroon",
-    "Year": 2000,
-    "Life expectancy": 51.4,
-    "Adult Mortality": 394,
-    "infant deaths": 62
+    "Pais": "Cameroon",
+    "Any": 2000,
+    "Espervida": 51.4,
+    "Adult_Mortality": 394,
+    "Infant_Deaths": 62
   },
   {
-    "Country": "Canada",
-    "Year": 2015,
-    "Life expectancy": 82.2,
-    "Adult Mortality": 64,
-    "infant deaths": 2
+    "Pais": "Canada",
+    "Any": 2015,
+    "Espervida": 82.2,
+    "Adult_Mortality": 64,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Canada",
-    "Year": 2010,
-    "Life expectancy": 81.2,
-    "Adult Mortality": 7,
-    "infant deaths": 2
+    "Pais": "Canada",
+    "Any": 2010,
+    "Espervida": 81.2,
+    "Adult_Mortality": 7,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Canada",
-    "Year": 2005,
-    "Life expectancy": 81,
-    "Adult Mortality": 76,
-    "infant deaths": 2
+    "Pais": "Canada",
+    "Any": 2005,
+    "Espervida": 81,
+    "Adult_Mortality": 76,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Canada",
-    "Year": 2000,
-    "Life expectancy": 79.1,
-    "Adult Mortality": 82,
-    "infant deaths": 2
+    "Pais": "Canada",
+    "Any": 2000,
+    "Espervida": 79.1,
+    "Adult_Mortality": 82,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Central African Republic",
-    "Year": 2015,
-    "Life expectancy": 52.5,
-    "Adult Mortality": 397,
-    "infant deaths": 15
+    "Pais": "Central African Republic",
+    "Any": 2015,
+    "Espervida": 52.5,
+    "Adult_Mortality": 397,
+    "Infant_Deaths": 15
   },
   {
-    "Country": "Central African Republic",
-    "Year": 2010,
-    "Life expectancy": 49.2,
-    "Adult Mortality": 446,
-    "infant deaths": 17
+    "Pais": "Central African Republic",
+    "Any": 2010,
+    "Espervida": 49.2,
+    "Adult_Mortality": 446,
+    "Infant_Deaths": 17
   },
   {
-    "Country": "Central African Republic",
-    "Year": 2005,
-    "Life expectancy": 45.9,
-    "Adult Mortality": 511,
-    "infant deaths": 17
+    "Pais": "Central African Republic",
+    "Any": 2005,
+    "Espervida": 45.9,
+    "Adult_Mortality": 511,
+    "Infant_Deaths": 17
   },
   {
-    "Country": "Central African Republic",
-    "Year": 2000,
-    "Life expectancy": 46,
-    "Adult Mortality": 49,
-    "infant deaths": 16
+    "Pais": "Central African Republic",
+    "Any": 2000,
+    "Espervida": 46,
+    "Adult_Mortality": 49,
+    "Infant_Deaths": 16
   },
   {
-    "Country": "Chad",
-    "Year": 2015,
-    "Life expectancy": 53.1,
-    "Adult Mortality": 356,
-    "infant deaths": 46
+    "Pais": "Chad",
+    "Any": 2015,
+    "Espervida": 53.1,
+    "Adult_Mortality": 356,
+    "Infant_Deaths": 46
   },
   {
-    "Country": "Chad",
-    "Year": 2010,
-    "Life expectancy": 51.2,
-    "Adult Mortality": 364,
-    "infant deaths": 46
+    "Pais": "Chad",
+    "Any": 2010,
+    "Espervida": 51.2,
+    "Adult_Mortality": 364,
+    "Infant_Deaths": 46
   },
   {
-    "Country": "Chad",
-    "Year": 2005,
-    "Life expectancy": 48.6,
-    "Adult Mortality": 46,
-    "infant deaths": 45
+    "Pais": "Chad",
+    "Any": 2005,
+    "Espervida": 48.6,
+    "Adult_Mortality": 46,
+    "Infant_Deaths": 45
   },
   {
-    "Country": "Chad",
-    "Year": 2000,
-    "Life expectancy": 47.6,
-    "Adult Mortality": 44,
-    "infant deaths": 41
+    "Pais": "Chad",
+    "Any": 2000,
+    "Espervida": 47.6,
+    "Adult_Mortality": 44,
+    "Infant_Deaths": 41
   },
   {
-    "Country": "Chile",
-    "Year": 2015,
-    "Life expectancy": 85,
-    "Adult Mortality": 82,
-    "infant deaths": 2
+    "Pais": "Chile",
+    "Any": 2015,
+    "Espervida": 85,
+    "Adult_Mortality": 82,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Chile",
-    "Year": 2010,
-    "Life expectancy": 79.1,
-    "Adult Mortality": 89,
-    "infant deaths": 2
+    "Pais": "Chile",
+    "Any": 2010,
+    "Espervida": 79.1,
+    "Adult_Mortality": 89,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Chile",
-    "Year": 2005,
-    "Life expectancy": 78.4,
-    "Adult Mortality": 93,
-    "infant deaths": 2
+    "Pais": "Chile",
+    "Any": 2005,
+    "Espervida": 78.4,
+    "Adult_Mortality": 93,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Chile",
-    "Year": 2000,
-    "Life expectancy": 77.3,
-    "Adult Mortality": 13,
-    "infant deaths": 2
+    "Pais": "Chile",
+    "Any": 2000,
+    "Espervida": 77.3,
+    "Adult_Mortality": 13,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "China",
-    "Year": 2015,
-    "Life expectancy": 76.1,
-    "Adult Mortality": 85,
-    "infant deaths": 157
+    "Pais": "China",
+    "Any": 2015,
+    "Espervida": 76.1,
+    "Adult_Mortality": 85,
+    "Infant_Deaths": 157
   },
   {
-    "Country": "China",
-    "Year": 2010,
-    "Life expectancy": 75,
-    "Adult Mortality": 92,
-    "infant deaths": 231
+    "Pais": "China",
+    "Any": 2010,
+    "Espervida": 75,
+    "Adult_Mortality": 92,
+    "Infant_Deaths": 231
   },
   {
-    "Country": "China",
-    "Year": 2005,
-    "Life expectancy": 73.9,
-    "Adult Mortality": 99,
-    "infant deaths": 332
+    "Pais": "China",
+    "Any": 2005,
+    "Espervida": 73.9,
+    "Adult_Mortality": 99,
+    "Infant_Deaths": 332
   },
   {
-    "Country": "China",
-    "Year": 2000,
-    "Life expectancy": 71.7,
-    "Adult Mortality": 115,
-    "infant deaths": 490
+    "Pais": "China",
+    "Any": 2000,
+    "Espervida": 71.7,
+    "Adult_Mortality": 115,
+    "Infant_Deaths": 490
   },
   {
-    "Country": "Colombia",
-    "Year": 2015,
-    "Life expectancy": 74.8,
-    "Adult Mortality": 143,
-    "infant deaths": 10
+    "Pais": "Colombia",
+    "Any": 2015,
+    "Espervida": 74.8,
+    "Adult_Mortality": 143,
+    "Infant_Deaths": 10
   },
   {
-    "Country": "Colombia",
-    "Year": 2010,
-    "Life expectancy": 73.6,
-    "Adult Mortality": 15,
-    "infant deaths": 12
+    "Pais": "Colombia",
+    "Any": 2010,
+    "Espervida": 73.6,
+    "Adult_Mortality": 15,
+    "Infant_Deaths": 12
   },
   {
-    "Country": "Colombia",
-    "Year": 2005,
-    "Life expectancy": 73.1,
-    "Adult Mortality": 144,
-    "infant deaths": 15
+    "Pais": "Colombia",
+    "Any": 2005,
+    "Espervida": 73.1,
+    "Adult_Mortality": 144,
+    "Infant_Deaths": 15
   },
   {
-    "Country": "Colombia",
-    "Year": 2000,
-    "Life expectancy": 71.4,
-    "Adult Mortality": 167,
-    "infant deaths": 18
+    "Pais": "Colombia",
+    "Any": 2000,
+    "Espervida": 71.4,
+    "Adult_Mortality": 167,
+    "Infant_Deaths": 18
   },
   {
-    "Country": "Comoros",
-    "Year": 2015,
-    "Life expectancy": 63.5,
-    "Adult Mortality": 227,
-    "infant deaths": 1
+    "Pais": "Comoros",
+    "Any": 2015,
+    "Espervida": 63.5,
+    "Adult_Mortality": 227,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Comoros",
-    "Year": 2010,
-    "Life expectancy": 61.8,
-    "Adult Mortality": 246,
-    "infant deaths": 2
+    "Pais": "Comoros",
+    "Any": 2010,
+    "Espervida": 61.8,
+    "Adult_Mortality": 246,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Comoros",
-    "Year": 2005,
-    "Life expectancy": 60,
-    "Adult Mortality": 266,
-    "infant deaths": 2
+    "Pais": "Comoros",
+    "Any": 2005,
+    "Espervida": 60,
+    "Adult_Mortality": 266,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Comoros",
-    "Year": 2000,
-    "Life expectancy": 59.5,
-    "Adult Mortality": 272,
-    "infant deaths": 1
+    "Pais": "Comoros",
+    "Any": 2000,
+    "Espervida": 59.5,
+    "Adult_Mortality": 272,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Congo",
-    "Year": 2015,
-    "Life expectancy": 64.7,
-    "Adult Mortality": 267,
-    "infant deaths": 7
+    "Pais": "Congo",
+    "Any": 2015,
+    "Espervida": 64.7,
+    "Adult_Mortality": 267,
+    "Infant_Deaths": 7
   },
   {
-    "Country": "Congo",
-    "Year": 2010,
-    "Life expectancy": 62,
-    "Adult Mortality": 298,
-    "infant deaths": 7
+    "Pais": "Congo",
+    "Any": 2010,
+    "Espervida": 62,
+    "Adult_Mortality": 298,
+    "Infant_Deaths": 7
   },
   {
-    "Country": "Congo",
-    "Year": 2005,
-    "Life expectancy": 55.3,
-    "Adult Mortality": 394,
-    "infant deaths": 8
+    "Pais": "Congo",
+    "Any": 2005,
+    "Espervida": 55.3,
+    "Adult_Mortality": 394,
+    "Infant_Deaths": 8
   },
   {
-    "Country": "Congo",
-    "Year": 2000,
-    "Life expectancy": 52.9,
-    "Adult Mortality": 416,
-    "infant deaths": 9
+    "Pais": "Congo",
+    "Any": 2000,
+    "Espervida": 52.9,
+    "Adult_Mortality": 416,
+    "Infant_Deaths": 9
   },
   {
-    "Country": "Costa Rica",
-    "Year": 2015,
-    "Life expectancy": 79.6,
-    "Adult Mortality": 95,
-    "infant deaths": 1
+    "Pais": "Costa Rica",
+    "Any": 2015,
+    "Espervida": 79.6,
+    "Adult_Mortality": 95,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Costa Rica",
-    "Year": 2010,
-    "Life expectancy": 78.1,
-    "Adult Mortality": 16,
-    "infant deaths": 1
+    "Pais": "Costa Rica",
+    "Any": 2010,
+    "Espervida": 78.1,
+    "Adult_Mortality": 16,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Costa Rica",
-    "Year": 2005,
-    "Life expectancy": 78.6,
-    "Adult Mortality": 97,
-    "infant deaths": 1
+    "Pais": "Costa Rica",
+    "Any": 2005,
+    "Espervida": 78.6,
+    "Adult_Mortality": 97,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Costa Rica",
-    "Year": 2000,
-    "Life expectancy": 77.6,
-    "Adult Mortality": 98,
-    "infant deaths": 1
+    "Pais": "Costa Rica",
+    "Any": 2000,
+    "Espervida": 77.6,
+    "Adult_Mortality": 98,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Croatia",
-    "Year": 2015,
-    "Life expectancy": 78,
-    "Adult Mortality": 95,
-    "infant deaths": 0
+    "Pais": "Croatia",
+    "Any": 2015,
+    "Espervida": 78,
+    "Adult_Mortality": 95,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Croatia",
-    "Year": 2010,
-    "Life expectancy": 76.6,
-    "Adult Mortality": 16,
-    "infant deaths": 0
+    "Pais": "Croatia",
+    "Any": 2010,
+    "Espervida": 76.6,
+    "Adult_Mortality": 16,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Croatia",
-    "Year": 2005,
-    "Life expectancy": 75.2,
-    "Adult Mortality": 116,
-    "infant deaths": 0
+    "Pais": "Croatia",
+    "Any": 2005,
+    "Espervida": 75.2,
+    "Adult_Mortality": 116,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Croatia",
-    "Year": 2000,
-    "Life expectancy": 74.7,
-    "Adult Mortality": 127,
-    "infant deaths": 0
+    "Pais": "Croatia",
+    "Any": 2000,
+    "Espervida": 74.7,
+    "Adult_Mortality": 127,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Cuba",
-    "Year": 2015,
-    "Life expectancy": 79.1,
-    "Adult Mortality": 92,
-    "infant deaths": 1
+    "Pais": "Cuba",
+    "Any": 2015,
+    "Espervida": 79.1,
+    "Adult_Mortality": 92,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Cuba",
-    "Year": 2010,
-    "Life expectancy": 78,
-    "Adult Mortality": 98,
-    "infant deaths": 1
+    "Pais": "Cuba",
+    "Any": 2010,
+    "Espervida": 78,
+    "Adult_Mortality": 98,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Cuba",
-    "Year": 2005,
-    "Life expectancy": 77.2,
-    "Adult Mortality": 19,
-    "infant deaths": 1
+    "Pais": "Cuba",
+    "Any": 2005,
+    "Espervida": 77.2,
+    "Adult_Mortality": 19,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Cuba",
-    "Year": 2000,
-    "Life expectancy": 76.9,
-    "Adult Mortality": 115,
-    "infant deaths": 1
+    "Pais": "Cuba",
+    "Any": 2000,
+    "Espervida": 76.9,
+    "Adult_Mortality": 115,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Cyprus",
-    "Year": 2015,
-    "Life expectancy": 85,
-    "Adult Mortality": 52,
-    "infant deaths": 0
+    "Pais": "Cyprus",
+    "Any": 2015,
+    "Espervida": 85,
+    "Adult_Mortality": 52,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Cyprus",
-    "Year": 2010,
-    "Life expectancy": 79.5,
-    "Adult Mortality": 59,
-    "infant deaths": 0
+    "Pais": "Cyprus",
+    "Any": 2010,
+    "Espervida": 79.5,
+    "Adult_Mortality": 59,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Cyprus",
-    "Year": 2005,
-    "Life expectancy": 78.7,
-    "Adult Mortality": 65,
-    "infant deaths": 0
+    "Pais": "Cyprus",
+    "Any": 2005,
+    "Espervida": 78.7,
+    "Adult_Mortality": 65,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Cyprus",
-    "Year": 2000,
-    "Life expectancy": 78.1,
-    "Adult Mortality": 7,
-    "infant deaths": 0
+    "Pais": "Cyprus",
+    "Any": 2000,
+    "Espervida": 78.1,
+    "Adult_Mortality": 7,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Czechia",
-    "Year": 2015,
-    "Life expectancy": 78.8,
-    "Adult Mortality": 86,
-    "infant deaths": 0
+    "Pais": "Czechia",
+    "Any": 2015,
+    "Espervida": 78.8,
+    "Adult_Mortality": 86,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Czechia",
-    "Year": 2010,
-    "Life expectancy": 77.5,
-    "Adult Mortality": 99,
-    "infant deaths": 0
+    "Pais": "Czechia",
+    "Any": 2010,
+    "Espervida": 77.5,
+    "Adult_Mortality": 99,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Czechia",
-    "Year": 2005,
-    "Life expectancy": 75.9,
-    "Adult Mortality": 114,
-    "infant deaths": 0
+    "Pais": "Czechia",
+    "Any": 2005,
+    "Espervida": 75.9,
+    "Adult_Mortality": 114,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Czechia",
-    "Year": 2000,
-    "Life expectancy": 74.7,
-    "Adult Mortality": 126,
-    "infant deaths": 0
+    "Pais": "Czechia",
+    "Any": 2000,
+    "Espervida": 74.7,
+    "Adult_Mortality": 126,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Democratic People's Republic of Korea",
-    "Year": 2015,
-    "Life expectancy": 76,
-    "Adult Mortality": 139,
-    "infant deaths": 6
+    "Pais": "Democratic People's Republic of Korea",
+    "Any": 2015,
+    "Espervida": 76,
+    "Adult_Mortality": 139,
+    "Infant_Deaths": 6
   },
   {
-    "Country": "Democratic People's Republic of Korea",
-    "Year": 2010,
-    "Life expectancy": 69,
-    "Adult Mortality": 157,
-    "infant deaths": 8
+    "Pais": "Democratic People's Republic of Korea",
+    "Any": 2010,
+    "Espervida": 69,
+    "Adult_Mortality": 157,
+    "Infant_Deaths": 8
   },
   {
-    "Country": "Democratic People's Republic of Korea",
-    "Year": 2005,
-    "Life expectancy": 68.5,
-    "Adult Mortality": 165,
-    "infant deaths": 10
+    "Pais": "Democratic People's Republic of Korea",
+    "Any": 2005,
+    "Espervida": 68.5,
+    "Adult_Mortality": 165,
+    "Infant_Deaths": 10
   },
   {
-    "Country": "Democratic People's Republic of Korea",
-    "Year": 2000,
-    "Life expectancy": 65.4,
-    "Adult Mortality": 192,
-    "infant deaths": 18
+    "Pais": "Democratic People's Republic of Korea",
+    "Any": 2000,
+    "Espervida": 65.4,
+    "Adult_Mortality": 192,
+    "Infant_Deaths": 18
   },
   {
-    "Country": "Democratic Republic of the Congo",
-    "Year": 2015,
-    "Life expectancy": 59.8,
-    "Adult Mortality": 258,
-    "infant deaths": 236
+    "Pais": "Democratic Republic of the Congo",
+    "Any": 2015,
+    "Espervida": 59.8,
+    "Adult_Mortality": 258,
+    "Infant_Deaths": 236
   },
   {
-    "Country": "Democratic Republic of the Congo",
-    "Year": 2010,
-    "Life expectancy": 57.4,
-    "Adult Mortality": 283,
-    "infant deaths": 239
+    "Pais": "Democratic Republic of the Congo",
+    "Any": 2010,
+    "Espervida": 57.4,
+    "Adult_Mortality": 283,
+    "Infant_Deaths": 239
   },
   {
-    "Country": "Democratic Republic of the Congo",
-    "Year": 2005,
-    "Life expectancy": 54.3,
-    "Adult Mortality": 314,
-    "infant deaths": 233
+    "Pais": "Democratic Republic of the Congo",
+    "Any": 2005,
+    "Espervida": 54.3,
+    "Adult_Mortality": 314,
+    "Infant_Deaths": 233
   },
   {
-    "Country": "Democratic Republic of the Congo",
-    "Year": 2000,
-    "Life expectancy": 51.3,
-    "Adult Mortality": 346,
-    "infant deaths": 226
+    "Pais": "Democratic Republic of the Congo",
+    "Any": 2000,
+    "Espervida": 51.3,
+    "Adult_Mortality": 346,
+    "Infant_Deaths": 226
   },
   {
-    "Country": "Denmark",
-    "Year": 2015,
-    "Life expectancy": 86,
-    "Adult Mortality": 71,
-    "infant deaths": 0
+    "Pais": "Denmark",
+    "Any": 2015,
+    "Espervida": 86,
+    "Adult_Mortality": 71,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Denmark",
-    "Year": 2010,
-    "Life expectancy": 79.2,
-    "Adult Mortality": 84,
-    "infant deaths": 0
+    "Pais": "Denmark",
+    "Any": 2010,
+    "Espervida": 79.2,
+    "Adult_Mortality": 84,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Denmark",
-    "Year": 2005,
-    "Life expectancy": 78.1,
-    "Adult Mortality": 92,
-    "infant deaths": 0
+    "Pais": "Denmark",
+    "Any": 2005,
+    "Espervida": 78.1,
+    "Adult_Mortality": 92,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Denmark",
-    "Year": 2000,
-    "Life expectancy": 76.9,
-    "Adult Mortality": 12,
-    "infant deaths": 0
+    "Pais": "Denmark",
+    "Any": 2000,
+    "Espervida": 76.9,
+    "Adult_Mortality": 12,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Djibouti",
-    "Year": 2015,
-    "Life expectancy": 63.5,
-    "Adult Mortality": 241,
-    "infant deaths": 1
+    "Pais": "Djibouti",
+    "Any": 2015,
+    "Espervida": 63.5,
+    "Adult_Mortality": 241,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Djibouti",
-    "Year": 2010,
-    "Life expectancy": 61.3,
-    "Adult Mortality": 273,
-    "infant deaths": 1
+    "Pais": "Djibouti",
+    "Any": 2010,
+    "Espervida": 61.3,
+    "Adult_Mortality": 273,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Djibouti",
-    "Year": 2005,
-    "Life expectancy": 58.6,
-    "Adult Mortality": 318,
-    "infant deaths": 2
+    "Pais": "Djibouti",
+    "Any": 2005,
+    "Espervida": 58.6,
+    "Adult_Mortality": 318,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Djibouti",
-    "Year": 2000,
-    "Life expectancy": 57.4,
-    "Adult Mortality": 325,
-    "infant deaths": 2
+    "Pais": "Djibouti",
+    "Any": 2000,
+    "Espervida": 57.4,
+    "Adult_Mortality": 325,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Dominican Republic",
-    "Year": 2015,
-    "Life expectancy": 73.9,
-    "Adult Mortality": 152,
-    "infant deaths": 6
+    "Pais": "Dominican Republic",
+    "Any": 2015,
+    "Espervida": 73.9,
+    "Adult_Mortality": 152,
+    "Infant_Deaths": 6
   },
   {
-    "Country": "Dominican Republic",
-    "Year": 2010,
-    "Life expectancy": 72.7,
-    "Adult Mortality": 166,
-    "infant deaths": 6
+    "Pais": "Dominican Republic",
+    "Any": 2010,
+    "Espervida": 72.7,
+    "Adult_Mortality": 166,
+    "Infant_Deaths": 6
   },
   {
-    "Country": "Dominican Republic",
-    "Year": 2005,
-    "Life expectancy": 69.7,
-    "Adult Mortality": 28,
-    "infant deaths": 7
+    "Pais": "Dominican Republic",
+    "Any": 2005,
+    "Espervida": 69.7,
+    "Adult_Mortality": 28,
+    "Infant_Deaths": 7
   },
   {
-    "Country": "Dominican Republic",
-    "Year": 2000,
-    "Life expectancy": 72,
-    "Adult Mortality": 176,
-    "infant deaths": 7
+    "Pais": "Dominican Republic",
+    "Any": 2000,
+    "Espervida": 72,
+    "Adult_Mortality": 176,
+    "Infant_Deaths": 7
   },
   {
-    "Country": "Ecuador",
-    "Year": 2015,
-    "Life expectancy": 76.2,
-    "Adult Mortality": 118,
-    "infant deaths": 6
+    "Pais": "Ecuador",
+    "Any": 2015,
+    "Espervida": 76.2,
+    "Adult_Mortality": 118,
+    "Infant_Deaths": 6
   },
   {
-    "Country": "Ecuador",
-    "Year": 2010,
-    "Life expectancy": 75,
-    "Adult Mortality": 134,
-    "infant deaths": 7
+    "Pais": "Ecuador",
+    "Any": 2010,
+    "Espervida": 75,
+    "Adult_Mortality": 134,
+    "Infant_Deaths": 7
   },
   {
-    "Country": "Ecuador",
-    "Year": 2005,
-    "Life expectancy": 74.2,
-    "Adult Mortality": 151,
-    "infant deaths": 8
+    "Pais": "Ecuador",
+    "Any": 2005,
+    "Espervida": 74.2,
+    "Adult_Mortality": 151,
+    "Infant_Deaths": 8
   },
   {
-    "Country": "Ecuador",
-    "Year": 2000,
-    "Life expectancy": 72.8,
-    "Adult Mortality": 163,
-    "infant deaths": 9
+    "Pais": "Ecuador",
+    "Any": 2000,
+    "Espervida": 72.8,
+    "Adult_Mortality": 163,
+    "Infant_Deaths": 9
   },
   {
-    "Country": "Egypt",
-    "Year": 2015,
-    "Life expectancy": 79,
-    "Adult Mortality": 159,
-    "infant deaths": 51
+    "Pais": "Egypt",
+    "Any": 2015,
+    "Espervida": 79,
+    "Adult_Mortality": 159,
+    "Infant_Deaths": 51
   },
   {
-    "Country": "Egypt",
-    "Year": 2010,
-    "Life expectancy": 70,
-    "Adult Mortality": 173,
-    "infant deaths": 54
+    "Pais": "Egypt",
+    "Any": 2010,
+    "Espervida": 70,
+    "Adult_Mortality": 173,
+    "Infant_Deaths": 54
   },
   {
-    "Country": "Egypt",
-    "Year": 2005,
-    "Life expectancy": 69.4,
-    "Adult Mortality": 174,
-    "infant deaths": 56
+    "Pais": "Egypt",
+    "Any": 2005,
+    "Espervida": 69.4,
+    "Adult_Mortality": 174,
+    "Infant_Deaths": 56
   },
   {
-    "Country": "Egypt",
-    "Year": 2000,
-    "Life expectancy": 68.8,
-    "Adult Mortality": 171,
-    "infant deaths": 65
+    "Pais": "Egypt",
+    "Any": 2000,
+    "Espervida": 68.8,
+    "Adult_Mortality": 171,
+    "Infant_Deaths": 65
   },
   {
-    "Country": "El Salvador",
-    "Year": 2015,
-    "Life expectancy": 73.5,
-    "Adult Mortality": 178,
-    "infant deaths": 2
+    "Pais": "El Salvador",
+    "Any": 2015,
+    "Espervida": 73.5,
+    "Adult_Mortality": 178,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "El Salvador",
-    "Year": 2010,
-    "Life expectancy": 72,
-    "Adult Mortality": 191,
-    "infant deaths": 2
+    "Pais": "El Salvador",
+    "Any": 2010,
+    "Espervida": 72,
+    "Adult_Mortality": 191,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "El Salvador",
-    "Year": 2005,
-    "Life expectancy": 71,
-    "Adult Mortality": 213,
-    "infant deaths": 3
+    "Pais": "El Salvador",
+    "Any": 2005,
+    "Espervida": 71,
+    "Adult_Mortality": 213,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "El Salvador",
-    "Year": 2000,
-    "Life expectancy": 69,
-    "Adult Mortality": 218,
-    "infant deaths": 4
+    "Pais": "El Salvador",
+    "Any": 2000,
+    "Espervida": 69,
+    "Adult_Mortality": 218,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Equatorial Guinea",
-    "Year": 2015,
-    "Life expectancy": 58.2,
-    "Adult Mortality": 32,
-    "infant deaths": 3
+    "Pais": "Equatorial Guinea",
+    "Any": 2015,
+    "Espervida": 58.2,
+    "Adult_Mortality": 32,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Equatorial Guinea",
-    "Year": 2010,
-    "Life expectancy": 56.1,
-    "Adult Mortality": 339,
-    "infant deaths": 3
+    "Pais": "Equatorial Guinea",
+    "Any": 2010,
+    "Espervida": 56.1,
+    "Adult_Mortality": 339,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Equatorial Guinea",
-    "Year": 2005,
-    "Life expectancy": 54.4,
-    "Adult Mortality": 337,
-    "infant deaths": 3
+    "Pais": "Equatorial Guinea",
+    "Any": 2005,
+    "Espervida": 54.4,
+    "Adult_Mortality": 337,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Equatorial Guinea",
-    "Year": 2000,
-    "Life expectancy": 52.7,
-    "Adult Mortality": 336,
-    "infant deaths": 3
+    "Pais": "Equatorial Guinea",
+    "Any": 2000,
+    "Espervida": 52.7,
+    "Adult_Mortality": 336,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Eritrea",
-    "Year": 2015,
-    "Life expectancy": 64.7,
-    "Adult Mortality": 255,
-    "infant deaths": 5
+    "Pais": "Eritrea",
+    "Any": 2015,
+    "Espervida": 64.7,
+    "Adult_Mortality": 255,
+    "Infant_Deaths": 5
   },
   {
-    "Country": "Eritrea",
-    "Year": 2010,
-    "Life expectancy": 62.1,
-    "Adult Mortality": 298,
-    "infant deaths": 6
+    "Pais": "Eritrea",
+    "Any": 2010,
+    "Espervida": 62.1,
+    "Adult_Mortality": 298,
+    "Infant_Deaths": 6
   },
   {
-    "Country": "Eritrea",
-    "Year": 2005,
-    "Life expectancy": 59.4,
-    "Adult Mortality": 34,
-    "infant deaths": 7
+    "Pais": "Eritrea",
+    "Any": 2005,
+    "Espervida": 59.4,
+    "Adult_Mortality": 34,
+    "Infant_Deaths": 7
   },
   {
-    "Country": "Eritrea",
-    "Year": 2000,
-    "Life expectancy": 45.3,
-    "Adult Mortality": 593,
-    "infant deaths": 7
+    "Pais": "Eritrea",
+    "Any": 2000,
+    "Espervida": 45.3,
+    "Adult_Mortality": 593,
+    "Infant_Deaths": 7
   },
   {
-    "Country": "Estonia",
-    "Year": 2015,
-    "Life expectancy": 77.6,
-    "Adult Mortality": 119,
-    "infant deaths": 0
+    "Pais": "Estonia",
+    "Any": 2015,
+    "Espervida": 77.6,
+    "Adult_Mortality": 119,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Estonia",
-    "Year": 2010,
-    "Life expectancy": 75.6,
-    "Adult Mortality": 137,
-    "infant deaths": 0
+    "Pais": "Estonia",
+    "Any": 2010,
+    "Espervida": 75.6,
+    "Adult_Mortality": 137,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Estonia",
-    "Year": 2005,
-    "Life expectancy": 72.8,
-    "Adult Mortality": 189,
-    "infant deaths": 0
+    "Pais": "Estonia",
+    "Any": 2005,
+    "Espervida": 72.8,
+    "Adult_Mortality": 189,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Estonia",
-    "Year": 2000,
-    "Life expectancy": 78,
-    "Adult Mortality": 218,
-    "infant deaths": 0
+    "Pais": "Estonia",
+    "Any": 2000,
+    "Espervida": 78,
+    "Adult_Mortality": 218,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Ethiopia",
-    "Year": 2015,
-    "Life expectancy": 64.8,
-    "Adult Mortality": 225,
-    "infant deaths": 136
+    "Pais": "Ethiopia",
+    "Any": 2015,
+    "Espervida": 64.8,
+    "Adult_Mortality": 225,
+    "Infant_Deaths": 136
   },
   {
-    "Country": "Ethiopia",
-    "Year": 2010,
-    "Life expectancy": 61.8,
-    "Adult Mortality": 261,
-    "infant deaths": 162
+    "Pais": "Ethiopia",
+    "Any": 2010,
+    "Espervida": 61.8,
+    "Adult_Mortality": 261,
+    "Infant_Deaths": 162
   },
   {
-    "Country": "Ethiopia",
-    "Year": 2005,
-    "Life expectancy": 56,
-    "Adult Mortality": 343,
-    "infant deaths": 206
+    "Pais": "Ethiopia",
+    "Any": 2005,
+    "Espervida": 56,
+    "Adult_Mortality": 343,
+    "Infant_Deaths": 206
   },
   {
-    "Country": "Ethiopia",
-    "Year": 2000,
-    "Life expectancy": 51.2,
-    "Adult Mortality": 391,
-    "infant deaths": 253
+    "Pais": "Ethiopia",
+    "Any": 2000,
+    "Espervida": 51.2,
+    "Adult_Mortality": 391,
+    "Infant_Deaths": 253
   },
   {
-    "Country": "Fiji",
-    "Year": 2015,
-    "Life expectancy": 69.9,
-    "Adult Mortality": 188,
-    "infant deaths": 0
+    "Pais": "Fiji",
+    "Any": 2015,
+    "Espervida": 69.9,
+    "Adult_Mortality": 188,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Fiji",
-    "Year": 2010,
-    "Life expectancy": 69.1,
-    "Adult Mortality": 2,
-    "infant deaths": 0
+    "Pais": "Fiji",
+    "Any": 2010,
+    "Espervida": 69.1,
+    "Adult_Mortality": 2,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Fiji",
-    "Year": 2005,
-    "Life expectancy": 68.3,
-    "Adult Mortality": 214,
-    "infant deaths": 0
+    "Pais": "Fiji",
+    "Any": 2005,
+    "Espervida": 68.3,
+    "Adult_Mortality": 214,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Fiji",
-    "Year": 2000,
-    "Life expectancy": 67.7,
-    "Adult Mortality": 221,
-    "infant deaths": 0
+    "Pais": "Fiji",
+    "Any": 2000,
+    "Espervida": 67.7,
+    "Adult_Mortality": 221,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Finland",
-    "Year": 2015,
-    "Life expectancy": 81.1,
-    "Adult Mortality": 76,
-    "infant deaths": 0
+    "Pais": "Finland",
+    "Any": 2015,
+    "Espervida": 81.1,
+    "Adult_Mortality": 76,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Finland",
-    "Year": 2010,
-    "Life expectancy": 79.9,
-    "Adult Mortality": 89,
-    "infant deaths": 0
+    "Pais": "Finland",
+    "Any": 2010,
+    "Espervida": 79.9,
+    "Adult_Mortality": 89,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Finland",
-    "Year": 2005,
-    "Life expectancy": 78.9,
-    "Adult Mortality": 11,
-    "infant deaths": 0
+    "Pais": "Finland",
+    "Any": 2005,
+    "Espervida": 78.9,
+    "Adult_Mortality": 11,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Finland",
-    "Year": 2000,
-    "Life expectancy": 77.5,
-    "Adult Mortality": 15,
-    "infant deaths": 0
+    "Pais": "Finland",
+    "Any": 2000,
+    "Espervida": 77.5,
+    "Adult_Mortality": 15,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "France",
-    "Year": 2015,
-    "Life expectancy": 82.4,
-    "Adult Mortality": 78,
-    "infant deaths": 2
+    "Pais": "France",
+    "Any": 2015,
+    "Espervida": 82.4,
+    "Adult_Mortality": 78,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "France",
-    "Year": 2010,
-    "Life expectancy": 81.3,
-    "Adult Mortality": 86,
-    "infant deaths": 3
+    "Pais": "France",
+    "Any": 2010,
+    "Espervida": 81.3,
+    "Adult_Mortality": 86,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "France",
-    "Year": 2005,
-    "Life expectancy": 81,
-    "Adult Mortality": 93,
-    "infant deaths": 3
+    "Pais": "France",
+    "Any": 2005,
+    "Espervida": 81,
+    "Adult_Mortality": 93,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "France",
-    "Year": 2000,
-    "Life expectancy": 78.8,
-    "Adult Mortality": 13,
-    "infant deaths": 3
+    "Pais": "France",
+    "Any": 2000,
+    "Espervida": 78.8,
+    "Adult_Mortality": 13,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Gabon",
-    "Year": 2015,
-    "Life expectancy": 66,
-    "Adult Mortality": 229,
-    "infant deaths": 2
+    "Pais": "Gabon",
+    "Any": 2015,
+    "Espervida": 66,
+    "Adult_Mortality": 229,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Gabon",
-    "Year": 2010,
-    "Life expectancy": 62.3,
-    "Adult Mortality": 294,
-    "infant deaths": 2
+    "Pais": "Gabon",
+    "Any": 2010,
+    "Espervida": 62.3,
+    "Adult_Mortality": 294,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Gabon",
-    "Year": 2005,
-    "Life expectancy": 65,
-    "Adult Mortality": 37,
-    "infant deaths": 2
+    "Pais": "Gabon",
+    "Any": 2005,
+    "Espervida": 65,
+    "Adult_Mortality": 37,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Gabon",
-    "Year": 2000,
-    "Life expectancy": 61,
-    "Adult Mortality": 296,
-    "infant deaths": 2
+    "Pais": "Gabon",
+    "Any": 2000,
+    "Espervida": 61,
+    "Adult_Mortality": 296,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Gambia",
-    "Year": 2015,
-    "Life expectancy": 61.1,
-    "Adult Mortality": 262,
-    "infant deaths": 3
+    "Pais": "Gambia",
+    "Any": 2015,
+    "Espervida": 61.1,
+    "Adult_Mortality": 262,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Gambia",
-    "Year": 2010,
-    "Life expectancy": 59.3,
-    "Adult Mortality": 284,
-    "infant deaths": 3
+    "Pais": "Gambia",
+    "Any": 2010,
+    "Espervida": 59.3,
+    "Adult_Mortality": 284,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Gambia",
-    "Year": 2005,
-    "Life expectancy": 57.7,
-    "Adult Mortality": 294,
-    "infant deaths": 3
+    "Pais": "Gambia",
+    "Any": 2005,
+    "Espervida": 57.7,
+    "Adult_Mortality": 294,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Gambia",
-    "Year": 2000,
-    "Life expectancy": 55.9,
-    "Adult Mortality": 33,
-    "infant deaths": 3
+    "Pais": "Gambia",
+    "Any": 2000,
+    "Espervida": 55.9,
+    "Adult_Mortality": 33,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Georgia",
-    "Year": 2015,
-    "Life expectancy": 74.4,
-    "Adult Mortality": 129,
-    "infant deaths": 1
+    "Pais": "Georgia",
+    "Any": 2015,
+    "Espervida": 74.4,
+    "Adult_Mortality": 129,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Georgia",
-    "Year": 2010,
-    "Life expectancy": 73.8,
-    "Adult Mortality": 132,
-    "infant deaths": 1
+    "Pais": "Georgia",
+    "Any": 2010,
+    "Espervida": 73.8,
+    "Adult_Mortality": 132,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Georgia",
-    "Year": 2005,
-    "Life expectancy": 73.9,
-    "Adult Mortality": 128,
-    "infant deaths": 1
+    "Pais": "Georgia",
+    "Any": 2005,
+    "Espervida": 73.9,
+    "Adult_Mortality": 128,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Georgia",
-    "Year": 2000,
-    "Life expectancy": 71.8,
-    "Adult Mortality": 129,
-    "infant deaths": 2
+    "Pais": "Georgia",
+    "Any": 2000,
+    "Espervida": 71.8,
+    "Adult_Mortality": 129,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Germany",
-    "Year": 2015,
-    "Life expectancy": 81,
-    "Adult Mortality": 68,
-    "infant deaths": 2
+    "Pais": "Germany",
+    "Any": 2015,
+    "Espervida": 81,
+    "Adult_Mortality": 68,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Germany",
-    "Year": 2010,
-    "Life expectancy": 81,
-    "Adult Mortality": 76,
-    "infant deaths": 2
+    "Pais": "Germany",
+    "Any": 2010,
+    "Espervida": 81,
+    "Adult_Mortality": 76,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Germany",
-    "Year": 2005,
-    "Life expectancy": 79.2,
-    "Adult Mortality": 85,
-    "infant deaths": 3
+    "Pais": "Germany",
+    "Any": 2005,
+    "Espervida": 79.2,
+    "Adult_Mortality": 85,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Germany",
-    "Year": 2000,
-    "Life expectancy": 78,
-    "Adult Mortality": 95,
-    "infant deaths": 3
+    "Pais": "Germany",
+    "Any": 2000,
+    "Espervida": 78,
+    "Adult_Mortality": 95,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Ghana",
-    "Year": 2015,
-    "Life expectancy": 62.4,
-    "Adult Mortality": 249,
-    "infant deaths": 37
+    "Pais": "Ghana",
+    "Any": 2015,
+    "Espervida": 62.4,
+    "Adult_Mortality": 249,
+    "Infant_Deaths": 37
   },
   {
-    "Country": "Ghana",
-    "Year": 2010,
-    "Life expectancy": 69,
-    "Adult Mortality": 267,
-    "infant deaths": 40
+    "Pais": "Ghana",
+    "Any": 2010,
+    "Espervida": 69,
+    "Adult_Mortality": 267,
+    "Infant_Deaths": 40
   },
   {
-    "Country": "Ghana",
-    "Year": 2005,
-    "Life expectancy": 58.9,
-    "Adult Mortality": 296,
-    "infant deaths": 41
+    "Pais": "Ghana",
+    "Any": 2005,
+    "Espervida": 58.9,
+    "Adult_Mortality": 296,
+    "Infant_Deaths": 41
   },
   {
-    "Country": "Ghana",
-    "Year": 2000,
-    "Life expectancy": 57.2,
-    "Adult Mortality": 38,
-    "infant deaths": 43
+    "Pais": "Ghana",
+    "Any": 2000,
+    "Espervida": 57.2,
+    "Adult_Mortality": 38,
+    "Infant_Deaths": 43
   },
   {
-    "Country": "Greece",
-    "Year": 2015,
-    "Life expectancy": 81,
-    "Adult Mortality": 72,
-    "infant deaths": 0
+    "Pais": "Greece",
+    "Any": 2015,
+    "Espervida": 81,
+    "Adult_Mortality": 72,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Greece",
-    "Year": 2010,
-    "Life expectancy": 83,
-    "Adult Mortality": 76,
-    "infant deaths": 0
+    "Pais": "Greece",
+    "Any": 2010,
+    "Espervida": 83,
+    "Adult_Mortality": 76,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Greece",
-    "Year": 2005,
-    "Life expectancy": 79.3,
-    "Adult Mortality": 81,
-    "infant deaths": 0
+    "Pais": "Greece",
+    "Any": 2005,
+    "Espervida": 79.3,
+    "Adult_Mortality": 81,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Greece",
-    "Year": 2000,
-    "Life expectancy": 78.2,
-    "Adult Mortality": 84,
-    "infant deaths": 1
+    "Pais": "Greece",
+    "Any": 2000,
+    "Espervida": 78.2,
+    "Adult_Mortality": 84,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Grenada",
-    "Year": 2015,
-    "Life expectancy": 73.6,
-    "Adult Mortality": 142,
-    "infant deaths": 0
+    "Pais": "Grenada",
+    "Any": 2015,
+    "Espervida": 73.6,
+    "Adult_Mortality": 142,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Grenada",
-    "Year": 2010,
-    "Life expectancy": 72.6,
-    "Adult Mortality": 154,
-    "infant deaths": 0
+    "Pais": "Grenada",
+    "Any": 2010,
+    "Espervida": 72.6,
+    "Adult_Mortality": 154,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Grenada",
-    "Year": 2005,
-    "Life expectancy": 71.5,
-    "Adult Mortality": 169,
-    "infant deaths": 0
+    "Pais": "Grenada",
+    "Any": 2005,
+    "Espervida": 71.5,
+    "Adult_Mortality": 169,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Grenada",
-    "Year": 2000,
-    "Life expectancy": 74,
-    "Adult Mortality": 182,
-    "infant deaths": 0
+    "Pais": "Grenada",
+    "Any": 2000,
+    "Espervida": 74,
+    "Adult_Mortality": 182,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Guatemala",
-    "Year": 2015,
-    "Life expectancy": 71.9,
-    "Adult Mortality": 186,
-    "infant deaths": 10
+    "Pais": "Guatemala",
+    "Any": 2015,
+    "Espervida": 71.9,
+    "Adult_Mortality": 186,
+    "Infant_Deaths": 10
   },
   {
-    "Country": "Guatemala",
-    "Year": 2010,
-    "Life expectancy": 77,
-    "Adult Mortality": 196,
-    "infant deaths": 12
+    "Pais": "Guatemala",
+    "Any": 2010,
+    "Espervida": 77,
+    "Adult_Mortality": 196,
+    "Infant_Deaths": 12
   },
   {
-    "Country": "Guatemala",
-    "Year": 2005,
-    "Life expectancy": 69.2,
-    "Adult Mortality": 28,
-    "infant deaths": 14
+    "Pais": "Guatemala",
+    "Any": 2005,
+    "Espervida": 69.2,
+    "Adult_Mortality": 28,
+    "Infant_Deaths": 14
   },
   {
-    "Country": "Guatemala",
-    "Year": 2000,
-    "Life expectancy": 67.7,
-    "Adult Mortality": 221,
-    "infant deaths": 17
+    "Pais": "Guatemala",
+    "Any": 2000,
+    "Espervida": 67.7,
+    "Adult_Mortality": 221,
+    "Infant_Deaths": 17
   },
   {
-    "Country": "Guinea",
-    "Year": 2015,
-    "Life expectancy": 59,
-    "Adult Mortality": 284,
-    "infant deaths": 26
+    "Pais": "Guinea",
+    "Any": 2015,
+    "Espervida": 59,
+    "Adult_Mortality": 284,
+    "Infant_Deaths": 26
   },
   {
-    "Country": "Guinea",
-    "Year": 2010,
-    "Life expectancy": 57.8,
-    "Adult Mortality": 291,
-    "infant deaths": 29
+    "Pais": "Guinea",
+    "Any": 2010,
+    "Espervida": 57.8,
+    "Adult_Mortality": 291,
+    "Infant_Deaths": 29
   },
   {
-    "Country": "Guinea",
-    "Year": 2005,
-    "Life expectancy": 54.7,
-    "Adult Mortality": 327,
-    "infant deaths": 32
+    "Pais": "Guinea",
+    "Any": 2005,
+    "Espervida": 54.7,
+    "Adult_Mortality": 327,
+    "Infant_Deaths": 32
   },
   {
-    "Country": "Guinea",
-    "Year": 2000,
-    "Life expectancy": 52.5,
-    "Adult Mortality": 328,
-    "infant deaths": 37
+    "Pais": "Guinea",
+    "Any": 2000,
+    "Espervida": 52.5,
+    "Adult_Mortality": 328,
+    "Infant_Deaths": 37
   },
   {
-    "Country": "Guinea-Bissau",
-    "Year": 2015,
-    "Life expectancy": 58.9,
-    "Adult Mortality": 275,
-    "infant deaths": 4
+    "Pais": "Guinea-Bissau",
+    "Any": 2015,
+    "Espervida": 58.9,
+    "Adult_Mortality": 275,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Guinea-Bissau",
-    "Year": 2010,
-    "Life expectancy": 56.7,
-    "Adult Mortality": 287,
-    "infant deaths": 4
+    "Pais": "Guinea-Bissau",
+    "Any": 2010,
+    "Espervida": 56.7,
+    "Adult_Mortality": 287,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Guinea-Bissau",
-    "Year": 2005,
-    "Life expectancy": 53.9,
-    "Adult Mortality": 37,
-    "infant deaths": 5
+    "Pais": "Guinea-Bissau",
+    "Any": 2005,
+    "Espervida": 53.9,
+    "Adult_Mortality": 37,
+    "Infant_Deaths": 5
   },
   {
-    "Country": "Guinea-Bissau",
-    "Year": 2000,
-    "Life expectancy": 52.1,
-    "Adult Mortality": 3,
-    "infant deaths": 5
+    "Pais": "Guinea-Bissau",
+    "Any": 2000,
+    "Espervida": 52.1,
+    "Adult_Mortality": 3,
+    "Infant_Deaths": 5
   },
   {
-    "Country": "Guyana",
-    "Year": 2015,
-    "Life expectancy": 66.2,
-    "Adult Mortality": 215,
-    "infant deaths": 0
+    "Pais": "Guyana",
+    "Any": 2015,
+    "Espervida": 66.2,
+    "Adult_Mortality": 215,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Guyana",
-    "Year": 2010,
-    "Life expectancy": 65.9,
-    "Adult Mortality": 221,
-    "infant deaths": 0
+    "Pais": "Guyana",
+    "Any": 2010,
+    "Espervida": 65.9,
+    "Adult_Mortality": 221,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Guyana",
-    "Year": 2005,
-    "Life expectancy": 65,
-    "Adult Mortality": 238,
-    "infant deaths": 1
+    "Pais": "Guyana",
+    "Any": 2005,
+    "Espervida": 65,
+    "Adult_Mortality": 238,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Guyana",
-    "Year": 2000,
-    "Life expectancy": 65.4,
-    "Adult Mortality": 246,
-    "infant deaths": 1
+    "Pais": "Guyana",
+    "Any": 2000,
+    "Espervida": 65.4,
+    "Adult_Mortality": 246,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Haiti",
-    "Year": 2015,
-    "Life expectancy": 63.5,
-    "Adult Mortality": 24,
-    "infant deaths": 14
+    "Pais": "Haiti",
+    "Any": 2015,
+    "Espervida": 63.5,
+    "Adult_Mortality": 24,
+    "Infant_Deaths": 14
   },
   {
-    "Country": "Haiti",
-    "Year": 2010,
-    "Life expectancy": 36.3,
-    "Adult Mortality": 682,
-    "infant deaths": 23
+    "Pais": "Haiti",
+    "Any": 2010,
+    "Espervida": 36.3,
+    "Adult_Mortality": 682,
+    "Infant_Deaths": 23
   },
   {
-    "Country": "Haiti",
-    "Year": 2005,
-    "Life expectancy": 65,
-    "Adult Mortality": 29,
-    "infant deaths": 17
+    "Pais": "Haiti",
+    "Any": 2005,
+    "Espervida": 65,
+    "Adult_Mortality": 29,
+    "Infant_Deaths": 17
   },
   {
-    "Country": "Haiti",
-    "Year": 2000,
-    "Life expectancy": 58.6,
-    "Adult Mortality": 35,
-    "infant deaths": 20
+    "Pais": "Haiti",
+    "Any": 2000,
+    "Espervida": 58.6,
+    "Adult_Mortality": 35,
+    "Infant_Deaths": 20
   },
   {
-    "Country": "Honduras",
-    "Year": 2015,
-    "Life expectancy": 74.6,
-    "Adult Mortality": 147,
-    "infant deaths": 3
+    "Pais": "Honduras",
+    "Any": 2015,
+    "Espervida": 74.6,
+    "Adult_Mortality": 147,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Honduras",
-    "Year": 2010,
-    "Life expectancy": 73.6,
-    "Adult Mortality": 156,
-    "infant deaths": 4
+    "Pais": "Honduras",
+    "Any": 2010,
+    "Espervida": 73.6,
+    "Adult_Mortality": 156,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Honduras",
-    "Year": 2005,
-    "Life expectancy": 72.5,
-    "Adult Mortality": 163,
-    "infant deaths": 5
+    "Pais": "Honduras",
+    "Any": 2005,
+    "Espervida": 72.5,
+    "Adult_Mortality": 163,
+    "Infant_Deaths": 5
   },
   {
-    "Country": "Honduras",
-    "Year": 2000,
-    "Life expectancy": 71,
-    "Adult Mortality": 174,
-    "infant deaths": 6
+    "Pais": "Honduras",
+    "Any": 2000,
+    "Espervida": 71,
+    "Adult_Mortality": 174,
+    "Infant_Deaths": 6
   },
   {
-    "Country": "Hungary",
-    "Year": 2015,
-    "Life expectancy": 75.8,
-    "Adult Mortality": 134,
-    "infant deaths": 0
+    "Pais": "Hungary",
+    "Any": 2015,
+    "Espervida": 75.8,
+    "Adult_Mortality": 134,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Hungary",
-    "Year": 2010,
-    "Life expectancy": 74.5,
-    "Adult Mortality": 156,
-    "infant deaths": 0
+    "Pais": "Hungary",
+    "Any": 2010,
+    "Espervida": 74.5,
+    "Adult_Mortality": 156,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Hungary",
-    "Year": 2005,
-    "Life expectancy": 72.9,
-    "Adult Mortality": 182,
-    "infant deaths": 1
+    "Pais": "Hungary",
+    "Any": 2005,
+    "Espervida": 72.9,
+    "Adult_Mortality": 182,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Hungary",
-    "Year": 2000,
-    "Life expectancy": 71.7,
-    "Adult Mortality": 193,
-    "infant deaths": 1
+    "Pais": "Hungary",
+    "Any": 2000,
+    "Espervida": 71.7,
+    "Adult_Mortality": 193,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Iceland",
-    "Year": 2015,
-    "Life expectancy": 82.7,
-    "Adult Mortality": 49,
-    "infant deaths": 0
+    "Pais": "Iceland",
+    "Any": 2015,
+    "Espervida": 82.7,
+    "Adult_Mortality": 49,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Iceland",
-    "Year": 2010,
-    "Life expectancy": 81.8,
-    "Adult Mortality": 53,
-    "infant deaths": 0
+    "Pais": "Iceland",
+    "Any": 2010,
+    "Espervida": 81.8,
+    "Adult_Mortality": 53,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Iceland",
-    "Year": 2005,
-    "Life expectancy": 81,
-    "Adult Mortality": 62,
-    "infant deaths": 0
+    "Pais": "Iceland",
+    "Any": 2005,
+    "Espervida": 81,
+    "Adult_Mortality": 62,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Iceland",
-    "Year": 2000,
-    "Life expectancy": 79.7,
-    "Adult Mortality": 74,
-    "infant deaths": 0
+    "Pais": "Iceland",
+    "Any": 2000,
+    "Espervida": 79.7,
+    "Adult_Mortality": 74,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "India",
-    "Year": 2015,
-    "Life expectancy": 68.3,
-    "Adult Mortality": 181,
-    "infant deaths": 910
+    "Pais": "India",
+    "Any": 2015,
+    "Espervida": 68.3,
+    "Adult_Mortality": 181,
+    "Infant_Deaths": 910
   },
   {
-    "Country": "India",
-    "Year": 2010,
-    "Life expectancy": 66.4,
-    "Adult Mortality": 196,
-    "infant deaths": 1200
+    "Pais": "India",
+    "Any": 2010,
+    "Espervida": 66.4,
+    "Adult_Mortality": 196,
+    "Infant_Deaths": 1200
   },
   {
-    "Country": "India",
-    "Year": 2005,
-    "Life expectancy": 64.4,
-    "Adult Mortality": 211,
-    "infant deaths": 1500
+    "Pais": "India",
+    "Any": 2005,
+    "Espervida": 64.4,
+    "Adult_Mortality": 211,
+    "Infant_Deaths": 1500
   },
   {
-    "Country": "India",
-    "Year": 2000,
-    "Life expectancy": 62.5,
-    "Adult Mortality": 224,
-    "infant deaths": 1800
+    "Pais": "India",
+    "Any": 2000,
+    "Espervida": 62.5,
+    "Adult_Mortality": 224,
+    "Infant_Deaths": 1800
   },
   {
-    "Country": "Indonesia",
-    "Year": 2015,
-    "Life expectancy": 69.1,
-    "Adult Mortality": 176,
-    "infant deaths": 114
+    "Pais": "Indonesia",
+    "Any": 2015,
+    "Espervida": 69.1,
+    "Adult_Mortality": 176,
+    "Infant_Deaths": 114
   },
   {
-    "Country": "Indonesia",
-    "Year": 2010,
-    "Life expectancy": 68.1,
-    "Adult Mortality": 187,
-    "infant deaths": 138
+    "Pais": "Indonesia",
+    "Any": 2010,
+    "Espervida": 68.1,
+    "Adult_Mortality": 187,
+    "Infant_Deaths": 138
   },
   {
-    "Country": "Indonesia",
-    "Year": 2005,
-    "Life expectancy": 67.2,
-    "Adult Mortality": 19,
-    "infant deaths": 163
+    "Pais": "Indonesia",
+    "Any": 2005,
+    "Espervida": 67.2,
+    "Adult_Mortality": 19,
+    "Infant_Deaths": 163
   },
   {
-    "Country": "Indonesia",
-    "Year": 2000,
-    "Life expectancy": 66.3,
-    "Adult Mortality": 188,
-    "infant deaths": 187
+    "Pais": "Indonesia",
+    "Any": 2000,
+    "Espervida": 66.3,
+    "Adult_Mortality": 188,
+    "Infant_Deaths": 187
   },
   {
-    "Country": "Iran (Islamic Republic of)",
-    "Year": 2015,
-    "Life expectancy": 75.5,
-    "Adult Mortality": 83,
-    "infant deaths": 18
+    "Pais": "Iran (Islamic Republic of)",
+    "Any": 2015,
+    "Espervida": 75.5,
+    "Adult_Mortality": 83,
+    "Infant_Deaths": 18
   },
   {
-    "Country": "Iran (Islamic Republic of)",
-    "Year": 2010,
-    "Life expectancy": 74.1,
-    "Adult Mortality": 16,
-    "infant deaths": 22
+    "Pais": "Iran (Islamic Republic of)",
+    "Any": 2010,
+    "Espervida": 74.1,
+    "Adult_Mortality": 16,
+    "Infant_Deaths": 22
   },
   {
-    "Country": "Iran (Islamic Republic of)",
-    "Year": 2005,
-    "Life expectancy": 72,
-    "Adult Mortality": 139,
-    "infant deaths": 27
+    "Pais": "Iran (Islamic Republic of)",
+    "Any": 2005,
+    "Espervida": 72,
+    "Adult_Mortality": 139,
+    "Infant_Deaths": 27
   },
   {
-    "Country": "Iran (Islamic Republic of)",
-    "Year": 2000,
-    "Life expectancy": 73,
-    "Adult Mortality": 15,
-    "infant deaths": 35
+    "Pais": "Iran (Islamic Republic of)",
+    "Any": 2000,
+    "Espervida": 73,
+    "Adult_Mortality": 15,
+    "Infant_Deaths": 35
   },
   {
-    "Country": "Iraq",
-    "Year": 2015,
-    "Life expectancy": 68.9,
-    "Adult Mortality": 182,
-    "infant deaths": 32
+    "Pais": "Iraq",
+    "Any": 2015,
+    "Espervida": 68.9,
+    "Adult_Mortality": 182,
+    "Infant_Deaths": 32
   },
   {
-    "Country": "Iraq",
-    "Year": 2010,
-    "Life expectancy": 76,
-    "Adult Mortality": 145,
-    "infant deaths": 32
+    "Pais": "Iraq",
+    "Any": 2010,
+    "Espervida": 76,
+    "Adult_Mortality": 145,
+    "Infant_Deaths": 32
   },
   {
-    "Country": "Iraq",
-    "Year": 2005,
-    "Life expectancy": 66.8,
-    "Adult Mortality": 29,
-    "infant deaths": 31
+    "Pais": "Iraq",
+    "Any": 2005,
+    "Espervida": 66.8,
+    "Adult_Mortality": 29,
+    "Infant_Deaths": 31
   },
   {
-    "Country": "Iraq",
-    "Year": 2000,
-    "Life expectancy": 70,
-    "Adult Mortality": 144,
-    "infant deaths": 30
+    "Pais": "Iraq",
+    "Any": 2000,
+    "Espervida": 70,
+    "Adult_Mortality": 144,
+    "Infant_Deaths": 30
   },
   {
-    "Country": "Ireland",
-    "Year": 2015,
-    "Life expectancy": 81.4,
-    "Adult Mortality": 64,
-    "infant deaths": 0
+    "Pais": "Ireland",
+    "Any": 2015,
+    "Espervida": 81.4,
+    "Adult_Mortality": 64,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Ireland",
-    "Year": 2010,
-    "Life expectancy": 86,
-    "Adult Mortality": 68,
-    "infant deaths": 0
+    "Pais": "Ireland",
+    "Any": 2010,
+    "Espervida": 86,
+    "Adult_Mortality": 68,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Ireland",
-    "Year": 2005,
-    "Life expectancy": 78.7,
-    "Adult Mortality": 78,
-    "infant deaths": 0
+    "Pais": "Ireland",
+    "Any": 2005,
+    "Espervida": 78.7,
+    "Adult_Mortality": 78,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Ireland",
-    "Year": 2000,
-    "Life expectancy": 76.4,
-    "Adult Mortality": 94,
-    "infant deaths": 0
+    "Pais": "Ireland",
+    "Any": 2000,
+    "Espervida": 76.4,
+    "Adult_Mortality": 94,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Israel",
-    "Year": 2015,
-    "Life expectancy": 82.5,
-    "Adult Mortality": 58,
-    "infant deaths": 0
+    "Pais": "Israel",
+    "Any": 2015,
+    "Espervida": 82.5,
+    "Adult_Mortality": 58,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Israel",
-    "Year": 2010,
-    "Life expectancy": 81.7,
-    "Adult Mortality": 61,
-    "infant deaths": 1
+    "Pais": "Israel",
+    "Any": 2010,
+    "Espervida": 81.7,
+    "Adult_Mortality": 61,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Israel",
-    "Year": 2005,
-    "Life expectancy": 80,
-    "Adult Mortality": 71,
-    "infant deaths": 1
+    "Pais": "Israel",
+    "Any": 2005,
+    "Espervida": 80,
+    "Adult_Mortality": 71,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Israel",
-    "Year": 2000,
-    "Life expectancy": 78.9,
-    "Adult Mortality": 76,
-    "infant deaths": 1
+    "Pais": "Israel",
+    "Any": 2000,
+    "Espervida": 78.9,
+    "Adult_Mortality": 76,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Italy",
-    "Year": 2015,
-    "Life expectancy": 82.7,
-    "Adult Mortality": 56,
-    "infant deaths": 1
+    "Pais": "Italy",
+    "Any": 2015,
+    "Espervida": 82.7,
+    "Adult_Mortality": 56,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Italy",
-    "Year": 2010,
-    "Life expectancy": 81.8,
-    "Adult Mortality": 6,
-    "infant deaths": 2
+    "Pais": "Italy",
+    "Any": 2010,
+    "Espervida": 81.8,
+    "Adult_Mortality": 6,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Italy",
-    "Year": 2005,
-    "Life expectancy": 88,
-    "Adult Mortality": 66,
-    "infant deaths": 2
+    "Pais": "Italy",
+    "Any": 2005,
+    "Espervida": 88,
+    "Adult_Mortality": 66,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Italy",
-    "Year": 2000,
-    "Life expectancy": 79.4,
-    "Adult Mortality": 77,
-    "infant deaths": 3
+    "Pais": "Italy",
+    "Any": 2000,
+    "Espervida": 79.4,
+    "Adult_Mortality": 77,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Jamaica",
-    "Year": 2015,
-    "Life expectancy": 76.2,
-    "Adult Mortality": 125,
-    "infant deaths": 1
+    "Pais": "Jamaica",
+    "Any": 2015,
+    "Espervida": 76.2,
+    "Adult_Mortality": 125,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Jamaica",
-    "Year": 2010,
-    "Life expectancy": 75,
-    "Adult Mortality": 138,
-    "infant deaths": 1
+    "Pais": "Jamaica",
+    "Any": 2010,
+    "Espervida": 75,
+    "Adult_Mortality": 138,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Jamaica",
-    "Year": 2005,
-    "Life expectancy": 73.5,
-    "Adult Mortality": 161,
-    "infant deaths": 1
+    "Pais": "Jamaica",
+    "Any": 2005,
+    "Espervida": 73.5,
+    "Adult_Mortality": 161,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Jamaica",
-    "Year": 2000,
-    "Life expectancy": 72.6,
-    "Adult Mortality": 171,
-    "infant deaths": 1
+    "Pais": "Jamaica",
+    "Any": 2000,
+    "Espervida": 72.6,
+    "Adult_Mortality": 171,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Japan",
-    "Year": 2015,
-    "Life expectancy": 83.7,
-    "Adult Mortality": 55,
-    "infant deaths": 2
+    "Pais": "Japan",
+    "Any": 2015,
+    "Espervida": 83.7,
+    "Adult_Mortality": 55,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Japan",
-    "Year": 2010,
-    "Life expectancy": 83,
-    "Adult Mortality": 62,
-    "infant deaths": 3
+    "Pais": "Japan",
+    "Any": 2010,
+    "Espervida": 83,
+    "Adult_Mortality": 62,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Japan",
-    "Year": 2005,
-    "Life expectancy": 82,
-    "Adult Mortality": 69,
-    "infant deaths": 3
+    "Pais": "Japan",
+    "Any": 2005,
+    "Espervida": 82,
+    "Adult_Mortality": 69,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Japan",
-    "Year": 2000,
-    "Life expectancy": 81.1,
-    "Adult Mortality": 74,
-    "infant deaths": 4
+    "Pais": "Japan",
+    "Any": 2000,
+    "Espervida": 81.1,
+    "Adult_Mortality": 74,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Jordan",
-    "Year": 2015,
-    "Life expectancy": 74.1,
-    "Adult Mortality": 112,
-    "infant deaths": 4
+    "Pais": "Jordan",
+    "Any": 2015,
+    "Espervida": 74.1,
+    "Adult_Mortality": 112,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Jordan",
-    "Year": 2010,
-    "Life expectancy": 73.4,
-    "Adult Mortality": 117,
-    "infant deaths": 4
+    "Pais": "Jordan",
+    "Any": 2010,
+    "Espervida": 73.4,
+    "Adult_Mortality": 117,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Jordan",
-    "Year": 2005,
-    "Life expectancy": 72.4,
-    "Adult Mortality": 127,
-    "infant deaths": 4
+    "Pais": "Jordan",
+    "Any": 2005,
+    "Espervida": 72.4,
+    "Adult_Mortality": 127,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Jordan",
-    "Year": 2000,
-    "Life expectancy": 71.7,
-    "Adult Mortality": 133,
-    "infant deaths": 4
+    "Pais": "Jordan",
+    "Any": 2000,
+    "Espervida": 71.7,
+    "Adult_Mortality": 133,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Kazakhstan",
-    "Year": 2015,
-    "Life expectancy": 72,
-    "Adult Mortality": 198,
-    "infant deaths": 4
+    "Pais": "Kazakhstan",
+    "Any": 2015,
+    "Espervida": 72,
+    "Adult_Mortality": 198,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Kazakhstan",
-    "Year": 2010,
-    "Life expectancy": 67.8,
-    "Adult Mortality": 236,
-    "infant deaths": 7
+    "Pais": "Kazakhstan",
+    "Any": 2010,
+    "Espervida": 67.8,
+    "Adult_Mortality": 236,
+    "Infant_Deaths": 7
   },
   {
-    "Country": "Kazakhstan",
-    "Year": 2005,
-    "Life expectancy": 64.6,
-    "Adult Mortality": 294,
-    "infant deaths": 8
+    "Pais": "Kazakhstan",
+    "Any": 2005,
+    "Espervida": 64.6,
+    "Adult_Mortality": 294,
+    "Infant_Deaths": 8
   },
   {
-    "Country": "Kazakhstan",
-    "Year": 2000,
-    "Life expectancy": 63.9,
-    "Adult Mortality": 292,
-    "infant deaths": 9
+    "Pais": "Kazakhstan",
+    "Any": 2000,
+    "Espervida": 63.9,
+    "Adult_Mortality": 292,
+    "Infant_Deaths": 9
   },
   {
-    "Country": "Kenya",
-    "Year": 2015,
-    "Life expectancy": 63.4,
-    "Adult Mortality": 249,
-    "infant deaths": 54
+    "Pais": "Kenya",
+    "Any": 2015,
+    "Espervida": 63.4,
+    "Adult_Mortality": 249,
+    "Infant_Deaths": 54
   },
   {
-    "Country": "Kenya",
-    "Year": 2010,
-    "Life expectancy": 63,
-    "Adult Mortality": 294,
-    "infant deaths": 61
+    "Pais": "Kenya",
+    "Any": 2010,
+    "Espervida": 63,
+    "Adult_Mortality": 294,
+    "Infant_Deaths": 61
   },
   {
-    "Country": "Kenya",
-    "Year": 2005,
-    "Life expectancy": 54.1,
-    "Adult Mortality": 412,
-    "infant deaths": 70
+    "Pais": "Kenya",
+    "Any": 2005,
+    "Espervida": 54.1,
+    "Adult_Mortality": 412,
+    "Infant_Deaths": 70
   },
   {
-    "Country": "Kenya",
-    "Year": 2000,
-    "Life expectancy": 51.9,
-    "Adult Mortality": 428,
-    "infant deaths": 77
+    "Pais": "Kenya",
+    "Any": 2000,
+    "Espervida": 51.9,
+    "Adult_Mortality": 428,
+    "Infant_Deaths": 77
   },
   {
-    "Country": "Kiribati",
-    "Year": 2015,
-    "Life expectancy": 66.3,
-    "Adult Mortality": 198,
-    "infant deaths": 0
+    "Pais": "Kiribati",
+    "Any": 2015,
+    "Espervida": 66.3,
+    "Adult_Mortality": 198,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Kiribati",
-    "Year": 2010,
-    "Life expectancy": 65.3,
-    "Adult Mortality": 27,
-    "infant deaths": 0
+    "Pais": "Kiribati",
+    "Any": 2010,
+    "Espervida": 65.3,
+    "Adult_Mortality": 27,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Kiribati",
-    "Year": 2005,
-    "Life expectancy": 64.9,
-    "Adult Mortality": 213,
-    "infant deaths": 0
+    "Pais": "Kiribati",
+    "Any": 2005,
+    "Espervida": 64.9,
+    "Adult_Mortality": 213,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Kiribati",
-    "Year": 2000,
-    "Life expectancy": 64.1,
-    "Adult Mortality": 222,
-    "infant deaths": 0
+    "Pais": "Kiribati",
+    "Any": 2000,
+    "Espervida": 64.1,
+    "Adult_Mortality": 222,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Kuwait",
-    "Year": 2015,
-    "Life expectancy": 74.7,
-    "Adult Mortality": 81,
-    "infant deaths": 0
+    "Pais": "Kuwait",
+    "Any": 2015,
+    "Espervida": 74.7,
+    "Adult_Mortality": 81,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Kuwait",
-    "Year": 2010,
-    "Life expectancy": 74,
-    "Adult Mortality": 86,
-    "infant deaths": 1
+    "Pais": "Kuwait",
+    "Any": 2010,
+    "Espervida": 74,
+    "Adult_Mortality": 86,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Kuwait",
-    "Year": 2005,
-    "Life expectancy": 73.6,
-    "Adult Mortality": 9,
-    "infant deaths": 0
+    "Pais": "Kuwait",
+    "Any": 2005,
+    "Espervida": 73.6,
+    "Adult_Mortality": 9,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Kuwait",
-    "Year": 2000,
-    "Life expectancy": 73.2,
-    "Adult Mortality": 96,
-    "infant deaths": 0
+    "Pais": "Kuwait",
+    "Any": 2000,
+    "Espervida": 73.2,
+    "Adult_Mortality": 96,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Kyrgyzstan",
-    "Year": 2015,
-    "Life expectancy": 71.1,
-    "Adult Mortality": 166,
-    "infant deaths": 3
+    "Pais": "Kyrgyzstan",
+    "Any": 2015,
+    "Espervida": 71.1,
+    "Adult_Mortality": 166,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Kyrgyzstan",
-    "Year": 2010,
-    "Life expectancy": 68.8,
-    "Adult Mortality": 199,
-    "infant deaths": 4
+    "Pais": "Kyrgyzstan",
+    "Any": 2010,
+    "Espervida": 68.8,
+    "Adult_Mortality": 199,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Kyrgyzstan",
-    "Year": 2005,
-    "Life expectancy": 66.9,
-    "Adult Mortality": 224,
-    "infant deaths": 4
+    "Pais": "Kyrgyzstan",
+    "Any": 2005,
+    "Espervida": 66.9,
+    "Adult_Mortality": 224,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Kyrgyzstan",
-    "Year": 2000,
-    "Life expectancy": 66.6,
-    "Adult Mortality": 225,
-    "infant deaths": 4
+    "Pais": "Kyrgyzstan",
+    "Any": 2000,
+    "Espervida": 66.6,
+    "Adult_Mortality": 225,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Lao People's Democratic Republic",
-    "Year": 2015,
-    "Life expectancy": 65.7,
-    "Adult Mortality": 194,
-    "infant deaths": 8
+    "Pais": "Lao People's Democratic Republic",
+    "Any": 2015,
+    "Espervida": 65.7,
+    "Adult_Mortality": 194,
+    "Infant_Deaths": 8
   },
   {
-    "Country": "Lao People's Democratic Republic",
-    "Year": 2010,
-    "Life expectancy": 63.6,
-    "Adult Mortality": 218,
-    "infant deaths": 10
+    "Pais": "Lao People's Democratic Republic",
+    "Any": 2010,
+    "Espervida": 63.6,
+    "Adult_Mortality": 218,
+    "Infant_Deaths": 10
   },
   {
-    "Country": "Lao People's Democratic Republic",
-    "Year": 2005,
-    "Life expectancy": 61,
-    "Adult Mortality": 246,
-    "infant deaths": 11
+    "Pais": "Lao People's Democratic Republic",
+    "Any": 2005,
+    "Espervida": 61,
+    "Adult_Mortality": 246,
+    "Infant_Deaths": 11
   },
   {
-    "Country": "Lao People's Democratic Republic",
-    "Year": 2000,
-    "Life expectancy": 58.1,
-    "Adult Mortality": 278,
-    "infant deaths": 14
+    "Pais": "Lao People's Democratic Republic",
+    "Any": 2000,
+    "Espervida": 58.1,
+    "Adult_Mortality": 278,
+    "Infant_Deaths": 14
   },
   {
-    "Country": "Latvia",
-    "Year": 2015,
-    "Life expectancy": 74.6,
-    "Adult Mortality": 153,
-    "infant deaths": 0
+    "Pais": "Latvia",
+    "Any": 2015,
+    "Espervida": 74.6,
+    "Adult_Mortality": 153,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Latvia",
-    "Year": 2010,
-    "Life expectancy": 72.8,
-    "Adult Mortality": 18,
-    "infant deaths": 0
+    "Pais": "Latvia",
+    "Any": 2010,
+    "Espervida": 72.8,
+    "Adult_Mortality": 18,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Latvia",
-    "Year": 2005,
-    "Life expectancy": 76,
-    "Adult Mortality": 216,
-    "infant deaths": 0
+    "Pais": "Latvia",
+    "Any": 2005,
+    "Espervida": 76,
+    "Adult_Mortality": 216,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Latvia",
-    "Year": 2000,
-    "Life expectancy": 71,
-    "Adult Mortality": 218,
-    "infant deaths": 0
+    "Pais": "Latvia",
+    "Any": 2000,
+    "Espervida": 71,
+    "Adult_Mortality": 218,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Lebanon",
-    "Year": 2015,
-    "Life expectancy": 74.9,
-    "Adult Mortality": 98,
-    "infant deaths": 1
+    "Pais": "Lebanon",
+    "Any": 2015,
+    "Espervida": 74.9,
+    "Adult_Mortality": 98,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Lebanon",
-    "Year": 2010,
-    "Life expectancy": 74.9,
-    "Adult Mortality": 94,
-    "infant deaths": 1
+    "Pais": "Lebanon",
+    "Any": 2010,
+    "Espervida": 74.9,
+    "Adult_Mortality": 94,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Lebanon",
-    "Year": 2005,
-    "Life expectancy": 73.9,
-    "Adult Mortality": 11,
-    "infant deaths": 1
+    "Pais": "Lebanon",
+    "Any": 2005,
+    "Espervida": 73.9,
+    "Adult_Mortality": 11,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Lebanon",
-    "Year": 2000,
-    "Life expectancy": 72.7,
-    "Adult Mortality": 112,
-    "infant deaths": 1
+    "Pais": "Lebanon",
+    "Any": 2000,
+    "Espervida": 72.7,
+    "Adult_Mortality": 112,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Lesotho",
-    "Year": 2015,
-    "Life expectancy": 53.7,
-    "Adult Mortality": 484,
-    "infant deaths": 4
+    "Pais": "Lesotho",
+    "Any": 2015,
+    "Espervida": 53.7,
+    "Adult_Mortality": 484,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Lesotho",
-    "Year": 2010,
-    "Life expectancy": 51.1,
-    "Adult Mortality": 527,
-    "infant deaths": 4
+    "Pais": "Lesotho",
+    "Any": 2010,
+    "Espervida": 51.1,
+    "Adult_Mortality": 527,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Lesotho",
-    "Year": 2005,
-    "Life expectancy": 44.5,
-    "Adult Mortality": 675,
-    "infant deaths": 5
+    "Pais": "Lesotho",
+    "Any": 2005,
+    "Espervida": 44.5,
+    "Adult_Mortality": 675,
+    "Infant_Deaths": 5
   },
   {
-    "Country": "Lesotho",
-    "Year": 2000,
-    "Life expectancy": 49.3,
-    "Adult Mortality": 543,
-    "infant deaths": 5
+    "Pais": "Lesotho",
+    "Any": 2000,
+    "Espervida": 49.3,
+    "Adult_Mortality": 543,
+    "Infant_Deaths": 5
   },
   {
-    "Country": "Liberia",
-    "Year": 2015,
-    "Life expectancy": 61.4,
-    "Adult Mortality": 259,
-    "infant deaths": 8
+    "Pais": "Liberia",
+    "Any": 2015,
+    "Espervida": 61.4,
+    "Adult_Mortality": 259,
+    "Infant_Deaths": 8
   },
   {
-    "Country": "Liberia",
-    "Year": 2010,
-    "Life expectancy": 59.7,
-    "Adult Mortality": 272,
-    "infant deaths": 9
+    "Pais": "Liberia",
+    "Any": 2010,
+    "Espervida": 59.7,
+    "Adult_Mortality": 272,
+    "Infant_Deaths": 9
   },
   {
-    "Country": "Liberia",
-    "Year": 2005,
-    "Life expectancy": 55.3,
-    "Adult Mortality": 316,
-    "infant deaths": 12
+    "Pais": "Liberia",
+    "Any": 2005,
+    "Espervida": 55.3,
+    "Adult_Mortality": 316,
+    "Infant_Deaths": 12
   },
   {
-    "Country": "Liberia",
-    "Year": 2000,
-    "Life expectancy": 51.9,
-    "Adult Mortality": 39,
-    "infant deaths": 14
+    "Pais": "Liberia",
+    "Any": 2000,
+    "Espervida": 51.9,
+    "Adult_Mortality": 39,
+    "Infant_Deaths": 14
   },
   {
-    "Country": "Libya",
-    "Year": 2015,
-    "Life expectancy": 72.7,
-    "Adult Mortality": 138,
-    "infant deaths": 1
+    "Pais": "Libya",
+    "Any": 2015,
+    "Espervida": 72.7,
+    "Adult_Mortality": 138,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Libya",
-    "Year": 2010,
-    "Life expectancy": 72.8,
-    "Adult Mortality": 132,
-    "infant deaths": 2
+    "Pais": "Libya",
+    "Any": 2010,
+    "Espervida": 72.8,
+    "Adult_Mortality": 132,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Libya",
-    "Year": 2005,
-    "Life expectancy": 71.9,
-    "Adult Mortality": 138,
-    "infant deaths": 2
+    "Pais": "Libya",
+    "Any": 2005,
+    "Espervida": 71.9,
+    "Adult_Mortality": 138,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Libya",
-    "Year": 2000,
-    "Life expectancy": 78,
-    "Adult Mortality": 148,
-    "infant deaths": 3
+    "Pais": "Libya",
+    "Any": 2000,
+    "Espervida": 78,
+    "Adult_Mortality": 148,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Lithuania",
-    "Year": 2015,
-    "Life expectancy": 73.6,
-    "Adult Mortality": 165,
-    "infant deaths": 0
+    "Pais": "Lithuania",
+    "Any": 2015,
+    "Espervida": 73.6,
+    "Adult_Mortality": 165,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Lithuania",
-    "Year": 2010,
-    "Life expectancy": 72.4,
-    "Adult Mortality": 188,
-    "infant deaths": 0
+    "Pais": "Lithuania",
+    "Any": 2010,
+    "Espervida": 72.4,
+    "Adult_Mortality": 188,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Lithuania",
-    "Year": 2005,
-    "Life expectancy": 78,
-    "Adult Mortality": 222,
-    "infant deaths": 0
+    "Pais": "Lithuania",
+    "Any": 2005,
+    "Espervida": 78,
+    "Adult_Mortality": 222,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Lithuania",
-    "Year": 2000,
-    "Life expectancy": 71.6,
-    "Adult Mortality": 2,
-    "infant deaths": 0
+    "Pais": "Lithuania",
+    "Any": 2000,
+    "Espervida": 71.6,
+    "Adult_Mortality": 2,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Luxembourg",
-    "Year": 2015,
-    "Life expectancy": 82,
-    "Adult Mortality": 63,
-    "infant deaths": 0
+    "Pais": "Luxembourg",
+    "Any": 2015,
+    "Espervida": 82,
+    "Adult_Mortality": 63,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Luxembourg",
-    "Year": 2010,
-    "Life expectancy": 86,
-    "Adult Mortality": 73,
-    "infant deaths": 0
+    "Pais": "Luxembourg",
+    "Any": 2010,
+    "Espervida": 86,
+    "Adult_Mortality": 73,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Luxembourg",
-    "Year": 2005,
-    "Life expectancy": 78.8,
-    "Adult Mortality": 9,
-    "infant deaths": 0
+    "Pais": "Luxembourg",
+    "Any": 2005,
+    "Espervida": 78.8,
+    "Adult_Mortality": 9,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Luxembourg",
-    "Year": 2000,
-    "Life expectancy": 77.8,
-    "Adult Mortality": 98,
-    "infant deaths": 0
+    "Pais": "Luxembourg",
+    "Any": 2000,
+    "Espervida": 77.8,
+    "Adult_Mortality": 98,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Madagascar",
-    "Year": 2015,
-    "Life expectancy": 65.5,
-    "Adult Mortality": 22,
-    "infant deaths": 28
+    "Pais": "Madagascar",
+    "Any": 2015,
+    "Espervida": 65.5,
+    "Adult_Mortality": 22,
+    "Infant_Deaths": 28
   },
   {
-    "Country": "Madagascar",
-    "Year": 2010,
-    "Life expectancy": 63.3,
-    "Adult Mortality": 248,
-    "infant deaths": 32
+    "Pais": "Madagascar",
+    "Any": 2010,
+    "Espervida": 63.3,
+    "Adult_Mortality": 248,
+    "Infant_Deaths": 32
   },
   {
-    "Country": "Madagascar",
-    "Year": 2005,
-    "Life expectancy": 69,
-    "Adult Mortality": 265,
-    "infant deaths": 37
+    "Pais": "Madagascar",
+    "Any": 2005,
+    "Espervida": 69,
+    "Adult_Mortality": 265,
+    "Infant_Deaths": 37
   },
   {
-    "Country": "Madagascar",
-    "Year": 2000,
-    "Life expectancy": 57.9,
-    "Adult Mortality": 283,
-    "infant deaths": 44
+    "Pais": "Madagascar",
+    "Any": 2000,
+    "Espervida": 57.9,
+    "Adult_Mortality": 283,
+    "Infant_Deaths": 44
   },
   {
-    "Country": "Malawi",
-    "Year": 2015,
-    "Life expectancy": 58.3,
-    "Adult Mortality": 365,
-    "infant deaths": 26
+    "Pais": "Malawi",
+    "Any": 2015,
+    "Espervida": 58.3,
+    "Adult_Mortality": 365,
+    "Infant_Deaths": 26
   },
   {
-    "Country": "Malawi",
-    "Year": 2010,
-    "Life expectancy": 52.9,
-    "Adult Mortality": 462,
-    "infant deaths": 35
+    "Pais": "Malawi",
+    "Any": 2010,
+    "Espervida": 52.9,
+    "Adult_Mortality": 462,
+    "Infant_Deaths": 35
   },
   {
-    "Country": "Malawi",
-    "Year": 2005,
-    "Life expectancy": 46,
-    "Adult Mortality": 66,
-    "infant deaths": 39
+    "Pais": "Malawi",
+    "Any": 2005,
+    "Espervida": 46,
+    "Adult_Mortality": 66,
+    "Infant_Deaths": 39
   },
   {
-    "Country": "Malawi",
-    "Year": 2000,
-    "Life expectancy": 43.1,
-    "Adult Mortality": 588,
-    "infant deaths": 51
+    "Pais": "Malawi",
+    "Any": 2000,
+    "Espervida": 43.1,
+    "Adult_Mortality": 588,
+    "Infant_Deaths": 51
   },
   {
-    "Country": "Malaysia",
-    "Year": 2015,
-    "Life expectancy": 75,
-    "Adult Mortality": 123,
-    "infant deaths": 4
+    "Pais": "Malaysia",
+    "Any": 2015,
+    "Espervida": 75,
+    "Adult_Mortality": 123,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Malaysia",
-    "Year": 2010,
-    "Life expectancy": 74.1,
-    "Adult Mortality": 131,
-    "infant deaths": 3
+    "Pais": "Malaysia",
+    "Any": 2010,
+    "Espervida": 74.1,
+    "Adult_Mortality": 131,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Malaysia",
-    "Year": 2005,
-    "Life expectancy": 73.4,
-    "Adult Mortality": 135,
-    "infant deaths": 3
+    "Pais": "Malaysia",
+    "Any": 2005,
+    "Espervida": 73.4,
+    "Adult_Mortality": 135,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Malaysia",
-    "Year": 2000,
-    "Life expectancy": 72.4,
-    "Adult Mortality": 149,
-    "infant deaths": 4
+    "Pais": "Malaysia",
+    "Any": 2000,
+    "Espervida": 72.4,
+    "Adult_Mortality": 149,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Maldives",
-    "Year": 2015,
-    "Life expectancy": 78.5,
-    "Adult Mortality": 61,
-    "infant deaths": 0
+    "Pais": "Maldives",
+    "Any": 2015,
+    "Espervida": 78.5,
+    "Adult_Mortality": 61,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Maldives",
-    "Year": 2010,
-    "Life expectancy": 76.7,
-    "Adult Mortality": 73,
-    "infant deaths": 0
+    "Pais": "Maldives",
+    "Any": 2010,
+    "Espervida": 76.7,
+    "Adult_Mortality": 73,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Maldives",
-    "Year": 2005,
-    "Life expectancy": 74.3,
-    "Adult Mortality": 93,
-    "infant deaths": 0
+    "Pais": "Maldives",
+    "Any": 2005,
+    "Espervida": 74.3,
+    "Adult_Mortality": 93,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Maldives",
-    "Year": 2000,
-    "Life expectancy": 69.6,
-    "Adult Mortality": 139,
-    "infant deaths": 0
+    "Pais": "Maldives",
+    "Any": 2000,
+    "Espervida": 69.6,
+    "Adult_Mortality": 139,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Mali",
-    "Year": 2015,
-    "Life expectancy": 58.2,
-    "Adult Mortality": 266,
-    "infant deaths": 52
+    "Pais": "Mali",
+    "Any": 2015,
+    "Espervida": 58.2,
+    "Adult_Mortality": 266,
+    "Infant_Deaths": 52
   },
   {
-    "Country": "Mali",
-    "Year": 2010,
-    "Life expectancy": 56.5,
-    "Adult Mortality": 273,
-    "infant deaths": 54
+    "Pais": "Mali",
+    "Any": 2010,
+    "Espervida": 56.5,
+    "Adult_Mortality": 273,
+    "Infant_Deaths": 54
   },
   {
-    "Country": "Mali",
-    "Year": 2005,
-    "Life expectancy": 53.6,
-    "Adult Mortality": 29,
-    "infant deaths": 57
+    "Pais": "Mali",
+    "Any": 2005,
+    "Espervida": 53.6,
+    "Adult_Mortality": 29,
+    "Infant_Deaths": 57
   },
   {
-    "Country": "Mali",
-    "Year": 2000,
-    "Life expectancy": 49.8,
-    "Adult Mortality": 37,
-    "infant deaths": 60
+    "Pais": "Mali",
+    "Any": 2000,
+    "Espervida": 49.8,
+    "Adult_Mortality": 37,
+    "Infant_Deaths": 60
   },
   {
-    "Country": "Malta",
-    "Year": 2015,
-    "Life expectancy": 81.7,
-    "Adult Mortality": 54,
-    "infant deaths": 0
+    "Pais": "Malta",
+    "Any": 2015,
+    "Espervida": 81.7,
+    "Adult_Mortality": 54,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Malta",
-    "Year": 2010,
-    "Life expectancy": 83,
-    "Adult Mortality": 62,
-    "infant deaths": 0
+    "Pais": "Malta",
+    "Any": 2010,
+    "Espervida": 83,
+    "Adult_Mortality": 62,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Malta",
-    "Year": 2005,
-    "Life expectancy": 79,
-    "Adult Mortality": 67,
-    "infant deaths": 0
+    "Pais": "Malta",
+    "Any": 2005,
+    "Espervida": 79,
+    "Adult_Mortality": 67,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Malta",
-    "Year": 2000,
-    "Life expectancy": 77.5,
-    "Adult Mortality": 8,
-    "infant deaths": 0
+    "Pais": "Malta",
+    "Any": 2000,
+    "Espervida": 77.5,
+    "Adult_Mortality": 8,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Mauritania",
-    "Year": 2015,
-    "Life expectancy": 63.1,
-    "Adult Mortality": 25,
-    "infant deaths": 8
+    "Pais": "Mauritania",
+    "Any": 2015,
+    "Espervida": 63.1,
+    "Adult_Mortality": 25,
+    "Infant_Deaths": 8
   },
   {
-    "Country": "Mauritania",
-    "Year": 2010,
-    "Life expectancy": 62,
-    "Adult Mortality": 214,
-    "infant deaths": 8
+    "Pais": "Mauritania",
+    "Any": 2010,
+    "Espervida": 62,
+    "Adult_Mortality": 214,
+    "Infant_Deaths": 8
   },
   {
-    "Country": "Mauritania",
-    "Year": 2005,
-    "Life expectancy": 66,
-    "Adult Mortality": 223,
-    "infant deaths": 8
+    "Pais": "Mauritania",
+    "Any": 2005,
+    "Espervida": 66,
+    "Adult_Mortality": 223,
+    "Infant_Deaths": 8
   },
   {
-    "Country": "Mauritania",
-    "Year": 2000,
-    "Life expectancy": 60,
-    "Adult Mortality": 23,
-    "infant deaths": 7
+    "Pais": "Mauritania",
+    "Any": 2000,
+    "Espervida": 60,
+    "Adult_Mortality": 23,
+    "Infant_Deaths": 7
   },
   {
-    "Country": "Mauritius",
-    "Year": 2015,
-    "Life expectancy": 74.6,
-    "Adult Mortality": 146,
-    "infant deaths": 0
+    "Pais": "Mauritius",
+    "Any": 2015,
+    "Espervida": 74.6,
+    "Adult_Mortality": 146,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Mauritius",
-    "Year": 2010,
-    "Life expectancy": 73.3,
-    "Adult Mortality": 163,
-    "infant deaths": 0
+    "Pais": "Mauritius",
+    "Any": 2010,
+    "Espervida": 73.3,
+    "Adult_Mortality": 163,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Mauritius",
-    "Year": 2005,
-    "Life expectancy": 72.1,
-    "Adult Mortality": 168,
-    "infant deaths": 0
+    "Pais": "Mauritius",
+    "Any": 2005,
+    "Espervida": 72.1,
+    "Adult_Mortality": 168,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Mauritius",
-    "Year": 2000,
-    "Life expectancy": 71,
-    "Adult Mortality": 177,
-    "infant deaths": 0
+    "Pais": "Mauritius",
+    "Any": 2000,
+    "Espervida": 71,
+    "Adult_Mortality": 177,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Mexico",
-    "Year": 2015,
-    "Life expectancy": 76.7,
-    "Adult Mortality": 122,
-    "infant deaths": 30
+    "Pais": "Mexico",
+    "Any": 2015,
+    "Espervida": 76.7,
+    "Adult_Mortality": 122,
+    "Infant_Deaths": 30
   },
   {
-    "Country": "Mexico",
-    "Year": 2010,
-    "Life expectancy": 75.6,
-    "Adult Mortality": 127,
-    "infant deaths": 35
+    "Pais": "Mexico",
+    "Any": 2010,
+    "Espervida": 75.6,
+    "Adult_Mortality": 127,
+    "Infant_Deaths": 35
   },
   {
-    "Country": "Mexico",
-    "Year": 2005,
-    "Life expectancy": 75.3,
-    "Adult Mortality": 126,
-    "infant deaths": 42
+    "Pais": "Mexico",
+    "Any": 2005,
+    "Espervida": 75.3,
+    "Adult_Mortality": 126,
+    "Infant_Deaths": 42
   },
   {
-    "Country": "Mexico",
-    "Year": 2000,
-    "Life expectancy": 74.8,
-    "Adult Mortality": 129,
-    "infant deaths": 55
+    "Pais": "Mexico",
+    "Any": 2000,
+    "Espervida": 74.8,
+    "Adult_Mortality": 129,
+    "Infant_Deaths": 55
   },
   {
-    "Country": "Micronesia (Federated States of)",
-    "Year": 2015,
-    "Life expectancy": 69.4,
-    "Adult Mortality": 166,
-    "infant deaths": 0
+    "Pais": "Micronesia (Federated States of)",
+    "Any": 2015,
+    "Espervida": 69.4,
+    "Adult_Mortality": 166,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Micronesia (Federated States of)",
-    "Year": 2010,
-    "Life expectancy": 68.7,
-    "Adult Mortality": 171,
-    "infant deaths": 0
+    "Pais": "Micronesia (Federated States of)",
+    "Any": 2010,
+    "Espervida": 68.7,
+    "Adult_Mortality": 171,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Micronesia (Federated States of)",
-    "Year": 2005,
-    "Life expectancy": 67.9,
-    "Adult Mortality": 178,
-    "infant deaths": 0
+    "Pais": "Micronesia (Federated States of)",
+    "Any": 2005,
+    "Espervida": 67.9,
+    "Adult_Mortality": 178,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Micronesia (Federated States of)",
-    "Year": 2000,
-    "Life expectancy": 67,
-    "Adult Mortality": 185,
-    "infant deaths": 0
+    "Pais": "Micronesia (Federated States of)",
+    "Any": 2000,
+    "Espervida": 67,
+    "Adult_Mortality": 185,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Mongolia",
-    "Year": 2015,
-    "Life expectancy": 68.8,
-    "Adult Mortality": 222,
-    "infant deaths": 1
+    "Pais": "Mongolia",
+    "Any": 2015,
+    "Espervida": 68.8,
+    "Adult_Mortality": 222,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Mongolia",
-    "Year": 2010,
-    "Life expectancy": 66.3,
-    "Adult Mortality": 25,
-    "infant deaths": 1
+    "Pais": "Mongolia",
+    "Any": 2010,
+    "Espervida": 66.3,
+    "Adult_Mortality": 25,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Mongolia",
-    "Year": 2005,
-    "Life expectancy": 64.5,
-    "Adult Mortality": 274,
-    "infant deaths": 2
+    "Pais": "Mongolia",
+    "Any": 2005,
+    "Espervida": 64.5,
+    "Adult_Mortality": 274,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Mongolia",
-    "Year": 2000,
-    "Life expectancy": 62.8,
-    "Adult Mortality": 274,
-    "infant deaths": 2
+    "Pais": "Mongolia",
+    "Any": 2000,
+    "Espervida": 62.8,
+    "Adult_Mortality": 274,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Montenegro",
-    "Year": 2015,
-    "Life expectancy": 76.1,
-    "Adult Mortality": 16,
-    "infant deaths": 0
+    "Pais": "Montenegro",
+    "Any": 2015,
+    "Espervida": 76.1,
+    "Adult_Mortality": 16,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Montenegro",
-    "Year": 2010,
-    "Life expectancy": 75.3,
-    "Adult Mortality": 115,
-    "infant deaths": 0
+    "Pais": "Montenegro",
+    "Any": 2010,
+    "Espervida": 75.3,
+    "Adult_Mortality": 115,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Montenegro",
-    "Year": 2005,
-    "Life expectancy": 73.6,
-    "Adult Mortality": 133,
-    "infant deaths": 0
+    "Pais": "Montenegro",
+    "Any": 2005,
+    "Espervida": 73.6,
+    "Adult_Mortality": 133,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Montenegro",
-    "Year": 2000,
-    "Life expectancy": 73,
-    "Adult Mortality": 144,
-    "infant deaths": 0
+    "Pais": "Montenegro",
+    "Any": 2000,
+    "Espervida": 73,
+    "Adult_Mortality": 144,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Morocco",
-    "Year": 2015,
-    "Life expectancy": 74.3,
-    "Adult Mortality": 95,
-    "infant deaths": 17
+    "Pais": "Morocco",
+    "Any": 2015,
+    "Espervida": 74.3,
+    "Adult_Mortality": 95,
+    "Infant_Deaths": 17
   },
   {
-    "Country": "Morocco",
-    "Year": 2010,
-    "Life expectancy": 72.8,
-    "Adult Mortality": 11,
-    "infant deaths": 20
+    "Pais": "Morocco",
+    "Any": 2010,
+    "Espervida": 72.8,
+    "Adult_Mortality": 11,
+    "Infant_Deaths": 20
   },
   {
-    "Country": "Morocco",
-    "Year": 2005,
-    "Life expectancy": 77,
-    "Adult Mortality": 137,
-    "infant deaths": 22
+    "Pais": "Morocco",
+    "Any": 2005,
+    "Espervida": 77,
+    "Adult_Mortality": 137,
+    "Infant_Deaths": 22
   },
   {
-    "Country": "Morocco",
-    "Year": 2000,
-    "Life expectancy": 68.6,
-    "Adult Mortality": 16,
-    "infant deaths": 27
+    "Pais": "Morocco",
+    "Any": 2000,
+    "Espervida": 68.6,
+    "Adult_Mortality": 16,
+    "Infant_Deaths": 27
   },
   {
-    "Country": "Mozambique",
-    "Year": 2015,
-    "Life expectancy": 57.6,
-    "Adult Mortality": 355,
-    "infant deaths": 60
+    "Pais": "Mozambique",
+    "Any": 2015,
+    "Espervida": 57.6,
+    "Adult_Mortality": 355,
+    "Infant_Deaths": 60
   },
   {
-    "Country": "Mozambique",
-    "Year": 2010,
-    "Life expectancy": 54,
-    "Adult Mortality": 47,
-    "infant deaths": 69
+    "Pais": "Mozambique",
+    "Any": 2010,
+    "Espervida": 54,
+    "Adult_Mortality": 47,
+    "Infant_Deaths": 69
   },
   {
-    "Country": "Mozambique",
-    "Year": 2005,
-    "Life expectancy": 58,
-    "Adult Mortality": 434,
-    "infant deaths": 80
+    "Pais": "Mozambique",
+    "Any": 2005,
+    "Espervida": 58,
+    "Adult_Mortality": 434,
+    "Infant_Deaths": 80
   },
   {
-    "Country": "Mozambique",
-    "Year": 2000,
-    "Life expectancy": 49,
-    "Adult Mortality": 43,
-    "infant deaths": 93
+    "Pais": "Mozambique",
+    "Any": 2000,
+    "Espervida": 49,
+    "Adult_Mortality": 43,
+    "Infant_Deaths": 93
   },
   {
-    "Country": "Myanmar",
-    "Year": 2015,
-    "Life expectancy": 66.6,
-    "Adult Mortality": 199,
-    "infant deaths": 39
+    "Pais": "Myanmar",
+    "Any": 2015,
+    "Espervida": 66.6,
+    "Adult_Mortality": 199,
+    "Infant_Deaths": 39
   },
   {
-    "Country": "Myanmar",
-    "Year": 2010,
-    "Life expectancy": 65.4,
-    "Adult Mortality": 29,
-    "infant deaths": 49
+    "Pais": "Myanmar",
+    "Any": 2010,
+    "Espervida": 65.4,
+    "Adult_Mortality": 29,
+    "Infant_Deaths": 49
   },
   {
-    "Country": "Myanmar",
-    "Year": 2005,
-    "Life expectancy": 63.9,
-    "Adult Mortality": 224,
-    "infant deaths": 64
+    "Pais": "Myanmar",
+    "Any": 2005,
+    "Espervida": 63.9,
+    "Adult_Mortality": 224,
+    "Infant_Deaths": 64
   },
   {
-    "Country": "Myanmar",
-    "Year": 2000,
-    "Life expectancy": 62.1,
-    "Adult Mortality": 243,
-    "infant deaths": 73
+    "Pais": "Myanmar",
+    "Any": 2000,
+    "Espervida": 62.1,
+    "Adult_Mortality": 243,
+    "Infant_Deaths": 73
   },
   {
-    "Country": "Namibia",
-    "Year": 2015,
-    "Life expectancy": 65.8,
-    "Adult Mortality": 248,
-    "infant deaths": 2
+    "Pais": "Namibia",
+    "Any": 2015,
+    "Espervida": 65.8,
+    "Adult_Mortality": 248,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Namibia",
-    "Year": 2010,
-    "Life expectancy": 63,
-    "Adult Mortality": 299,
-    "infant deaths": 3
+    "Pais": "Namibia",
+    "Any": 2010,
+    "Espervida": 63,
+    "Adult_Mortality": 299,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Namibia",
-    "Year": 2005,
-    "Life expectancy": 55.1,
-    "Adult Mortality": 477,
-    "infant deaths": 3
+    "Pais": "Namibia",
+    "Any": 2005,
+    "Espervida": 55.1,
+    "Adult_Mortality": 477,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Namibia",
-    "Year": 2000,
-    "Life expectancy": 57.4,
-    "Adult Mortality": 41,
-    "infant deaths": 3
+    "Pais": "Namibia",
+    "Any": 2000,
+    "Espervida": 57.4,
+    "Adult_Mortality": 41,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Nepal",
-    "Year": 2015,
-    "Life expectancy": 69.2,
-    "Adult Mortality": 165,
-    "infant deaths": 17
+    "Pais": "Nepal",
+    "Any": 2015,
+    "Espervida": 69.2,
+    "Adult_Mortality": 165,
+    "Infant_Deaths": 17
   },
   {
-    "Country": "Nepal",
-    "Year": 2010,
-    "Life expectancy": 68,
-    "Adult Mortality": 178,
-    "infant deaths": 23
+    "Pais": "Nepal",
+    "Any": 2010,
+    "Espervida": 68,
+    "Adult_Mortality": 178,
+    "Infant_Deaths": 23
   },
   {
-    "Country": "Nepal",
-    "Year": 2005,
-    "Life expectancy": 65.4,
-    "Adult Mortality": 28,
-    "infant deaths": 33
+    "Pais": "Nepal",
+    "Any": 2005,
+    "Espervida": 65.4,
+    "Adult_Mortality": 28,
+    "Infant_Deaths": 33
   },
   {
-    "Country": "Nepal",
-    "Year": 2000,
-    "Life expectancy": 62.5,
-    "Adult Mortality": 238,
-    "infant deaths": 46
+    "Pais": "Nepal",
+    "Any": 2000,
+    "Espervida": 62.5,
+    "Adult_Mortality": 238,
+    "Infant_Deaths": 46
   },
   {
-    "Country": "Netherlands",
-    "Year": 2015,
-    "Life expectancy": 81.9,
-    "Adult Mortality": 57,
-    "infant deaths": 1
+    "Pais": "Netherlands",
+    "Any": 2015,
+    "Espervida": 81.9,
+    "Adult_Mortality": 57,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Netherlands",
-    "Year": 2010,
-    "Life expectancy": 88,
-    "Adult Mortality": 64,
-    "infant deaths": 1
+    "Pais": "Netherlands",
+    "Any": 2010,
+    "Espervida": 88,
+    "Adult_Mortality": 64,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Netherlands",
-    "Year": 2005,
-    "Life expectancy": 79.4,
-    "Adult Mortality": 72,
-    "infant deaths": 1
+    "Pais": "Netherlands",
+    "Any": 2005,
+    "Espervida": 79.4,
+    "Adult_Mortality": 72,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Netherlands",
-    "Year": 2000,
-    "Life expectancy": 78.1,
-    "Adult Mortality": 84,
-    "infant deaths": 1
+    "Pais": "Netherlands",
+    "Any": 2000,
+    "Espervida": 78.1,
+    "Adult_Mortality": 84,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "New Zealand",
-    "Year": 2015,
-    "Life expectancy": 81.6,
-    "Adult Mortality": 66,
-    "infant deaths": 0
+    "Pais": "New Zealand",
+    "Any": 2015,
+    "Espervida": 81.6,
+    "Adult_Mortality": 66,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "New Zealand",
-    "Year": 2010,
-    "Life expectancy": 89,
-    "Adult Mortality": 71,
-    "infant deaths": 0
+    "Pais": "New Zealand",
+    "Any": 2010,
+    "Espervida": 89,
+    "Adult_Mortality": 71,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "New Zealand",
-    "Year": 2005,
-    "Life expectancy": 79.9,
-    "Adult Mortality": 78,
-    "infant deaths": 0
+    "Pais": "New Zealand",
+    "Any": 2005,
+    "Espervida": 79.9,
+    "Adult_Mortality": 78,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "New Zealand",
-    "Year": 2000,
-    "Life expectancy": 78.6,
-    "Adult Mortality": 87,
-    "infant deaths": 0
+    "Pais": "New Zealand",
+    "Any": 2000,
+    "Espervida": 78.6,
+    "Adult_Mortality": 87,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Nicaragua",
-    "Year": 2015,
-    "Life expectancy": 74.8,
-    "Adult Mortality": 145,
-    "infant deaths": 2
+    "Pais": "Nicaragua",
+    "Any": 2015,
+    "Espervida": 74.8,
+    "Adult_Mortality": 145,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Nicaragua",
-    "Year": 2010,
-    "Life expectancy": 73.2,
-    "Adult Mortality": 154,
-    "infant deaths": 3
+    "Pais": "Nicaragua",
+    "Any": 2010,
+    "Espervida": 73.2,
+    "Adult_Mortality": 154,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Nicaragua",
-    "Year": 2005,
-    "Life expectancy": 71.2,
-    "Adult Mortality": 194,
-    "infant deaths": 3
+    "Pais": "Nicaragua",
+    "Any": 2005,
+    "Espervida": 71.2,
+    "Adult_Mortality": 194,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Nicaragua",
-    "Year": 2000,
-    "Life expectancy": 73,
-    "Adult Mortality": 192,
-    "infant deaths": 4
+    "Pais": "Nicaragua",
+    "Any": 2000,
+    "Espervida": 73,
+    "Adult_Mortality": 192,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Niger",
-    "Year": 2015,
-    "Life expectancy": 61.8,
-    "Adult Mortality": 22,
-    "infant deaths": 49
+    "Pais": "Niger",
+    "Any": 2015,
+    "Espervida": 61.8,
+    "Adult_Mortality": 22,
+    "Infant_Deaths": 49
   },
   {
-    "Country": "Niger",
-    "Year": 2010,
-    "Life expectancy": 58.2,
-    "Adult Mortality": 252,
-    "infant deaths": 50
+    "Pais": "Niger",
+    "Any": 2010,
+    "Espervida": 58.2,
+    "Adult_Mortality": 252,
+    "Infant_Deaths": 50
   },
   {
-    "Country": "Niger",
-    "Year": 2005,
-    "Life expectancy": 53.7,
-    "Adult Mortality": 278,
-    "infant deaths": 55
+    "Pais": "Niger",
+    "Any": 2005,
+    "Espervida": 53.7,
+    "Adult_Mortality": 278,
+    "Infant_Deaths": 55
   },
   {
-    "Country": "Niger",
-    "Year": 2000,
-    "Life expectancy": 50,
-    "Adult Mortality": 284,
-    "infant deaths": 58
+    "Pais": "Niger",
+    "Any": 2000,
+    "Espervida": 50,
+    "Adult_Mortality": 284,
+    "Infant_Deaths": 58
   },
   {
-    "Country": "Nigeria",
-    "Year": 2015,
-    "Life expectancy": 54.5,
-    "Adult Mortality": 344,
-    "infant deaths": 483
+    "Pais": "Nigeria",
+    "Any": 2015,
+    "Espervida": 54.5,
+    "Adult_Mortality": 344,
+    "Infant_Deaths": 483
   },
   {
-    "Country": "Nigeria",
-    "Year": 2010,
-    "Life expectancy": 52,
-    "Adult Mortality": 374,
-    "infant deaths": 521
+    "Pais": "Nigeria",
+    "Any": 2010,
+    "Espervida": 52,
+    "Adult_Mortality": 374,
+    "Infant_Deaths": 521
   },
   {
-    "Country": "Nigeria",
-    "Year": 2005,
-    "Life expectancy": 49.2,
-    "Adult Mortality": 4,
-    "infant deaths": 556
+    "Pais": "Nigeria",
+    "Any": 2005,
+    "Espervida": 49.2,
+    "Adult_Mortality": 4,
+    "Infant_Deaths": 556
   },
   {
-    "Country": "Nigeria",
-    "Year": 2000,
-    "Life expectancy": 47.1,
-    "Adult Mortality": 45,
-    "infant deaths": 576
+    "Pais": "Nigeria",
+    "Any": 2000,
+    "Espervida": 47.1,
+    "Adult_Mortality": 45,
+    "Infant_Deaths": 576
   },
   {
-    "Country": "Norway",
-    "Year": 2015,
-    "Life expectancy": 81.8,
-    "Adult Mortality": 59,
-    "infant deaths": 0
+    "Pais": "Norway",
+    "Any": 2015,
+    "Espervida": 81.8,
+    "Adult_Mortality": 59,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Norway",
-    "Year": 2010,
-    "Life expectancy": 81,
-    "Adult Mortality": 66,
-    "infant deaths": 0
+    "Pais": "Norway",
+    "Any": 2010,
+    "Espervida": 81,
+    "Adult_Mortality": 66,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Norway",
-    "Year": 2005,
-    "Life expectancy": 81,
-    "Adult Mortality": 73,
-    "infant deaths": 0
+    "Pais": "Norway",
+    "Any": 2005,
+    "Espervida": 81,
+    "Adult_Mortality": 73,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Norway",
-    "Year": 2000,
-    "Life expectancy": 78.5,
-    "Adult Mortality": 85,
-    "infant deaths": 0
+    "Pais": "Norway",
+    "Any": 2000,
+    "Espervida": 78.5,
+    "Adult_Mortality": 85,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Oman",
-    "Year": 2015,
-    "Life expectancy": 76.6,
-    "Adult Mortality": 99,
-    "infant deaths": 1
+    "Pais": "Oman",
+    "Any": 2015,
+    "Espervida": 76.6,
+    "Adult_Mortality": 99,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Oman",
-    "Year": 2010,
-    "Life expectancy": 75.6,
-    "Adult Mortality": 16,
-    "infant deaths": 1
+    "Pais": "Oman",
+    "Any": 2010,
+    "Espervida": 75.6,
+    "Adult_Mortality": 16,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Oman",
-    "Year": 2005,
-    "Life expectancy": 74.3,
-    "Adult Mortality": 118,
-    "infant deaths": 1
+    "Pais": "Oman",
+    "Any": 2005,
+    "Espervida": 74.3,
+    "Adult_Mortality": 118,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Oman",
-    "Year": 2000,
-    "Life expectancy": 72.6,
-    "Adult Mortality": 138,
-    "infant deaths": 1
+    "Pais": "Oman",
+    "Any": 2000,
+    "Espervida": 72.6,
+    "Adult_Mortality": 138,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Pakistan",
-    "Year": 2015,
-    "Life expectancy": 66.4,
-    "Adult Mortality": 161,
-    "infant deaths": 352
+    "Pais": "Pakistan",
+    "Any": 2015,
+    "Espervida": 66.4,
+    "Adult_Mortality": 161,
+    "Infant_Deaths": 352
   },
   {
-    "Country": "Pakistan",
-    "Year": 2010,
-    "Life expectancy": 65.1,
-    "Adult Mortality": 172,
-    "infant deaths": 372
+    "Pais": "Pakistan",
+    "Any": 2010,
+    "Espervida": 65.1,
+    "Adult_Mortality": 172,
+    "Infant_Deaths": 372
   },
   {
-    "Country": "Pakistan",
-    "Year": 2005,
-    "Life expectancy": 62.9,
-    "Adult Mortality": 2,
-    "infant deaths": 364
+    "Pais": "Pakistan",
+    "Any": 2005,
+    "Espervida": 62.9,
+    "Adult_Mortality": 2,
+    "Infant_Deaths": 364
   },
   {
-    "Country": "Pakistan",
-    "Year": 2000,
-    "Life expectancy": 62.8,
-    "Adult Mortality": 19,
-    "infant deaths": 385
+    "Pais": "Pakistan",
+    "Any": 2000,
+    "Espervida": 62.8,
+    "Adult_Mortality": 19,
+    "Infant_Deaths": 385
   },
   {
-    "Country": "Panama",
-    "Year": 2015,
-    "Life expectancy": 77.8,
-    "Adult Mortality": 118,
-    "infant deaths": 1
+    "Pais": "Panama",
+    "Any": 2015,
+    "Espervida": 77.8,
+    "Adult_Mortality": 118,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Panama",
-    "Year": 2010,
-    "Life expectancy": 76.5,
-    "Adult Mortality": 122,
-    "infant deaths": 1
+    "Pais": "Panama",
+    "Any": 2010,
+    "Espervida": 76.5,
+    "Adult_Mortality": 122,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Panama",
-    "Year": 2005,
-    "Life expectancy": 75.8,
-    "Adult Mortality": 122,
-    "infant deaths": 1
+    "Pais": "Panama",
+    "Any": 2005,
+    "Espervida": 75.8,
+    "Adult_Mortality": 122,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Panama",
-    "Year": 2000,
-    "Life expectancy": 75.7,
-    "Adult Mortality": 121,
-    "infant deaths": 2
+    "Pais": "Panama",
+    "Any": 2000,
+    "Espervida": 75.7,
+    "Adult_Mortality": 121,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Papua New Guinea",
-    "Year": 2015,
-    "Life expectancy": 62.9,
-    "Adult Mortality": 275,
-    "infant deaths": 10
+    "Pais": "Papua New Guinea",
+    "Any": 2015,
+    "Espervida": 62.9,
+    "Adult_Mortality": 275,
+    "Infant_Deaths": 10
   },
   {
-    "Country": "Papua New Guinea",
-    "Year": 2010,
-    "Life expectancy": 61.8,
-    "Adult Mortality": 286,
-    "infant deaths": 10
+    "Pais": "Papua New Guinea",
+    "Any": 2010,
+    "Espervida": 61.8,
+    "Adult_Mortality": 286,
+    "Infant_Deaths": 10
   },
   {
-    "Country": "Papua New Guinea",
-    "Year": 2005,
-    "Life expectancy": 64,
-    "Adult Mortality": 37,
-    "infant deaths": 11
+    "Pais": "Papua New Guinea",
+    "Any": 2005,
+    "Espervida": 64,
+    "Adult_Mortality": 37,
+    "Infant_Deaths": 11
   },
   {
-    "Country": "Papua New Guinea",
-    "Year": 2000,
-    "Life expectancy": 58.9,
-    "Adult Mortality": 335,
-    "infant deaths": 11
+    "Pais": "Papua New Guinea",
+    "Any": 2000,
+    "Espervida": 58.9,
+    "Adult_Mortality": 335,
+    "Infant_Deaths": 11
   },
   {
-    "Country": "Paraguay",
-    "Year": 2015,
-    "Life expectancy": 74,
-    "Adult Mortality": 146,
-    "infant deaths": 2
+    "Pais": "Paraguay",
+    "Any": 2015,
+    "Espervida": 74,
+    "Adult_Mortality": 146,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Paraguay",
-    "Year": 2010,
-    "Life expectancy": 73.2,
-    "Adult Mortality": 152,
-    "infant deaths": 3
+    "Pais": "Paraguay",
+    "Any": 2010,
+    "Espervida": 73.2,
+    "Adult_Mortality": 152,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Paraguay",
-    "Year": 2005,
-    "Life expectancy": 72.1,
-    "Adult Mortality": 163,
-    "infant deaths": 3
+    "Pais": "Paraguay",
+    "Any": 2005,
+    "Espervida": 72.1,
+    "Adult_Mortality": 163,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Paraguay",
-    "Year": 2000,
-    "Life expectancy": 79,
-    "Adult Mortality": 172,
-    "infant deaths": 4
+    "Pais": "Paraguay",
+    "Any": 2000,
+    "Espervida": 79,
+    "Adult_Mortality": 172,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Peru",
-    "Year": 2015,
-    "Life expectancy": 75.5,
-    "Adult Mortality": 123,
-    "infant deaths": 8
+    "Pais": "Peru",
+    "Any": 2015,
+    "Espervida": 75.5,
+    "Adult_Mortality": 123,
+    "Infant_Deaths": 8
   },
   {
-    "Country": "Peru",
-    "Year": 2010,
-    "Life expectancy": 73.7,
-    "Adult Mortality": 14,
-    "infant deaths": 10
+    "Pais": "Peru",
+    "Any": 2010,
+    "Espervida": 73.7,
+    "Adult_Mortality": 14,
+    "Infant_Deaths": 10
   },
   {
-    "Country": "Peru",
-    "Year": 2005,
-    "Life expectancy": 72.8,
-    "Adult Mortality": 148,
-    "infant deaths": 13
+    "Pais": "Peru",
+    "Any": 2005,
+    "Espervida": 72.8,
+    "Adult_Mortality": 148,
+    "Infant_Deaths": 13
   },
   {
-    "Country": "Peru",
-    "Year": 2000,
-    "Life expectancy": 71.4,
-    "Adult Mortality": 154,
-    "infant deaths": 18
+    "Pais": "Peru",
+    "Any": 2000,
+    "Espervida": 71.4,
+    "Adult_Mortality": 154,
+    "Infant_Deaths": 18
   },
   {
-    "Country": "Philippines",
-    "Year": 2015,
-    "Life expectancy": 68.5,
-    "Adult Mortality": 211,
-    "infant deaths": 52
+    "Pais": "Philippines",
+    "Any": 2015,
+    "Espervida": 68.5,
+    "Adult_Mortality": 211,
+    "Infant_Deaths": 52
   },
   {
-    "Country": "Philippines",
-    "Year": 2010,
-    "Life expectancy": 67.9,
-    "Adult Mortality": 218,
-    "infant deaths": 58
+    "Pais": "Philippines",
+    "Any": 2010,
+    "Espervida": 67.9,
+    "Adult_Mortality": 218,
+    "Infant_Deaths": 58
   },
   {
-    "Country": "Philippines",
-    "Year": 2005,
-    "Life expectancy": 67,
-    "Adult Mortality": 223,
-    "infant deaths": 65
+    "Pais": "Philippines",
+    "Any": 2005,
+    "Espervida": 67,
+    "Adult_Mortality": 223,
+    "Infant_Deaths": 65
   },
   {
-    "Country": "Philippines",
-    "Year": 2000,
-    "Life expectancy": 66.8,
-    "Adult Mortality": 219,
-    "infant deaths": 69
+    "Pais": "Philippines",
+    "Any": 2000,
+    "Espervida": 66.8,
+    "Adult_Mortality": 219,
+    "Infant_Deaths": 69
   },
   {
-    "Country": "Poland",
-    "Year": 2015,
-    "Life expectancy": 77.5,
-    "Adult Mortality": 117,
-    "infant deaths": 2
+    "Pais": "Poland",
+    "Any": 2015,
+    "Espervida": 77.5,
+    "Adult_Mortality": 117,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Poland",
-    "Year": 2010,
-    "Life expectancy": 76.3,
-    "Adult Mortality": 13,
-    "infant deaths": 2
+    "Pais": "Poland",
+    "Any": 2010,
+    "Espervida": 76.3,
+    "Adult_Mortality": 13,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Poland",
-    "Year": 2005,
-    "Life expectancy": 75,
-    "Adult Mortality": 144,
-    "infant deaths": 2
+    "Pais": "Poland",
+    "Any": 2005,
+    "Espervida": 75,
+    "Adult_Mortality": 144,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Poland",
-    "Year": 2000,
-    "Life expectancy": 73.7,
-    "Adult Mortality": 153,
-    "infant deaths": 3
+    "Pais": "Poland",
+    "Any": 2000,
+    "Espervida": 73.7,
+    "Adult_Mortality": 153,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Portugal",
-    "Year": 2015,
-    "Life expectancy": 81.1,
-    "Adult Mortality": 76,
-    "infant deaths": 0
+    "Pais": "Portugal",
+    "Any": 2015,
+    "Espervida": 81.1,
+    "Adult_Mortality": 76,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Portugal",
-    "Year": 2010,
-    "Life expectancy": 79.6,
-    "Adult Mortality": 88,
-    "infant deaths": 0
+    "Pais": "Portugal",
+    "Any": 2010,
+    "Espervida": 79.6,
+    "Adult_Mortality": 88,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Portugal",
-    "Year": 2005,
-    "Life expectancy": 77.7,
-    "Adult Mortality": 11,
-    "infant deaths": 0
+    "Pais": "Portugal",
+    "Any": 2005,
+    "Espervida": 77.7,
+    "Adult_Mortality": 11,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Portugal",
-    "Year": 2000,
-    "Life expectancy": 76.6,
-    "Adult Mortality": 11,
-    "infant deaths": 1
+    "Pais": "Portugal",
+    "Any": 2000,
+    "Espervida": 76.6,
+    "Adult_Mortality": 11,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Qatar",
-    "Year": 2015,
-    "Life expectancy": 78.2,
-    "Adult Mortality": 68,
-    "infant deaths": 0
+    "Pais": "Qatar",
+    "Any": 2015,
+    "Espervida": 78.2,
+    "Adult_Mortality": 68,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Qatar",
-    "Year": 2010,
-    "Life expectancy": 77.3,
-    "Adult Mortality": 76,
-    "infant deaths": 0
+    "Pais": "Qatar",
+    "Any": 2010,
+    "Espervida": 77.3,
+    "Adult_Mortality": 76,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Qatar",
-    "Year": 2005,
-    "Life expectancy": 76.6,
-    "Adult Mortality": 84,
-    "infant deaths": 0
+    "Pais": "Qatar",
+    "Any": 2005,
+    "Espervida": 76.6,
+    "Adult_Mortality": 84,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Qatar",
-    "Year": 2000,
-    "Life expectancy": 76.2,
-    "Adult Mortality": 88,
-    "infant deaths": 0
+    "Pais": "Qatar",
+    "Any": 2000,
+    "Espervida": 76.2,
+    "Adult_Mortality": 88,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Republic of Korea",
-    "Year": 2015,
-    "Life expectancy": 82.3,
-    "Adult Mortality": 64,
-    "infant deaths": 1
+    "Pais": "Republic of Korea",
+    "Any": 2015,
+    "Espervida": 82.3,
+    "Adult_Mortality": 64,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Republic of Korea",
-    "Year": 2010,
-    "Life expectancy": 87,
-    "Adult Mortality": 74,
-    "infant deaths": 2
+    "Pais": "Republic of Korea",
+    "Any": 2010,
+    "Espervida": 87,
+    "Adult_Mortality": 74,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Republic of Korea",
-    "Year": 2005,
-    "Life expectancy": 78.7,
-    "Adult Mortality": 84,
-    "infant deaths": 2
+    "Pais": "Republic of Korea",
+    "Any": 2005,
+    "Espervida": 78.7,
+    "Adult_Mortality": 84,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Republic of Korea",
-    "Year": 2000,
-    "Life expectancy": 76,
-    "Adult Mortality": 116,
-    "infant deaths": 4
+    "Pais": "Republic of Korea",
+    "Any": 2000,
+    "Espervida": 76,
+    "Adult_Mortality": 116,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Republic of Moldova",
-    "Year": 2015,
-    "Life expectancy": 72.1,
-    "Adult Mortality": 157,
-    "infant deaths": 1
+    "Pais": "Republic of Moldova",
+    "Any": 2015,
+    "Espervida": 72.1,
+    "Adult_Mortality": 157,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Republic of Moldova",
-    "Year": 2010,
-    "Life expectancy": 68.8,
-    "Adult Mortality": 219,
-    "infant deaths": 1
+    "Pais": "Republic of Moldova",
+    "Any": 2010,
+    "Espervida": 68.8,
+    "Adult_Mortality": 219,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Republic of Moldova",
-    "Year": 2005,
-    "Life expectancy": 67.3,
-    "Adult Mortality": 248,
-    "infant deaths": 1
+    "Pais": "Republic of Moldova",
+    "Any": 2005,
+    "Espervida": 67.3,
+    "Adult_Mortality": 248,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Republic of Moldova",
-    "Year": 2000,
-    "Life expectancy": 67.1,
-    "Adult Mortality": 235,
-    "infant deaths": 1
+    "Pais": "Republic of Moldova",
+    "Any": 2000,
+    "Espervida": 67.1,
+    "Adult_Mortality": 235,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Romania",
-    "Year": 2015,
-    "Life expectancy": 75,
-    "Adult Mortality": 133,
-    "infant deaths": 2
+    "Pais": "Romania",
+    "Any": 2015,
+    "Espervida": 75,
+    "Adult_Mortality": 133,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Romania",
-    "Year": 2010,
-    "Life expectancy": 73.4,
-    "Adult Mortality": 153,
-    "infant deaths": 2
+    "Pais": "Romania",
+    "Any": 2010,
+    "Espervida": 73.4,
+    "Adult_Mortality": 153,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Romania",
-    "Year": 2005,
-    "Life expectancy": 71.9,
-    "Adult Mortality": 162,
-    "infant deaths": 3
+    "Pais": "Romania",
+    "Any": 2005,
+    "Espervida": 71.9,
+    "Adult_Mortality": 162,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Romania",
-    "Year": 2000,
-    "Life expectancy": 77,
-    "Adult Mortality": 175,
-    "infant deaths": 4
+    "Pais": "Romania",
+    "Any": 2000,
+    "Espervida": 77,
+    "Adult_Mortality": 175,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Russian Federation",
-    "Year": 2015,
-    "Life expectancy": 75,
-    "Adult Mortality": 222,
-    "infant deaths": 13
+    "Pais": "Russian Federation",
+    "Any": 2015,
+    "Espervida": 75,
+    "Adult_Mortality": 222,
+    "Infant_Deaths": 13
   },
   {
-    "Country": "Russian Federation",
-    "Year": 2010,
-    "Life expectancy": 68.4,
-    "Adult Mortality": 256,
-    "infant deaths": 15
+    "Pais": "Russian Federation",
+    "Any": 2010,
+    "Espervida": 68.4,
+    "Adult_Mortality": 256,
+    "Infant_Deaths": 15
   },
   {
-    "Country": "Russian Federation",
-    "Year": 2005,
-    "Life expectancy": 65,
-    "Adult Mortality": 327,
-    "infant deaths": 18
+    "Pais": "Russian Federation",
+    "Any": 2005,
+    "Espervida": 65,
+    "Adult_Mortality": 327,
+    "Infant_Deaths": 18
   },
   {
-    "Country": "Russian Federation",
-    "Year": 2000,
-    "Life expectancy": 65,
-    "Adult Mortality": 37,
-    "infant deaths": 22
+    "Pais": "Russian Federation",
+    "Any": 2000,
+    "Espervida": 65,
+    "Adult_Mortality": 37,
+    "Infant_Deaths": 22
   },
   {
-    "Country": "Rwanda",
-    "Year": 2015,
-    "Life expectancy": 66.1,
-    "Adult Mortality": 227,
-    "infant deaths": 11
+    "Pais": "Rwanda",
+    "Any": 2015,
+    "Espervida": 66.1,
+    "Adult_Mortality": 227,
+    "Infant_Deaths": 11
   },
   {
-    "Country": "Rwanda",
-    "Year": 2010,
-    "Life expectancy": 62.8,
-    "Adult Mortality": 26,
-    "infant deaths": 16
+    "Pais": "Rwanda",
+    "Any": 2010,
+    "Espervida": 62.8,
+    "Adult_Mortality": 26,
+    "Infant_Deaths": 16
   },
   {
-    "Country": "Rwanda",
-    "Year": 2005,
-    "Life expectancy": 55.3,
-    "Adult Mortality": 37,
-    "infant deaths": 24
+    "Pais": "Rwanda",
+    "Any": 2005,
+    "Espervida": 55.3,
+    "Adult_Mortality": 37,
+    "Infant_Deaths": 24
   },
   {
-    "Country": "Rwanda",
-    "Year": 2000,
-    "Life expectancy": 48.3,
-    "Adult Mortality": 426,
-    "infant deaths": 34
+    "Pais": "Rwanda",
+    "Any": 2000,
+    "Espervida": 48.3,
+    "Adult_Mortality": 426,
+    "Infant_Deaths": 34
   },
   {
-    "Country": "Saint Lucia",
-    "Year": 2015,
-    "Life expectancy": 75.2,
-    "Adult Mortality": 138,
-    "infant deaths": 0
+    "Pais": "Saint Lucia",
+    "Any": 2015,
+    "Espervida": 75.2,
+    "Adult_Mortality": 138,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Saint Lucia",
-    "Year": 2010,
-    "Life expectancy": 74.2,
-    "Adult Mortality": 147,
-    "infant deaths": 0
+    "Pais": "Saint Lucia",
+    "Any": 2010,
+    "Espervida": 74.2,
+    "Adult_Mortality": 147,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Saint Lucia",
-    "Year": 2005,
-    "Life expectancy": 73.1,
-    "Adult Mortality": 16,
-    "infant deaths": 0
+    "Pais": "Saint Lucia",
+    "Any": 2005,
+    "Espervida": 73.1,
+    "Adult_Mortality": 16,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Saint Lucia",
-    "Year": 2000,
-    "Life expectancy": 71.6,
-    "Adult Mortality": 183,
-    "infant deaths": 0
+    "Pais": "Saint Lucia",
+    "Any": 2000,
+    "Espervida": 71.6,
+    "Adult_Mortality": 183,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Saint Vincent and the Grenadines",
-    "Year": 2015,
-    "Life expectancy": 73.2,
-    "Adult Mortality": 156,
-    "infant deaths": 0
+    "Pais": "Saint Vincent and the Grenadines",
+    "Any": 2015,
+    "Espervida": 73.2,
+    "Adult_Mortality": 156,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Saint Vincent and the Grenadines",
-    "Year": 2010,
-    "Life expectancy": 72.5,
-    "Adult Mortality": 162,
-    "infant deaths": 0
+    "Pais": "Saint Vincent and the Grenadines",
+    "Any": 2010,
+    "Espervida": 72.5,
+    "Adult_Mortality": 162,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Saint Vincent and the Grenadines",
-    "Year": 2005,
-    "Life expectancy": 71.4,
-    "Adult Mortality": 177,
-    "infant deaths": 0
+    "Pais": "Saint Vincent and the Grenadines",
+    "Any": 2005,
+    "Espervida": 71.4,
+    "Adult_Mortality": 177,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Saint Vincent and the Grenadines",
-    "Year": 2000,
-    "Life expectancy": 79,
-    "Adult Mortality": 186,
-    "infant deaths": 0
+    "Pais": "Saint Vincent and the Grenadines",
+    "Any": 2000,
+    "Espervida": 79,
+    "Adult_Mortality": 186,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Samoa",
-    "Year": 2015,
-    "Life expectancy": 74,
-    "Adult Mortality": 125,
-    "infant deaths": 0
+    "Pais": "Samoa",
+    "Any": 2015,
+    "Espervida": 74,
+    "Adult_Mortality": 125,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Samoa",
-    "Year": 2010,
-    "Life expectancy": 72.6,
-    "Adult Mortality": 144,
-    "infant deaths": 0
+    "Pais": "Samoa",
+    "Any": 2010,
+    "Espervida": 72.6,
+    "Adult_Mortality": 144,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Samoa",
-    "Year": 2005,
-    "Life expectancy": 71.6,
-    "Adult Mortality": 16,
-    "infant deaths": 0
+    "Pais": "Samoa",
+    "Any": 2005,
+    "Espervida": 71.6,
+    "Adult_Mortality": 16,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Samoa",
-    "Year": 2000,
-    "Life expectancy": 72,
-    "Adult Mortality": 18,
-    "infant deaths": 0
+    "Pais": "Samoa",
+    "Any": 2000,
+    "Espervida": 72,
+    "Adult_Mortality": 18,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Sao Tome and Principe",
-    "Year": 2015,
-    "Life expectancy": 67.5,
-    "Adult Mortality": 19,
-    "infant deaths": 0
+    "Pais": "Sao Tome and Principe",
+    "Any": 2015,
+    "Espervida": 67.5,
+    "Adult_Mortality": 19,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Sao Tome and Principe",
-    "Year": 2010,
-    "Life expectancy": 66.2,
-    "Adult Mortality": 24,
-    "infant deaths": 0
+    "Pais": "Sao Tome and Principe",
+    "Any": 2010,
+    "Espervida": 66.2,
+    "Adult_Mortality": 24,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Sao Tome and Principe",
-    "Year": 2005,
-    "Life expectancy": 64.3,
-    "Adult Mortality": 222,
-    "infant deaths": 0
+    "Pais": "Sao Tome and Principe",
+    "Any": 2005,
+    "Espervida": 64.3,
+    "Adult_Mortality": 222,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Sao Tome and Principe",
-    "Year": 2000,
-    "Life expectancy": 62.6,
-    "Adult Mortality": 224,
-    "infant deaths": 0
+    "Pais": "Sao Tome and Principe",
+    "Any": 2000,
+    "Espervida": 62.6,
+    "Adult_Mortality": 224,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Saudi Arabia",
-    "Year": 2015,
-    "Life expectancy": 74.5,
-    "Adult Mortality": 88,
-    "infant deaths": 7
+    "Pais": "Saudi Arabia",
+    "Any": 2015,
+    "Espervida": 74.5,
+    "Adult_Mortality": 88,
+    "Infant_Deaths": 7
   },
   {
-    "Country": "Saudi Arabia",
-    "Year": 2010,
-    "Life expectancy": 73.7,
-    "Adult Mortality": 94,
-    "infant deaths": 8
+    "Pais": "Saudi Arabia",
+    "Any": 2010,
+    "Espervida": 73.7,
+    "Adult_Mortality": 94,
+    "Infant_Deaths": 8
   },
   {
-    "Country": "Saudi Arabia",
-    "Year": 2005,
-    "Life expectancy": 73.1,
-    "Adult Mortality": 11,
-    "infant deaths": 9
+    "Pais": "Saudi Arabia",
+    "Any": 2005,
+    "Espervida": 73.1,
+    "Adult_Mortality": 11,
+    "Infant_Deaths": 9
   },
   {
-    "Country": "Saudi Arabia",
-    "Year": 2000,
-    "Life expectancy": 72.6,
-    "Adult Mortality": 11,
-    "infant deaths": 10
+    "Pais": "Saudi Arabia",
+    "Any": 2000,
+    "Espervida": 72.6,
+    "Adult_Mortality": 11,
+    "Infant_Deaths": 10
   },
   {
-    "Country": "Senegal",
-    "Year": 2015,
-    "Life expectancy": 66.7,
-    "Adult Mortality": 188,
-    "infant deaths": 19
+    "Pais": "Senegal",
+    "Any": 2015,
+    "Espervida": 66.7,
+    "Adult_Mortality": 188,
+    "Infant_Deaths": 19
   },
   {
-    "Country": "Senegal",
-    "Year": 2010,
-    "Life expectancy": 64.3,
-    "Adult Mortality": 212,
-    "infant deaths": 21
+    "Pais": "Senegal",
+    "Any": 2010,
+    "Espervida": 64.3,
+    "Adult_Mortality": 212,
+    "Infant_Deaths": 21
   },
   {
-    "Country": "Senegal",
-    "Year": 2005,
-    "Life expectancy": 65,
-    "Adult Mortality": 242,
-    "infant deaths": 23
+    "Pais": "Senegal",
+    "Any": 2005,
+    "Espervida": 65,
+    "Adult_Mortality": 242,
+    "Infant_Deaths": 23
   },
   {
-    "Country": "Senegal",
-    "Year": 2000,
-    "Life expectancy": 57.5,
-    "Adult Mortality": 25,
-    "infant deaths": 27
+    "Pais": "Senegal",
+    "Any": 2000,
+    "Espervida": 57.5,
+    "Adult_Mortality": 25,
+    "Infant_Deaths": 27
   },
   {
-    "Country": "Serbia",
-    "Year": 2015,
-    "Life expectancy": 75.6,
-    "Adult Mortality": 121,
-    "infant deaths": 1
+    "Pais": "Serbia",
+    "Any": 2015,
+    "Espervida": 75.6,
+    "Adult_Mortality": 121,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Serbia",
-    "Year": 2010,
-    "Life expectancy": 74.4,
-    "Adult Mortality": 128,
-    "infant deaths": 1
+    "Pais": "Serbia",
+    "Any": 2010,
+    "Espervida": 74.4,
+    "Adult_Mortality": 128,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Serbia",
-    "Year": 2005,
-    "Life expectancy": 73,
-    "Adult Mortality": 135,
-    "infant deaths": 1
+    "Pais": "Serbia",
+    "Any": 2005,
+    "Espervida": 73,
+    "Adult_Mortality": 135,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Serbia",
-    "Year": 2000,
-    "Life expectancy": 72.6,
-    "Adult Mortality": 141,
-    "infant deaths": 1
+    "Pais": "Serbia",
+    "Any": 2000,
+    "Espervida": 72.6,
+    "Adult_Mortality": 141,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Seychelles",
-    "Year": 2015,
-    "Life expectancy": 73.2,
-    "Adult Mortality": 168,
-    "infant deaths": 0
+    "Pais": "Seychelles",
+    "Any": 2015,
+    "Espervida": 73.2,
+    "Adult_Mortality": 168,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Seychelles",
-    "Year": 2010,
-    "Life expectancy": 72.4,
-    "Adult Mortality": 18,
-    "infant deaths": 0
+    "Pais": "Seychelles",
+    "Any": 2010,
+    "Espervida": 72.4,
+    "Adult_Mortality": 18,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Seychelles",
-    "Year": 2005,
-    "Life expectancy": 72.2,
-    "Adult Mortality": 185,
-    "infant deaths": 0
+    "Pais": "Seychelles",
+    "Any": 2005,
+    "Espervida": 72.2,
+    "Adult_Mortality": 185,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Seychelles",
-    "Year": 2000,
-    "Life expectancy": 71.8,
-    "Adult Mortality": 188,
-    "infant deaths": 0
+    "Pais": "Seychelles",
+    "Any": 2000,
+    "Espervida": 71.8,
+    "Adult_Mortality": 188,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Sierra Leone",
-    "Year": 2015,
-    "Life expectancy": 51,
-    "Adult Mortality": 413,
-    "infant deaths": 22
+    "Pais": "Sierra Leone",
+    "Any": 2015,
+    "Espervida": 51,
+    "Adult_Mortality": 413,
+    "Infant_Deaths": 22
   },
   {
-    "Country": "Sierra Leone",
-    "Year": 2010,
-    "Life expectancy": 48.1,
-    "Adult Mortality": 424,
-    "infant deaths": 27
+    "Pais": "Sierra Leone",
+    "Any": 2010,
+    "Espervida": 48.1,
+    "Adult_Mortality": 424,
+    "Infant_Deaths": 27
   },
   {
-    "Country": "Sierra Leone",
-    "Year": 2005,
-    "Life expectancy": 43.3,
-    "Adult Mortality": 48,
-    "infant deaths": 30
+    "Pais": "Sierra Leone",
+    "Any": 2005,
+    "Espervida": 43.3,
+    "Adult_Mortality": 48,
+    "Infant_Deaths": 30
   },
   {
-    "Country": "Sierra Leone",
-    "Year": 2000,
-    "Life expectancy": 39,
-    "Adult Mortality": 533,
-    "infant deaths": 29
+    "Pais": "Sierra Leone",
+    "Any": 2000,
+    "Espervida": 39,
+    "Adult_Mortality": 533,
+    "Infant_Deaths": 29
   },
   {
-    "Country": "Singapore",
-    "Year": 2015,
-    "Life expectancy": 83.1,
-    "Adult Mortality": 55,
-    "infant deaths": 0
+    "Pais": "Singapore",
+    "Any": 2015,
+    "Espervida": 83.1,
+    "Adult_Mortality": 55,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Singapore",
-    "Year": 2010,
-    "Life expectancy": 82,
-    "Adult Mortality": 61,
-    "infant deaths": 0
+    "Pais": "Singapore",
+    "Any": 2010,
+    "Espervida": 82,
+    "Adult_Mortality": 61,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Singapore",
-    "Year": 2005,
-    "Life expectancy": 82,
-    "Adult Mortality": 69,
-    "infant deaths": 0
+    "Pais": "Singapore",
+    "Any": 2005,
+    "Espervida": 82,
+    "Adult_Mortality": 69,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Singapore",
-    "Year": 2000,
-    "Life expectancy": 78.3,
-    "Adult Mortality": 78,
-    "infant deaths": 0
+    "Pais": "Singapore",
+    "Any": 2000,
+    "Espervida": 78.3,
+    "Adult_Mortality": 78,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Slovakia",
-    "Year": 2015,
-    "Life expectancy": 76.7,
-    "Adult Mortality": 19,
-    "infant deaths": 0
+    "Pais": "Slovakia",
+    "Any": 2015,
+    "Espervida": 76.7,
+    "Adult_Mortality": 19,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Slovakia",
-    "Year": 2010,
-    "Life expectancy": 75.1,
-    "Adult Mortality": 124,
-    "infant deaths": 0
+    "Pais": "Slovakia",
+    "Any": 2010,
+    "Espervida": 75.1,
+    "Adult_Mortality": 124,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Slovakia",
-    "Year": 2005,
-    "Life expectancy": 74,
-    "Adult Mortality": 141,
-    "infant deaths": 0
+    "Pais": "Slovakia",
+    "Any": 2005,
+    "Espervida": 74,
+    "Adult_Mortality": 141,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Slovakia",
-    "Year": 2000,
-    "Life expectancy": 73,
-    "Adult Mortality": 147,
-    "infant deaths": 0
+    "Pais": "Slovakia",
+    "Any": 2000,
+    "Espervida": 73,
+    "Adult_Mortality": 147,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Slovenia",
-    "Year": 2015,
-    "Life expectancy": 88,
-    "Adult Mortality": 74,
-    "infant deaths": 0
+    "Pais": "Slovenia",
+    "Any": 2015,
+    "Espervida": 88,
+    "Adult_Mortality": 74,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Slovenia",
-    "Year": 2010,
-    "Life expectancy": 79.5,
-    "Adult Mortality": 87,
-    "infant deaths": 0
+    "Pais": "Slovenia",
+    "Any": 2010,
+    "Espervida": 79.5,
+    "Adult_Mortality": 87,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Slovenia",
-    "Year": 2005,
-    "Life expectancy": 77.5,
-    "Adult Mortality": 14,
-    "infant deaths": 0
+    "Pais": "Slovenia",
+    "Any": 2005,
+    "Espervida": 77.5,
+    "Adult_Mortality": 14,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Slovenia",
-    "Year": 2000,
-    "Life expectancy": 76,
-    "Adult Mortality": 122,
-    "infant deaths": 0
+    "Pais": "Slovenia",
+    "Any": 2000,
+    "Espervida": 76,
+    "Adult_Mortality": 122,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Solomon Islands",
-    "Year": 2015,
-    "Life expectancy": 69.2,
-    "Adult Mortality": 177,
-    "infant deaths": 0
+    "Pais": "Solomon Islands",
+    "Any": 2015,
+    "Espervida": 69.2,
+    "Adult_Mortality": 177,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Solomon Islands",
-    "Year": 2010,
-    "Life expectancy": 68.3,
-    "Adult Mortality": 188,
-    "infant deaths": 0
+    "Pais": "Solomon Islands",
+    "Any": 2010,
+    "Espervida": 68.3,
+    "Adult_Mortality": 188,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Solomon Islands",
-    "Year": 2005,
-    "Life expectancy": 67.4,
-    "Adult Mortality": 24,
-    "infant deaths": 0
+    "Pais": "Solomon Islands",
+    "Any": 2005,
+    "Espervida": 67.4,
+    "Adult_Mortality": 24,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Solomon Islands",
-    "Year": 2000,
-    "Life expectancy": 65.8,
-    "Adult Mortality": 235,
-    "infant deaths": 0
+    "Pais": "Solomon Islands",
+    "Any": 2000,
+    "Espervida": 65.8,
+    "Adult_Mortality": 235,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Somalia",
-    "Year": 2015,
-    "Life expectancy": 55,
-    "Adult Mortality": 312,
-    "infant deaths": 50
+    "Pais": "Somalia",
+    "Any": 2015,
+    "Espervida": 55,
+    "Adult_Mortality": 312,
+    "Infant_Deaths": 50
   },
   {
-    "Country": "Somalia",
-    "Year": 2010,
-    "Life expectancy": 52.4,
-    "Adult Mortality": 336,
-    "infant deaths": 52
+    "Pais": "Somalia",
+    "Any": 2010,
+    "Espervida": 52.4,
+    "Adult_Mortality": 336,
+    "Infant_Deaths": 52
   },
   {
-    "Country": "Somalia",
-    "Year": 2005,
-    "Life expectancy": 51.6,
-    "Adult Mortality": 334,
-    "infant deaths": 50
+    "Pais": "Somalia",
+    "Any": 2005,
+    "Espervida": 51.6,
+    "Adult_Mortality": 334,
+    "Infant_Deaths": 50
   },
   {
-    "Country": "Somalia",
-    "Year": 2000,
-    "Life expectancy": 55,
-    "Adult Mortality": 355,
-    "infant deaths": 45
+    "Pais": "Somalia",
+    "Any": 2000,
+    "Espervida": 55,
+    "Adult_Mortality": 355,
+    "Infant_Deaths": 45
   },
   {
-    "Country": "South Africa",
-    "Year": 2015,
-    "Life expectancy": 62.9,
-    "Adult Mortality": 328,
-    "infant deaths": 42
+    "Pais": "South Africa",
+    "Any": 2015,
+    "Espervida": 62.9,
+    "Adult_Mortality": 328,
+    "Infant_Deaths": 42
   },
   {
-    "Country": "South Africa",
-    "Year": 2010,
-    "Life expectancy": 58,
-    "Adult Mortality": 428,
-    "infant deaths": 43
+    "Pais": "South Africa",
+    "Any": 2010,
+    "Espervida": 58,
+    "Adult_Mortality": 428,
+    "Infant_Deaths": 43
   },
   {
-    "Country": "South Africa",
-    "Year": 2005,
-    "Life expectancy": 53.8,
-    "Adult Mortality": 498,
-    "infant deaths": 55
+    "Pais": "South Africa",
+    "Any": 2005,
+    "Espervida": 53.8,
+    "Adult_Mortality": 498,
+    "Infant_Deaths": 55
   },
   {
-    "Country": "South Africa",
-    "Year": 2000,
-    "Life expectancy": 57.3,
-    "Adult Mortality": 397,
-    "infant deaths": 51
+    "Pais": "South Africa",
+    "Any": 2000,
+    "Espervida": 57.3,
+    "Adult_Mortality": 397,
+    "Infant_Deaths": 51
   },
   {
-    "Country": "South Sudan",
-    "Year": 2015,
-    "Life expectancy": 57.3,
-    "Adult Mortality": 332,
-    "infant deaths": 26
+    "Pais": "South Sudan",
+    "Any": 2015,
+    "Espervida": 57.3,
+    "Adult_Mortality": 332,
+    "Infant_Deaths": 26
   },
   {
-    "Country": "South Sudan",
-    "Year": 2010,
-    "Life expectancy": 55,
-    "Adult Mortality": 359,
-    "infant deaths": 27
+    "Pais": "South Sudan",
+    "Any": 2010,
+    "Espervida": 55,
+    "Adult_Mortality": 359,
+    "Infant_Deaths": 27
   },
   {
-    "Country": "South Sudan",
-    "Year": 2005,
-    "Life expectancy": 51.9,
-    "Adult Mortality": 383,
-    "infant deaths": 28
+    "Pais": "South Sudan",
+    "Any": 2005,
+    "Espervida": 51.9,
+    "Adult_Mortality": 383,
+    "Infant_Deaths": 28
   },
   {
-    "Country": "South Sudan",
-    "Year": 2000,
-    "Life expectancy": 48.9,
-    "Adult Mortality": 38,
-    "infant deaths": 31
+    "Pais": "South Sudan",
+    "Any": 2000,
+    "Espervida": 48.9,
+    "Adult_Mortality": 38,
+    "Infant_Deaths": 31
   },
   {
-    "Country": "Spain",
-    "Year": 2015,
-    "Life expectancy": 82.8,
-    "Adult Mortality": 56,
-    "infant deaths": 1
+    "Pais": "Spain",
+    "Any": 2015,
+    "Espervida": 82.8,
+    "Adult_Mortality": 56,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Spain",
-    "Year": 2010,
-    "Life expectancy": 81.9,
-    "Adult Mortality": 64,
-    "infant deaths": 1
+    "Pais": "Spain",
+    "Any": 2010,
+    "Espervida": 81.9,
+    "Adult_Mortality": 64,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Spain",
-    "Year": 2005,
-    "Life expectancy": 81,
-    "Adult Mortality": 77,
-    "infant deaths": 2
+    "Pais": "Spain",
+    "Any": 2005,
+    "Espervida": 81,
+    "Adult_Mortality": 77,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Spain",
-    "Year": 2000,
-    "Life expectancy": 79.1,
-    "Adult Mortality": 86,
-    "infant deaths": 2
+    "Pais": "Spain",
+    "Any": 2000,
+    "Espervida": 79.1,
+    "Adult_Mortality": 86,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Sri Lanka",
-    "Year": 2015,
-    "Life expectancy": 74.9,
-    "Adult Mortality": 138,
-    "infant deaths": 3
+    "Pais": "Sri Lanka",
+    "Any": 2015,
+    "Espervida": 74.9,
+    "Adult_Mortality": 138,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Sri Lanka",
-    "Year": 2010,
-    "Life expectancy": 74.5,
-    "Adult Mortality": 138,
-    "infant deaths": 3
+    "Pais": "Sri Lanka",
+    "Any": 2010,
+    "Espervida": 74.5,
+    "Adult_Mortality": 138,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Sri Lanka",
-    "Year": 2005,
-    "Life expectancy": 74.2,
-    "Adult Mortality": 138,
-    "infant deaths": 4
+    "Pais": "Sri Lanka",
+    "Any": 2005,
+    "Espervida": 74.2,
+    "Adult_Mortality": 138,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Sri Lanka",
-    "Year": 2000,
-    "Life expectancy": 71.5,
-    "Adult Mortality": 175,
-    "infant deaths": 5
+    "Pais": "Sri Lanka",
+    "Any": 2000,
+    "Espervida": 71.5,
+    "Adult_Mortality": 175,
+    "Infant_Deaths": 5
   },
   {
-    "Country": "Sudan",
-    "Year": 2015,
-    "Life expectancy": 64.1,
-    "Adult Mortality": 225,
-    "infant deaths": 58
+    "Pais": "Sudan",
+    "Any": 2015,
+    "Espervida": 64.1,
+    "Adult_Mortality": 225,
+    "Infant_Deaths": 58
   },
   {
-    "Country": "Sudan",
-    "Year": 2010,
-    "Life expectancy": 62.5,
-    "Adult Mortality": 243,
-    "infant deaths": 62
+    "Pais": "Sudan",
+    "Any": 2010,
+    "Espervida": 62.5,
+    "Adult_Mortality": 243,
+    "Infant_Deaths": 62
   },
   {
-    "Country": "Sudan",
-    "Year": 2005,
-    "Life expectancy": 67,
-    "Adult Mortality": 261,
-    "infant deaths": 66
+    "Pais": "Sudan",
+    "Any": 2005,
+    "Espervida": 67,
+    "Adult_Mortality": 261,
+    "Infant_Deaths": 66
   },
   {
-    "Country": "Sudan",
-    "Year": 2000,
-    "Life expectancy": 58.6,
-    "Adult Mortality": 284,
-    "infant deaths": 71
+    "Pais": "Sudan",
+    "Any": 2000,
+    "Espervida": 58.6,
+    "Adult_Mortality": 284,
+    "Infant_Deaths": 71
   },
   {
-    "Country": "Suriname",
-    "Year": 2015,
-    "Life expectancy": 71.6,
-    "Adult Mortality": 176,
-    "infant deaths": 0
+    "Pais": "Suriname",
+    "Any": 2015,
+    "Espervida": 71.6,
+    "Adult_Mortality": 176,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Suriname",
-    "Year": 2010,
-    "Life expectancy": 73,
-    "Adult Mortality": 19,
-    "infant deaths": 0
+    "Pais": "Suriname",
+    "Any": 2010,
+    "Espervida": 73,
+    "Adult_Mortality": 19,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Suriname",
-    "Year": 2005,
-    "Life expectancy": 68.9,
-    "Adult Mortality": 25,
-    "infant deaths": 0
+    "Pais": "Suriname",
+    "Any": 2005,
+    "Espervida": 68.9,
+    "Adult_Mortality": 25,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Suriname",
-    "Year": 2000,
-    "Life expectancy": 67.4,
-    "Adult Mortality": 224,
-    "infant deaths": 0
+    "Pais": "Suriname",
+    "Any": 2000,
+    "Espervida": 67.4,
+    "Adult_Mortality": 224,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Swaziland",
-    "Year": 2015,
-    "Life expectancy": 58.9,
-    "Adult Mortality": 373,
-    "infant deaths": 2
+    "Pais": "Swaziland",
+    "Any": 2015,
+    "Espervida": 58.9,
+    "Adult_Mortality": 373,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Swaziland",
-    "Year": 2010,
-    "Life expectancy": 53.6,
-    "Adult Mortality": 459,
-    "infant deaths": 2
+    "Pais": "Swaziland",
+    "Any": 2010,
+    "Espervida": 53.6,
+    "Adult_Mortality": 459,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Swaziland",
-    "Year": 2005,
-    "Life expectancy": 46,
-    "Adult Mortality": 63,
-    "infant deaths": 3
+    "Pais": "Swaziland",
+    "Any": 2005,
+    "Espervida": 46,
+    "Adult_Mortality": 63,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Swaziland",
-    "Year": 2000,
-    "Life expectancy": 48.4,
-    "Adult Mortality": 536,
-    "infant deaths": 3
+    "Pais": "Swaziland",
+    "Any": 2000,
+    "Espervida": 48.4,
+    "Adult_Mortality": 536,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Sweden",
-    "Year": 2015,
-    "Life expectancy": 82.4,
-    "Adult Mortality": 53,
-    "infant deaths": 0
+    "Pais": "Sweden",
+    "Any": 2015,
+    "Espervida": 82.4,
+    "Adult_Mortality": 53,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Sweden",
-    "Year": 2010,
-    "Life expectancy": 81.5,
-    "Adult Mortality": 58,
-    "infant deaths": 0
+    "Pais": "Sweden",
+    "Any": 2010,
+    "Espervida": 81.5,
+    "Adult_Mortality": 58,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Sweden",
-    "Year": 2005,
-    "Life expectancy": 85,
-    "Adult Mortality": 66,
-    "infant deaths": 0
+    "Pais": "Sweden",
+    "Any": 2005,
+    "Espervida": 85,
+    "Adult_Mortality": 66,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Sweden",
-    "Year": 2000,
-    "Life expectancy": 79.6,
-    "Adult Mortality": 73,
-    "infant deaths": 0
+    "Pais": "Sweden",
+    "Any": 2000,
+    "Espervida": 79.6,
+    "Adult_Mortality": 73,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Switzerland",
-    "Year": 2015,
-    "Life expectancy": 83.4,
-    "Adult Mortality": 49,
-    "infant deaths": 0
+    "Pais": "Switzerland",
+    "Any": 2015,
+    "Espervida": 83.4,
+    "Adult_Mortality": 49,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Switzerland",
-    "Year": 2010,
-    "Life expectancy": 82.3,
-    "Adult Mortality": 57,
-    "infant deaths": 0
+    "Pais": "Switzerland",
+    "Any": 2010,
+    "Espervida": 82.3,
+    "Adult_Mortality": 57,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Switzerland",
-    "Year": 2005,
-    "Life expectancy": 81.1,
-    "Adult Mortality": 66,
-    "infant deaths": 0
+    "Pais": "Switzerland",
+    "Any": 2005,
+    "Espervida": 81.1,
+    "Adult_Mortality": 66,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Switzerland",
-    "Year": 2000,
-    "Life expectancy": 79.7,
-    "Adult Mortality": 78,
-    "infant deaths": 0
+    "Pais": "Switzerland",
+    "Any": 2000,
+    "Espervida": 79.7,
+    "Adult_Mortality": 78,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Syrian Arab Republic",
-    "Year": 2015,
-    "Life expectancy": 64.5,
-    "Adult Mortality": 293,
-    "infant deaths": 6
+    "Pais": "Syrian Arab Republic",
+    "Any": 2015,
+    "Espervida": 64.5,
+    "Adult_Mortality": 293,
+    "Infant_Deaths": 6
   },
   {
-    "Country": "Syrian Arab Republic",
-    "Year": 2010,
-    "Life expectancy": 73.7,
-    "Adult Mortality": 127,
-    "infant deaths": 7
+    "Pais": "Syrian Arab Republic",
+    "Any": 2010,
+    "Espervida": 73.7,
+    "Adult_Mortality": 127,
+    "Infant_Deaths": 7
   },
   {
-    "Country": "Syrian Arab Republic",
-    "Year": 2005,
-    "Life expectancy": 73.5,
-    "Adult Mortality": 127,
-    "infant deaths": 9
+    "Pais": "Syrian Arab Republic",
+    "Any": 2005,
+    "Espervida": 73.5,
+    "Adult_Mortality": 127,
+    "Infant_Deaths": 9
   },
   {
-    "Country": "Syrian Arab Republic",
-    "Year": 2000,
-    "Life expectancy": 72.6,
-    "Adult Mortality": 136,
-    "infant deaths": 10
+    "Pais": "Syrian Arab Republic",
+    "Any": 2000,
+    "Espervida": 72.6,
+    "Adult_Mortality": 136,
+    "Infant_Deaths": 10
   },
   {
-    "Country": "Tajikistan",
-    "Year": 2015,
-    "Life expectancy": 69.7,
-    "Adult Mortality": 161,
-    "infant deaths": 10
+    "Pais": "Tajikistan",
+    "Any": 2015,
+    "Espervida": 69.7,
+    "Adult_Mortality": 161,
+    "Infant_Deaths": 10
   },
   {
-    "Country": "Tajikistan",
-    "Year": 2010,
-    "Life expectancy": 67.3,
-    "Adult Mortality": 171,
-    "infant deaths": 10
+    "Pais": "Tajikistan",
+    "Any": 2010,
+    "Espervida": 67.3,
+    "Adult_Mortality": 171,
+    "Infant_Deaths": 10
   },
   {
-    "Country": "Tajikistan",
-    "Year": 2005,
-    "Life expectancy": 65.5,
-    "Adult Mortality": 194,
-    "infant deaths": 10
+    "Pais": "Tajikistan",
+    "Any": 2005,
+    "Espervida": 65.5,
+    "Adult_Mortality": 194,
+    "Infant_Deaths": 10
   },
   {
-    "Country": "Tajikistan",
-    "Year": 2000,
-    "Life expectancy": 63.7,
-    "Adult Mortality": 198,
-    "infant deaths": 14
+    "Pais": "Tajikistan",
+    "Any": 2000,
+    "Espervida": 63.7,
+    "Adult_Mortality": 198,
+    "Infant_Deaths": 14
   },
   {
-    "Country": "Thailand",
-    "Year": 2015,
-    "Life expectancy": 74.9,
-    "Adult Mortality": 148,
-    "infant deaths": 8
+    "Pais": "Thailand",
+    "Any": 2015,
+    "Espervida": 74.9,
+    "Adult_Mortality": 148,
+    "Infant_Deaths": 8
   },
   {
-    "Country": "Thailand",
-    "Year": 2010,
-    "Life expectancy": 73.9,
-    "Adult Mortality": 158,
-    "infant deaths": 10
+    "Pais": "Thailand",
+    "Any": 2010,
+    "Espervida": 73.9,
+    "Adult_Mortality": 158,
+    "Infant_Deaths": 10
   },
   {
-    "Country": "Thailand",
-    "Year": 2005,
-    "Life expectancy": 72.5,
-    "Adult Mortality": 177,
-    "infant deaths": 13
+    "Pais": "Thailand",
+    "Any": 2005,
+    "Espervida": 72.5,
+    "Adult_Mortality": 177,
+    "Infant_Deaths": 13
   },
   {
-    "Country": "Thailand",
-    "Year": 2000,
-    "Life expectancy": 71.1,
-    "Adult Mortality": 194,
-    "infant deaths": 18
+    "Pais": "Thailand",
+    "Any": 2000,
+    "Espervida": 71.1,
+    "Adult_Mortality": 194,
+    "Infant_Deaths": 18
   },
   {
-    "Country": "The former Yugoslav republic of Macedonia",
-    "Year": 2015,
-    "Life expectancy": 75.7,
-    "Adult Mortality": 12,
-    "infant deaths": 0
+    "Pais": "The former Yugoslav republic of Macedonia",
+    "Any": 2015,
+    "Espervida": 75.7,
+    "Adult_Mortality": 12,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "The former Yugoslav republic of Macedonia",
-    "Year": 2010,
-    "Life expectancy": 74.7,
-    "Adult Mortality": 18,
-    "infant deaths": 0
+    "Pais": "The former Yugoslav republic of Macedonia",
+    "Any": 2010,
+    "Espervida": 74.7,
+    "Adult_Mortality": 18,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "The former Yugoslav republic of Macedonia",
-    "Year": 2005,
-    "Life expectancy": 73.6,
-    "Adult Mortality": 12,
-    "infant deaths": 0
+    "Pais": "The former Yugoslav republic of Macedonia",
+    "Any": 2005,
+    "Espervida": 73.6,
+    "Adult_Mortality": 12,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "The former Yugoslav republic of Macedonia",
-    "Year": 2000,
-    "Life expectancy": 72.6,
-    "Adult Mortality": 125,
-    "infant deaths": 0
+    "Pais": "The former Yugoslav republic of Macedonia",
+    "Any": 2000,
+    "Espervida": 72.6,
+    "Adult_Mortality": 125,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Timor-Leste",
-    "Year": 2015,
-    "Life expectancy": 68.3,
-    "Adult Mortality": 152,
-    "infant deaths": 2
+    "Pais": "Timor-Leste",
+    "Any": 2015,
+    "Espervida": 68.3,
+    "Adult_Mortality": 152,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Timor-Leste",
-    "Year": 2010,
-    "Life expectancy": 66.9,
-    "Adult Mortality": 163,
-    "infant deaths": 2
+    "Pais": "Timor-Leste",
+    "Any": 2010,
+    "Espervida": 66.9,
+    "Adult_Mortality": 163,
+    "Infant_Deaths": 2
   },
   {
-    "Country": "Timor-Leste",
-    "Year": 2005,
-    "Life expectancy": 63.7,
-    "Adult Mortality": 26,
-    "infant deaths": 3
+    "Pais": "Timor-Leste",
+    "Any": 2005,
+    "Espervida": 63.7,
+    "Adult_Mortality": 26,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Timor-Leste",
-    "Year": 2000,
-    "Life expectancy": 58.7,
-    "Adult Mortality": 276,
-    "infant deaths": 3
+    "Pais": "Timor-Leste",
+    "Any": 2000,
+    "Espervida": 58.7,
+    "Adult_Mortality": 276,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Togo",
-    "Year": 2015,
-    "Life expectancy": 59.9,
-    "Adult Mortality": 287,
-    "infant deaths": 13
+    "Pais": "Togo",
+    "Any": 2015,
+    "Espervida": 59.9,
+    "Adult_Mortality": 287,
+    "Infant_Deaths": 13
   },
   {
-    "Country": "Togo",
-    "Year": 2010,
-    "Life expectancy": 57.4,
-    "Adult Mortality": 323,
-    "infant deaths": 14
+    "Pais": "Togo",
+    "Any": 2010,
+    "Espervida": 57.4,
+    "Adult_Mortality": 323,
+    "Infant_Deaths": 14
   },
   {
-    "Country": "Togo",
-    "Year": 2005,
-    "Life expectancy": 55,
-    "Adult Mortality": 357,
-    "infant deaths": 15
+    "Pais": "Togo",
+    "Any": 2005,
+    "Espervida": 55,
+    "Adult_Mortality": 357,
+    "Infant_Deaths": 15
   },
   {
-    "Country": "Togo",
-    "Year": 2000,
-    "Life expectancy": 54.6,
-    "Adult Mortality": 339,
-    "infant deaths": 14
+    "Pais": "Togo",
+    "Any": 2000,
+    "Espervida": 54.6,
+    "Adult_Mortality": 339,
+    "Infant_Deaths": 14
   },
   {
-    "Country": "Tonga",
-    "Year": 2015,
-    "Life expectancy": 73.5,
-    "Adult Mortality": 133,
-    "infant deaths": 0
+    "Pais": "Tonga",
+    "Any": 2015,
+    "Espervida": 73.5,
+    "Adult_Mortality": 133,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Tonga",
-    "Year": 2010,
-    "Life expectancy": 72.8,
-    "Adult Mortality": 142,
-    "infant deaths": 0
+    "Pais": "Tonga",
+    "Any": 2010,
+    "Espervida": 72.8,
+    "Adult_Mortality": 142,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Tonga",
-    "Year": 2005,
-    "Life expectancy": 72.3,
-    "Adult Mortality": 15,
-    "infant deaths": 0
+    "Pais": "Tonga",
+    "Any": 2005,
+    "Espervida": 72.3,
+    "Adult_Mortality": 15,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Tonga",
-    "Year": 2000,
-    "Life expectancy": 71.6,
-    "Adult Mortality": 158,
-    "infant deaths": 0
+    "Pais": "Tonga",
+    "Any": 2000,
+    "Espervida": 71.6,
+    "Adult_Mortality": 158,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Trinidad and Tobago",
-    "Year": 2015,
-    "Life expectancy": 71.2,
-    "Adult Mortality": 17,
-    "infant deaths": 0
+    "Pais": "Trinidad and Tobago",
+    "Any": 2015,
+    "Espervida": 71.2,
+    "Adult_Mortality": 17,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Trinidad and Tobago",
-    "Year": 2010,
-    "Life expectancy": 74,
-    "Adult Mortality": 179,
-    "infant deaths": 0
+    "Pais": "Trinidad and Tobago",
+    "Any": 2010,
+    "Espervida": 74,
+    "Adult_Mortality": 179,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Trinidad and Tobago",
-    "Year": 2005,
-    "Life expectancy": 69.5,
-    "Adult Mortality": 189,
-    "infant deaths": 0
+    "Pais": "Trinidad and Tobago",
+    "Any": 2005,
+    "Espervida": 69.5,
+    "Adult_Mortality": 189,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Trinidad and Tobago",
-    "Year": 2000,
-    "Life expectancy": 69.1,
-    "Adult Mortality": 197,
-    "infant deaths": 0
+    "Pais": "Trinidad and Tobago",
+    "Any": 2000,
+    "Espervida": 69.1,
+    "Adult_Mortality": 197,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Tunisia",
-    "Year": 2015,
-    "Life expectancy": 75.3,
-    "Adult Mortality": 1,
-    "infant deaths": 3
+    "Pais": "Tunisia",
+    "Any": 2015,
+    "Espervida": 75.3,
+    "Adult_Mortality": 1,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Tunisia",
-    "Year": 2010,
-    "Life expectancy": 74.8,
-    "Adult Mortality": 12,
-    "infant deaths": 3
+    "Pais": "Tunisia",
+    "Any": 2010,
+    "Espervida": 74.8,
+    "Adult_Mortality": 12,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Tunisia",
-    "Year": 2005,
-    "Life expectancy": 74.2,
-    "Adult Mortality": 14,
-    "infant deaths": 3
+    "Pais": "Tunisia",
+    "Any": 2005,
+    "Espervida": 74.2,
+    "Adult_Mortality": 14,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "Tunisia",
-    "Year": 2000,
-    "Life expectancy": 72.9,
-    "Adult Mortality": 112,
-    "infant deaths": 4
+    "Pais": "Tunisia",
+    "Any": 2000,
+    "Espervida": 72.9,
+    "Adult_Mortality": 112,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Turkey",
-    "Year": 2015,
-    "Life expectancy": 75.8,
-    "Adult Mortality": 16,
-    "infant deaths": 15
+    "Pais": "Turkey",
+    "Any": 2015,
+    "Espervida": 75.8,
+    "Adult_Mortality": 16,
+    "Infant_Deaths": 15
   },
   {
-    "Country": "Turkey",
-    "Year": 2010,
-    "Life expectancy": 74.2,
-    "Adult Mortality": 116,
-    "infant deaths": 21
+    "Pais": "Turkey",
+    "Any": 2010,
+    "Espervida": 74.2,
+    "Adult_Mortality": 116,
+    "Infant_Deaths": 21
   },
   {
-    "Country": "Turkey",
-    "Year": 2005,
-    "Life expectancy": 72.4,
-    "Adult Mortality": 129,
-    "infant deaths": 30
+    "Pais": "Turkey",
+    "Any": 2005,
+    "Espervida": 72.4,
+    "Adult_Mortality": 129,
+    "Infant_Deaths": 30
   },
   {
-    "Country": "Turkey",
-    "Year": 2000,
-    "Life expectancy": 74,
-    "Adult Mortality": 143,
-    "infant deaths": 44
+    "Pais": "Turkey",
+    "Any": 2000,
+    "Espervida": 74,
+    "Adult_Mortality": 143,
+    "Infant_Deaths": 44
   },
   {
-    "Country": "Turkmenistan",
-    "Year": 2015,
-    "Life expectancy": 66.3,
-    "Adult Mortality": 215,
-    "infant deaths": 6
+    "Pais": "Turkmenistan",
+    "Any": 2015,
+    "Espervida": 66.3,
+    "Adult_Mortality": 215,
+    "Infant_Deaths": 6
   },
   {
-    "Country": "Turkmenistan",
-    "Year": 2010,
-    "Life expectancy": 65.8,
-    "Adult Mortality": 211,
-    "infant deaths": 7
+    "Pais": "Turkmenistan",
+    "Any": 2010,
+    "Espervida": 65.8,
+    "Adult_Mortality": 211,
+    "Infant_Deaths": 7
   },
   {
-    "Country": "Turkmenistan",
-    "Year": 2005,
-    "Life expectancy": 63.3,
-    "Adult Mortality": 248,
-    "infant deaths": 6
+    "Pais": "Turkmenistan",
+    "Any": 2005,
+    "Espervida": 63.3,
+    "Adult_Mortality": 248,
+    "Infant_Deaths": 6
   },
   {
-    "Country": "Turkmenistan",
-    "Year": 2000,
-    "Life expectancy": 63.8,
-    "Adult Mortality": 224,
-    "infant deaths": 7
+    "Pais": "Turkmenistan",
+    "Any": 2000,
+    "Espervida": 63.8,
+    "Adult_Mortality": 224,
+    "Infant_Deaths": 7
   },
   {
-    "Country": "Uganda",
-    "Year": 2015,
-    "Life expectancy": 62.3,
-    "Adult Mortality": 291,
-    "infant deaths": 66
+    "Pais": "Uganda",
+    "Any": 2015,
+    "Espervida": 62.3,
+    "Adult_Mortality": 291,
+    "Infant_Deaths": 66
   },
   {
-    "Country": "Uganda",
-    "Year": 2010,
-    "Life expectancy": 58.4,
-    "Adult Mortality": 362,
-    "infant deaths": 79
+    "Pais": "Uganda",
+    "Any": 2010,
+    "Espervida": 58.4,
+    "Adult_Mortality": 362,
+    "Infant_Deaths": 79
   },
   {
-    "Country": "Uganda",
-    "Year": 2005,
-    "Life expectancy": 53.2,
-    "Adult Mortality": 446,
-    "infant deaths": 99
+    "Pais": "Uganda",
+    "Any": 2005,
+    "Espervida": 53.2,
+    "Adult_Mortality": 446,
+    "Infant_Deaths": 99
   },
   {
-    "Country": "Uganda",
-    "Year": 2000,
-    "Life expectancy": 46.6,
-    "Adult Mortality": 554,
-    "infant deaths": 116
+    "Pais": "Uganda",
+    "Any": 2000,
+    "Espervida": 46.6,
+    "Adult_Mortality": 554,
+    "Infant_Deaths": 116
   },
   {
-    "Country": "Ukraine",
-    "Year": 2015,
-    "Life expectancy": 71.3,
-    "Adult Mortality": 195,
-    "infant deaths": 4
+    "Pais": "Ukraine",
+    "Any": 2015,
+    "Espervida": 71.3,
+    "Adult_Mortality": 195,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "Ukraine",
-    "Year": 2010,
-    "Life expectancy": 69.8,
-    "Adult Mortality": 212,
-    "infant deaths": 5
+    "Pais": "Ukraine",
+    "Any": 2010,
+    "Espervida": 69.8,
+    "Adult_Mortality": 212,
+    "Infant_Deaths": 5
   },
   {
-    "Country": "Ukraine",
-    "Year": 2005,
-    "Life expectancy": 67,
-    "Adult Mortality": 278,
-    "infant deaths": 5
+    "Pais": "Ukraine",
+    "Any": 2005,
+    "Espervida": 67,
+    "Adult_Mortality": 278,
+    "Infant_Deaths": 5
   },
   {
-    "Country": "Ukraine",
-    "Year": 2000,
-    "Life expectancy": 67.5,
-    "Adult Mortality": 257,
-    "infant deaths": 6
+    "Pais": "Ukraine",
+    "Any": 2000,
+    "Espervida": 67.5,
+    "Adult_Mortality": 257,
+    "Infant_Deaths": 6
   },
   {
-    "Country": "United Arab Emirates",
-    "Year": 2015,
-    "Life expectancy": 77.1,
-    "Adult Mortality": 75,
-    "infant deaths": 1
+    "Pais": "United Arab Emirates",
+    "Any": 2015,
+    "Espervida": 77.1,
+    "Adult_Mortality": 75,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "United Arab Emirates",
-    "Year": 2010,
-    "Life expectancy": 76.2,
-    "Adult Mortality": 82,
-    "infant deaths": 1
+    "Pais": "United Arab Emirates",
+    "Any": 2010,
+    "Espervida": 76.2,
+    "Adult_Mortality": 82,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "United Arab Emirates",
-    "Year": 2005,
-    "Life expectancy": 75.3,
-    "Adult Mortality": 92,
-    "infant deaths": 1
+    "Pais": "United Arab Emirates",
+    "Any": 2005,
+    "Espervida": 75.3,
+    "Adult_Mortality": 92,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "United Arab Emirates",
-    "Year": 2000,
-    "Life expectancy": 74.2,
-    "Adult Mortality": 17,
-    "infant deaths": 1
+    "Pais": "United Arab Emirates",
+    "Any": 2000,
+    "Espervida": 74.2,
+    "Adult_Mortality": 17,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "United Kingdom of Great Britain and Northern Ireland",
-    "Year": 2015,
-    "Life expectancy": 81.2,
-    "Adult Mortality": 69,
-    "infant deaths": 3
+    "Pais": "United Kingdom of Great Britain and Northern Ireland",
+    "Any": 2015,
+    "Espervida": 81.2,
+    "Adult_Mortality": 69,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "United Kingdom of Great Britain and Northern Ireland",
-    "Year": 2010,
-    "Life expectancy": 82,
-    "Adult Mortality": 77,
-    "infant deaths": 3
+    "Pais": "United Kingdom of Great Britain and Northern Ireland",
+    "Any": 2010,
+    "Espervida": 82,
+    "Adult_Mortality": 77,
+    "Infant_Deaths": 3
   },
   {
-    "Country": "United Kingdom of Great Britain and Northern Ireland",
-    "Year": 2005,
-    "Life expectancy": 79,
-    "Adult Mortality": 82,
-    "infant deaths": 4
+    "Pais": "United Kingdom of Great Britain and Northern Ireland",
+    "Any": 2005,
+    "Espervida": 79,
+    "Adult_Mortality": 82,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "United Kingdom of Great Britain and Northern Ireland",
-    "Year": 2000,
-    "Life expectancy": 77.8,
-    "Adult Mortality": 89,
-    "infant deaths": 4
+    "Pais": "United Kingdom of Great Britain and Northern Ireland",
+    "Any": 2000,
+    "Espervida": 77.8,
+    "Adult_Mortality": 89,
+    "Infant_Deaths": 4
   },
   {
-    "Country": "United Republic of Tanzania",
-    "Year": 2015,
-    "Life expectancy": 61.8,
-    "Adult Mortality": 279,
-    "infant deaths": 85
+    "Pais": "United Republic of Tanzania",
+    "Any": 2015,
+    "Espervida": 61.8,
+    "Adult_Mortality": 279,
+    "Infant_Deaths": 85
   },
   {
-    "Country": "United Republic of Tanzania",
-    "Year": 2010,
-    "Life expectancy": 57.5,
-    "Adult Mortality": 36,
-    "infant deaths": 89
+    "Pais": "United Republic of Tanzania",
+    "Any": 2010,
+    "Espervida": 57.5,
+    "Adult_Mortality": 36,
+    "Infant_Deaths": 89
   },
   {
-    "Country": "United Republic of Tanzania",
-    "Year": 2005,
-    "Life expectancy": 52.2,
-    "Adult Mortality": 449,
-    "infant deaths": 97
+    "Pais": "United Republic of Tanzania",
+    "Any": 2005,
+    "Espervida": 52.2,
+    "Adult_Mortality": 449,
+    "Infant_Deaths": 97
   },
   {
-    "Country": "United Republic of Tanzania",
-    "Year": 2000,
-    "Life expectancy": 49.2,
-    "Adult Mortality": 457,
-    "infant deaths": 114
+    "Pais": "United Republic of Tanzania",
+    "Any": 2000,
+    "Espervida": 49.2,
+    "Adult_Mortality": 457,
+    "Infant_Deaths": 114
   },
   {
-    "Country": "United States of America",
-    "Year": 2015,
-    "Life expectancy": 79.3,
-    "Adult Mortality": 13,
-    "infant deaths": 23
+    "Pais": "United States of America",
+    "Any": 2015,
+    "Espervida": 79.3,
+    "Adult_Mortality": 13,
+    "Infant_Deaths": 23
   },
   {
-    "Country": "United States of America",
-    "Year": 2010,
-    "Life expectancy": 78.7,
-    "Adult Mortality": 15,
-    "infant deaths": 25
+    "Pais": "United States of America",
+    "Any": 2010,
+    "Espervida": 78.7,
+    "Adult_Mortality": 15,
+    "Infant_Deaths": 25
   },
   {
-    "Country": "United States of America",
-    "Year": 2005,
-    "Life expectancy": 77.5,
-    "Adult Mortality": 112,
-    "infant deaths": 28
+    "Pais": "United States of America",
+    "Any": 2005,
+    "Espervida": 77.5,
+    "Adult_Mortality": 112,
+    "Infant_Deaths": 28
   },
   {
-    "Country": "United States of America",
-    "Year": 2000,
-    "Life expectancy": 76.8,
-    "Adult Mortality": 114,
-    "infant deaths": 28
+    "Pais": "United States of America",
+    "Any": 2000,
+    "Espervida": 76.8,
+    "Adult_Mortality": 114,
+    "Infant_Deaths": 28
   },
   {
-    "Country": "Uruguay",
-    "Year": 2015,
-    "Life expectancy": 77,
-    "Adult Mortality": 116,
-    "infant deaths": 0
+    "Pais": "Uruguay",
+    "Any": 2015,
+    "Espervida": 77,
+    "Adult_Mortality": 116,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Uruguay",
-    "Year": 2010,
-    "Life expectancy": 76.3,
-    "Adult Mortality": 118,
-    "infant deaths": 0
+    "Pais": "Uruguay",
+    "Any": 2010,
+    "Espervida": 76.3,
+    "Adult_Mortality": 118,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Uruguay",
-    "Year": 2005,
-    "Life expectancy": 75.7,
-    "Adult Mortality": 123,
-    "infant deaths": 1
+    "Pais": "Uruguay",
+    "Any": 2005,
+    "Espervida": 75.7,
+    "Adult_Mortality": 123,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Uruguay",
-    "Year": 2000,
-    "Life expectancy": 75.1,
-    "Adult Mortality": 131,
-    "infant deaths": 1
+    "Pais": "Uruguay",
+    "Any": 2000,
+    "Espervida": 75.1,
+    "Adult_Mortality": 131,
+    "Infant_Deaths": 1
   },
   {
-    "Country": "Uzbekistan",
-    "Year": 2015,
-    "Life expectancy": 69.4,
-    "Adult Mortality": 184,
-    "infant deaths": 15
+    "Pais": "Uzbekistan",
+    "Any": 2015,
+    "Espervida": 69.4,
+    "Adult_Mortality": 184,
+    "Infant_Deaths": 15
   },
   {
-    "Country": "Uzbekistan",
-    "Year": 2010,
-    "Life expectancy": 68.3,
-    "Adult Mortality": 183,
-    "infant deaths": 20
+    "Pais": "Uzbekistan",
+    "Any": 2010,
+    "Espervida": 68.3,
+    "Adult_Mortality": 183,
+    "Infant_Deaths": 20
   },
   {
-    "Country": "Uzbekistan",
-    "Year": 2005,
-    "Life expectancy": 67.3,
-    "Adult Mortality": 192,
-    "infant deaths": 24
+    "Pais": "Uzbekistan",
+    "Any": 2005,
+    "Espervida": 67.3,
+    "Adult_Mortality": 192,
+    "Infant_Deaths": 24
   },
   {
-    "Country": "Uzbekistan",
-    "Year": 2000,
-    "Life expectancy": 67.1,
-    "Adult Mortality": 189,
-    "infant deaths": 30
+    "Pais": "Uzbekistan",
+    "Any": 2000,
+    "Espervida": 67.1,
+    "Adult_Mortality": 189,
+    "Infant_Deaths": 30
   },
   {
-    "Country": "Vanuatu",
-    "Year": 2015,
-    "Life expectancy": 72,
-    "Adult Mortality": 13,
-    "infant deaths": 0
+    "Pais": "Vanuatu",
+    "Any": 2015,
+    "Espervida": 72,
+    "Adult_Mortality": 13,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Vanuatu",
-    "Year": 2010,
-    "Life expectancy": 71,
-    "Adult Mortality": 145,
-    "infant deaths": 0
+    "Pais": "Vanuatu",
+    "Any": 2010,
+    "Espervida": 71,
+    "Adult_Mortality": 145,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Vanuatu",
-    "Year": 2005,
-    "Life expectancy": 69.9,
-    "Adult Mortality": 165,
-    "infant deaths": 0
+    "Pais": "Vanuatu",
+    "Any": 2005,
+    "Espervida": 69.9,
+    "Adult_Mortality": 165,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Vanuatu",
-    "Year": 2000,
-    "Life expectancy": 69,
-    "Adult Mortality": 18,
-    "infant deaths": 0
+    "Pais": "Vanuatu",
+    "Any": 2000,
+    "Espervida": 69,
+    "Adult_Mortality": 18,
+    "Infant_Deaths": 0
   },
   {
-    "Country": "Venezuela (Bolivarian Republic of)",
-    "Year": 2015,
-    "Life expectancy": 74.1,
-    "Adult Mortality": 157,
-    "infant deaths": 9
+    "Pais": "Venezuela (Bolivarian Republic of)",
+    "Any": 2015,
+    "Espervida": 74.1,
+    "Adult_Mortality": 157,
+    "Infant_Deaths": 9
   },
   {
-    "Country": "Venezuela (Bolivarian Republic of)",
-    "Year": 2010,
-    "Life expectancy": 73.7,
-    "Adult Mortality": 158,
-    "infant deaths": 9
+    "Pais": "Venezuela (Bolivarian Republic of)",
+    "Any": 2010,
+    "Espervida": 73.7,
+    "Adult_Mortality": 158,
+    "Infant_Deaths": 9
   },
   {
-    "Country": "Venezuela (Bolivarian Republic of)",
-    "Year": 2005,
-    "Life expectancy": 73.6,
-    "Adult Mortality": 158,
-    "infant deaths": 9
+    "Pais": "Venezuela (Bolivarian Republic of)",
+    "Any": 2005,
+    "Espervida": 73.6,
+    "Adult_Mortality": 158,
+    "Infant_Deaths": 9
   },
   {
-    "Country": "Venezuela (Bolivarian Republic of)",
-    "Year": 2000,
-    "Life expectancy": 72.5,
-    "Adult Mortality": 168,
-    "infant deaths": 11
+    "Pais": "Venezuela (Bolivarian Republic of)",
+    "Any": 2000,
+    "Espervida": 72.5,
+    "Adult_Mortality": 168,
+    "Infant_Deaths": 11
   },
   {
-    "Country": "Viet Nam",
-    "Year": 2015,
-    "Life expectancy": 76,
-    "Adult Mortality": 127,
-    "infant deaths": 28
+    "Pais": "Viet Nam",
+    "Any": 2015,
+    "Espervida": 76,
+    "Adult_Mortality": 127,
+    "Infant_Deaths": 28
   },
   {
-    "Country": "Viet Nam",
-    "Year": 2010,
-    "Life expectancy": 75.2,
-    "Adult Mortality": 133,
-    "infant deaths": 29
+    "Pais": "Viet Nam",
+    "Any": 2010,
+    "Espervida": 75.2,
+    "Adult_Mortality": 133,
+    "Infant_Deaths": 29
   },
   {
-    "Country": "Viet Nam",
-    "Year": 2005,
-    "Life expectancy": 74.4,
-    "Adult Mortality": 136,
-    "infant deaths": 29
+    "Pais": "Viet Nam",
+    "Any": 2005,
+    "Espervida": 74.4,
+    "Adult_Mortality": 136,
+    "Infant_Deaths": 29
   },
   {
-    "Country": "Viet Nam",
-    "Year": 2000,
-    "Life expectancy": 73.4,
-    "Adult Mortality": 139,
-    "infant deaths": 33
+    "Pais": "Viet Nam",
+    "Any": 2000,
+    "Espervida": 73.4,
+    "Adult_Mortality": 139,
+    "Infant_Deaths": 33
   },
   {
-    "Country": "Yemen",
-    "Year": 2015,
-    "Life expectancy": 65.7,
-    "Adult Mortality": 224,
-    "infant deaths": 37
+    "Pais": "Yemen",
+    "Any": 2015,
+    "Espervida": 65.7,
+    "Adult_Mortality": 224,
+    "Infant_Deaths": 37
   },
   {
-    "Country": "Yemen",
-    "Year": 2010,
-    "Life expectancy": 64.4,
-    "Adult Mortality": 233,
-    "infant deaths": 35
+    "Pais": "Yemen",
+    "Any": 2010,
+    "Espervida": 64.4,
+    "Adult_Mortality": 233,
+    "Infant_Deaths": 35
   },
   {
-    "Country": "Yemen",
-    "Year": 2005,
-    "Life expectancy": 62.6,
-    "Adult Mortality": 245,
-    "infant deaths": 40
+    "Pais": "Yemen",
+    "Any": 2005,
+    "Espervida": 62.6,
+    "Adult_Mortality": 245,
+    "Infant_Deaths": 40
   },
   {
-    "Country": "Yemen",
-    "Year": 2000,
-    "Life expectancy": 68,
-    "Adult Mortality": 252,
-    "infant deaths": 48
+    "Pais": "Yemen",
+    "Any": 2000,
+    "Espervida": 68,
+    "Adult_Mortality": 252,
+    "Infant_Deaths": 48
   },
   {
-    "Country": "Zambia",
-    "Year": 2015,
-    "Life expectancy": 61.8,
-    "Adult Mortality": 33,
-    "infant deaths": 27
+    "Pais": "Zambia",
+    "Any": 2015,
+    "Espervida": 61.8,
+    "Adult_Mortality": 33,
+    "Infant_Deaths": 27
   },
   {
-    "Country": "Zambia",
-    "Year": 2010,
-    "Life expectancy": 58,
-    "Adult Mortality": 363,
-    "infant deaths": 30
+    "Pais": "Zambia",
+    "Any": 2010,
+    "Espervida": 58,
+    "Adult_Mortality": 363,
+    "Infant_Deaths": 30
   },
   {
-    "Country": "Zambia",
-    "Year": 2005,
-    "Life expectancy": 49.3,
-    "Adult Mortality": 554,
-    "infant deaths": 34
+    "Pais": "Zambia",
+    "Any": 2005,
+    "Espervida": 49.3,
+    "Adult_Mortality": 554,
+    "Infant_Deaths": 34
   },
   {
-    "Country": "Zambia",
-    "Year": 2000,
-    "Life expectancy": 43.8,
-    "Adult Mortality": 614,
-    "infant deaths": 44
+    "Pais": "Zambia",
+    "Any": 2000,
+    "Espervida": 43.8,
+    "Adult_Mortality": 614,
+    "Infant_Deaths": 44
   },
   {
-    "Country": "Zimbabwe",
-    "Year": 2015,
-    "Life expectancy": 67,
-    "Adult Mortality": 336,
-    "infant deaths": 22
+    "Pais": "Zimbabwe",
+    "Any": 2015,
+    "Espervida": 67,
+    "Adult_Mortality": 336,
+    "Infant_Deaths": 22
   },
   {
-    "Country": "Zimbabwe",
-    "Year": 2010,
-    "Life expectancy": 52.4,
-    "Adult Mortality": 527,
-    "infant deaths": 29
+    "Pais": "Zimbabwe",
+    "Any": 2010,
+    "Espervida": 52.4,
+    "Adult_Mortality": 527,
+    "Infant_Deaths": 29
   },
   {
-    "Country": "Zimbabwe",
-    "Year": 2005,
-    "Life expectancy": 44.6,
-    "Adult Mortality": 717,
-    "infant deaths": 28
+    "Pais": "Zimbabwe",
+    "Any": 2005,
+    "Espervida": 44.6,
+    "Adult_Mortality": 717,
+    "Infant_Deaths": 28
   },
   {
-    "Country": "Zimbabwe",
-    "Year": 2000,
-    "Life expectancy": 46,
-    "Adult Mortality": 665,
-    "infant deaths": 24
+    "Pais": "Zimbabwe",
+    "Any": 2000,
+    "Espervida": 46,
+    "Adult_Mortality": 665,
+    "Infant_Deaths": 24
   }
 ]
