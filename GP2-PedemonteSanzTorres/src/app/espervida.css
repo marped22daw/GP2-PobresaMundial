@@ -6,6 +6,10 @@
   background-color: white;
   }
 
+  h1{
+    margin-left: 1%;
+  }
+
   table {
     align-items: center;
       width: 80%;
@@ -13,3 +17,6 @@
       margin:20px;
       margin-bottom: 15%;
   } 
+  td {
+    width: 100px;
+  }
