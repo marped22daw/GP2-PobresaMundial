@@ -14,10 +14,12 @@ mat-toolbar {
     background-color: white;
 }
 .open{
-    margin-left: -1550%;
+    margin-left: -4250%;
+    cursor: pointer;
 }
 .close{
-    margin-left: -1100%;
+    margin-left: -3100%;
+    cursor: pointer;
 }
 .mat-focus-indicator{
     background-color: white;
