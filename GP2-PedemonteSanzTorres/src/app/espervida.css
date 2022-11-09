@@ -1,3 +1,4 @@
+/* tots els div */
 .content {
   width: 96%;
   margin: 16px;
@@ -18,12 +19,26 @@
     border-collapse: collapse;
     justify-content: center;
     align-items: center;
-  } 
-  mat-paginator{
+  }
+   /*paginator  */
+  .mat-paginator{
     border-radius: 10px;
   }
   td {
     text-align: center;
     border: 1px solid #ddd;
     padding: 8px;
+    width: 100px;
+  }
+  /* header taula (th) */
+  .mat-header-cell{ 
+    text-align: center;
+    background-color: #282D81;
+    color: white;
+    font-size: 16px;
+    border: 1px solid;
+  }
+  /* sombrejat alternat taula */
+  tr:nth-child(odd) {
+    background-color: #f2f2f2;
   }
