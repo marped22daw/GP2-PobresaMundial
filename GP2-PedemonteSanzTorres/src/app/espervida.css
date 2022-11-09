@@ -16,7 +16,12 @@
     width: 98%;
     border: 1px solid #ddd;
     border-collapse: collapse;
+    justify-content: center;
+    align-items: center;
   } 
+  mat-paginator{
+    border-radius: 10px;
+  }
   td {
     text-align: center;
     border: 1px solid #ddd;
