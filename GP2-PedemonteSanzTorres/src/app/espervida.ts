@@ -1,4 +1,6 @@
-import { Component } from '@angular/core';
+import { Component, ViewChild } from '@angular/core';
+import { MatPaginator } from '@angular/material/paginator';
+import { MatTableDataSource, MatTableModule } from '@angular/material/table';
 import EspervidaJson from './json/espervida.json';
 
 @Component({
@@ -10,5 +12,10 @@ import EspervidaJson from './json/espervida.json';
 export class EspervidaComponent {
     //Poner Json en una tabla
     displayedColumns: any[] = ['Pais', 'Any', 'Espervida', 'Adult_Mortality', 'Infant_Deaths'];
-    dataSource = EspervidaJson;
+    dataSource = new MatTableDataSource (EspervidaJson);
+    @ViewChild(MatPaginator) paginator!: MatPaginator;
+
+    ngAfterViewInit() {
+        this.dataSource.paginator = this.paginator;
+    }
 }

@@ -13,7 +13,8 @@ import { IniciComponent } from './inici';
 import { EspervidaComponent } from './espervida';
 import { FertilitatComponent } from './fertilitat';
 import { PobresaComponent } from './pobresa';
-import { MatTableModule } from '@angular/material/table' 
+import { MatTableModule } from '@angular/material/table'
+import { MatPaginatorModule } from '@angular/material/paginator';
 
 import { MatListModule } from '@angular/material/list';
 import { MatCardModule } from '@angular/material/card';
@@ -39,6 +40,7 @@ import { RouterLink } from '@angular/router';
     MatIconModule,
     MatDividerModule,
     MatTableModule,
+    MatPaginatorModule,
 
     MatListModule,
     MatCardModule,
