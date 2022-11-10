@@ -21,6 +21,9 @@ import { MatCardModule } from '@angular/material/card';
 import { MatGridListModule } from '@angular/material/grid-list';
 import { RouterLinkActive } from '@angular/router';
 import { RouterLink } from '@angular/router';
+import { BarComponent } from './bar/bar.component';
+import { PieComponent } from './pie/pie.component';
+import { ScatterComponent } from './scatter/scatter.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +31,10 @@ import { RouterLink } from '@angular/router';
   IniciComponent,
   EspervidaComponent,
   FertilitatComponent,
-  PobresaComponent
+  PobresaComponent,
+  BarComponent,
+  PieComponent,
+  ScatterComponent
 ],
   imports: [
     BrowserModule,
