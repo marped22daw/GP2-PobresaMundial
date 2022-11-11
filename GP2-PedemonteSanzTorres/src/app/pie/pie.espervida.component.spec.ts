@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { PieComponent } from './pie.component';
+import { PieComponent } from './pie.espervida.component';
 
 describe('PieComponent', () => {
   let component: PieComponent;

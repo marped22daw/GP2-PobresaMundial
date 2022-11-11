@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { ScatterComponent } from './scatter.component';
+import { ScatterComponent } from './scatter.espervida.component';
 
 describe('ScatterComponent', () => {
   let component: ScatterComponent;

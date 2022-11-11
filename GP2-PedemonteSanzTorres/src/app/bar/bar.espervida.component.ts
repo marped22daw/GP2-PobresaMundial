@@ -3,9 +3,9 @@ import * as d3 from 'd3';
 import EspervidaJson from '../json/espervida.json';
 
 @Component({
-  selector: 'app-bar',
-  templateUrl: './bar.component.html',
-  styleUrls: ['./bar.component.css']
+  selector: 'app-bar-espervida',
+  templateUrl: './bar.espervida.component.html',
+  styleUrls: ['./bar.espervida.component.css']
 })
 export class BarComponent implements OnInit {
 
