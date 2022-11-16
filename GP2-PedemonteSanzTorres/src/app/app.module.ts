@@ -27,6 +27,7 @@ import { RouterLink } from '@angular/router';
 import { BarComponent } from './bar/bar.espervida.component';
 import { PieComponent } from './pie/pie.espervida.component';
 import { ScatterComponent } from './scatter/scatter.espervida.component';
+import { PuntsPipe } from './Pipe_punts';
 // import { MaterialExampleModule } from './material.module';
 
 @NgModule({
@@ -39,6 +40,7 @@ import { ScatterComponent } from './scatter/scatter.espervida.component';
   BarComponent,
   PieComponent,
   ScatterComponent,
+  PuntsPipe
   
 ],
   imports: [

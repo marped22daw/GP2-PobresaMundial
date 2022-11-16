@@ -35,7 +35,7 @@
       <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol">
         Població 2022
       </th>
-      <td mat-cell *matCellDef="let Paisos"> {{Paisos.Poblacio_2022}} </td>
+      <td mat-cell *matCellDef="let Paisos"> {{Paisos.Poblacio_2022 | punts}} </td>
     </ng-container>
 
     <!-- Infant_Deaths Column -->
@@ -43,35 +43,35 @@
       <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol">
         Població 2020
       </th>
-      <td mat-cell *matCellDef="let Paisos"> {{Paisos.Poblacio_2020}} </td>
+      <td mat-cell *matCellDef="let Paisos"> {{Paisos.Poblacio_2020 | punts}} </td>
     </ng-container>
 
     <ng-container matColumnDef="Poblacio_2010">
       <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight">
         Població 2010
       </th>
-      <td mat-cell *matCellDef="let Paisos"> {{Paisos.Poblacio_2010}} </td>
+      <td mat-cell *matCellDef="let Paisos"> {{Paisos.Poblacio_2010 | punts}} </td>
     </ng-container>
 
     <ng-container matColumnDef="Poblacio_2000">
       <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight">
         Població 2000
       </th>
-      <td mat-cell *matCellDef="let Paisos"> {{Paisos.Poblacio_2000}} </td>
+      <td mat-cell *matCellDef="let Paisos"> {{Paisos.Poblacio_2000 | punts}} </td>
     </ng-container>
 
     <ng-container matColumnDef="Poblacio_1990">
       <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight">
         Població 1990
       </th>
-      <td mat-cell *matCellDef="let Paisos"> {{Paisos.Poblacio_1990}} </td>
+      <td mat-cell *matCellDef="let Paisos"> {{Paisos.Poblacio_1990 | punts}} </td>
     </ng-container>
 
     <ng-container matColumnDef="Area">
       <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight">
         Area (km²)
       </th>
-      <td mat-cell *matCellDef="let Paisos"> {{Paisos.Area}} </td>
+      <td mat-cell *matCellDef="let Paisos"> {{Paisos.Area | punts}} </td>
     </ng-container>
 
     <ng-container matColumnDef="Index_de_Creixement">
