@@ -20,7 +20,6 @@ mat-sidenav {
     color: white;
     text-align: center;
 }
-
 mat-sidenav-container {
     height: calc(100vh - 65px);
     background-color: #F3F3F3;
@@ -32,7 +31,6 @@ mat-sidenav-container {
   width: auto;
   height: auto;
 }
-
 .button {
     width: 100%;
     display: flex;
@@ -46,7 +44,6 @@ mat-sidenav-container {
     color: white;
     border-width: 0ch;
 }
-
 .activebutton {
     /*width: 100%;
     display: flex;
@@ -67,13 +64,10 @@ mat-sidenav-container {
      border-radius: 50px;*/
      text-decoration: underline;
 }
-
 mat-icon {
     margin-right: 8px;
     margin-left: 20px;
 }
-
-
 mat-divider {
     margin-top: 16px;
     margin-bottom: 16px;

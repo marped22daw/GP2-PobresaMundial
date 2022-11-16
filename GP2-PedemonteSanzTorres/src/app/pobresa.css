@@ -1,4 +1,3 @@
-
 table {
   align-items: center;
     width: 100%;
@@ -6,14 +5,12 @@ table {
     margin:20px;
     margin-bottom: 15%;
 } 
-  
 th.mat-sort-header-sorted {
     color: black;
 }
 h1{
   margin-left: 1%;
 }
-
 .content {
   width: 96%;
   margin: 16px;
