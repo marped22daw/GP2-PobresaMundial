@@ -7,7 +7,7 @@ import EspervidaJson from '../json/espervida.json';
   templateUrl: './bar.espervida.component.html',
   styleUrls: ['./bar.espervida.component.css']
 })
-export class BarComponent implements OnInit {
+export class BarComponentEspervida implements OnInit {
 
   private svg:any;
   private margin = 50;

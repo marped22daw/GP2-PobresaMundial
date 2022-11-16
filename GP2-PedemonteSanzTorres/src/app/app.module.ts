@@ -24,10 +24,11 @@ import { MatCardModule } from '@angular/material/card';
 import { MatGridListModule } from '@angular/material/grid-list';
 import { RouterLinkActive } from '@angular/router';
 import { RouterLink } from '@angular/router';
-import { BarComponent } from './bar/bar.espervida.component';
-import { PieComponent } from './pie/pie.espervida.component';
-import { ScatterComponent } from './scatter/scatter.espervida.component';
+import { BarComponentEspervida } from './bar_espervida/bar.espervida.component';
+import { PieComponent } from './pie_espervida/pie.espervida.component';
+import { ScatterComponent } from './scatter_espervida/scatter.espervida.component';
 import { PuntsPipe } from './Pipe_punts';
+import { BarComponentPobresa } from './bar_pobresa/bar.pobresa.component';
 // import { MaterialExampleModule } from './material.module';
 
 @NgModule({
@@ -37,7 +38,8 @@ import { PuntsPipe } from './Pipe_punts';
   EspervidaComponent,
   FertilitatComponent,
   PobresaComponent,
-  BarComponent,
+  BarComponentEspervida,
+  BarComponentPobresa,
   PieComponent,
   ScatterComponent,
   PuntsPipe
