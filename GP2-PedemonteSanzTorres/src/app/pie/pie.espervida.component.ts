@@ -8,7 +8,15 @@ import EspervidaJson from '../json/espervida.json';
   styleUrls: ['./pie.espervida.component.css']
 })
 export class PieComponent implements OnInit {
-
+  
+  private data = EspervidaJson;
+  // private data = [
+  //   {"Framework": "Vue", "Stars": "166443", "Released": "2014"},
+  //   {"Framework": "React", "Stars": "150793", "Released": "2013"},
+  //   {"Framework": "Angular", "Stars": "62342", "Released": "2016"},
+  //   {"Framework": "Backbone", "Stars": "27647", "Released": "2010"},
+  //   {"Framework": "Ember", "Stars": "21471", "Released": "2011"},
+  // ];
   private svg;
   private margin = 50;
   private width = 750;
@@ -16,7 +24,6 @@ export class PieComponent implements OnInit {
   // The radius of the pie chart is half the smallest side
   private radius = Math.min(this.width, this.height) / 2 - this.margin;
   private colors;
-  private data = EspervidaJson;
 
   private createSvg(): void {
     this.svg = d3.select("figure#pie")
@@ -32,14 +39,14 @@ export class PieComponent implements OnInit {
 
 private createColors(): void {
   this.colors = d3.scaleOrdinal()
-  .domain(this.data.map(d => d.Pais.toString()))
+  .domain(this.data.map(d => d.Adult_Mortality.toString()))
   .range(["#c7d3ec", "#a5b8db", "#879cc4", "#677795", "#5a6782"]);
 }
 
 private drawChart(): void {
   // Compute the position of each group on the pie:
-  const pie = d3.pie<any>().value((d: any) => Number(d.Adult_Mortality));
-
+  //filtrar solo los paises que tienen un valor de Adult_Mortality menor a 40
+  const pie = d3.pie<any>().value((d: any) => Number(d.Adult_Mortality < 10));
   // Build the pie chart
   this.svg
   .selectAll('pieces')
@@ -64,7 +71,9 @@ private drawChart(): void {
   .data(pie(this.data))
   .enter()
   .append('text')
-  .text(d => d.data.Any)
+  //filtrar solo los mayores a 50
+  .filter(function(d) { return d.data.Adult_Mortality < 10; })
+  .text(d => d.data.Pais)
   .attr("transform", d => "translate(" + labelLocation.centroid(d) + ")")
   .style("text-anchor", "middle")
   .style("font-size", 15);

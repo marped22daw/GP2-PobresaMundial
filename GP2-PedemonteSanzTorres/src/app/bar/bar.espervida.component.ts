@@ -65,20 +65,13 @@ export class BarComponent implements OnInit {
     this.createSvg();
     //this.drawBars(this.data);
     this.drawBars(EspervidaJson
+      .slice(0, 60)
+
       .map(d => {
         return {
-          EspervidaJson: d.Any,
+          EspervidaJson: d.Pais,
           Stars: d.Espervida
         };
         }));
-
-      // {
-      //   Pais: String;
-      //   Any: Number;
-      //   Espervida: Number;
-      //   Adult_Mortality: Number;
-      //   Infant_Deaths: Number;
-      // }
-          
   }
 }

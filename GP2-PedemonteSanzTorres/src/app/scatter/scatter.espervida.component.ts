@@ -9,13 +9,13 @@ import EspervidaJson from '../json/espervida.json';
 })
 export class ScatterComponent implements OnInit {
 
-  private data = [
-    {"Continent": "Asia", "Muertes": "200", "Released": "2014"},
-    {"Continent": "Europa", "Muertes": "150", "Released": "2013"},
-    {"Continent": "Norte America", "Muertes": "500", "Released": "2016"},
-    {"Continent": "Oceania", "Muertes": "20", "Released": "2010"},
-  ];
-
+  // private data = [
+  //   {"Continent": "Asia", "Muertes": "200", "Released": "2014"},
+  //   {"Continent": "Europa", "Muertes": "150", "Released": "2013"},
+  //   {"Continent": "Norte America", "Muertes": "500", "Released": "2016"},
+  //   {"Continent": "Oceania", "Muertes": "20", "Released": "2010"},
+  // ];
+  private data = EspervidaJson;
   private svg;
   private margin = 50;
   private width = 750 - (this.margin * 2);
@@ -41,7 +41,7 @@ private drawPlot(): void {
 
   // Add Y axis
   const y = d3.scaleLinear()
-  .domain([0, 600])
+  .domain([0, 550])
   .range([ this.height, 0]);
   this.svg.append("g")
   .call(d3.axisLeft(y));
@@ -52,8 +52,9 @@ private drawPlot(): void {
   .data(this.data)
   .enter()
   .append("circle")
-  .attr("cx", d => x(d.Released))
-  .attr("cy", d => y(d.Muertes))
+  .attr("cx", d => x(d.Any))
+  .filter(d => d.Infant_Deaths > 150)
+  .attr("cy", d => y(d.Infant_Deaths))
   .attr("r", 7)
   .style("opacity", .5)
   .style("fill", "#69b3a2");
@@ -63,9 +64,11 @@ private drawPlot(): void {
   .data(this.data)
   .enter()
   .append("text")
-  .text(d => d.Continent)
-  .attr("x", d => x(d.Released))
-  .attr("y", d => y(d.Muertes))
+  //filtrar los paises mayores a 150 muertes
+  .filter(d => d.Infant_Deaths > 150)
+  .text(d => d.Pais)
+  .attr("x", d => x(d.Any))
+  .attr("y", d => y(d.Infant_Deaths))
 }
 
   constructor() { }
