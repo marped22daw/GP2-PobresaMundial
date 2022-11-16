@@ -15,6 +15,9 @@ import { FertilitatComponent } from './fertilitat';
 import { PobresaComponent } from './pobresa';
 import { MatTableModule } from '@angular/material/table'
 import { MatPaginatorModule } from '@angular/material/paginator';
+import {MatFormFieldModule} from '@angular/material/form-field';
+import {MatSortModule} from '@angular/material/sort';
+import {MatInputModule} from '@angular/material/input';
 
 import { MatListModule } from '@angular/material/list';
 import { MatCardModule } from '@angular/material/card';
@@ -24,6 +27,7 @@ import { RouterLink } from '@angular/router';
 import { BarComponent } from './bar/bar.espervida.component';
 import { PieComponent } from './pie/pie.espervida.component';
 import { ScatterComponent } from './scatter/scatter.espervida.component';
+// import { MaterialExampleModule } from './material.module';
 
 @NgModule({
   declarations: [
@@ -34,7 +38,8 @@ import { ScatterComponent } from './scatter/scatter.espervida.component';
   PobresaComponent,
   BarComponent,
   PieComponent,
-  ScatterComponent
+  ScatterComponent,
+  
 ],
   imports: [
     BrowserModule,
@@ -47,6 +52,10 @@ import { ScatterComponent } from './scatter/scatter.espervida.component';
     MatDividerModule,
     MatTableModule,
     MatPaginatorModule,
+    MatFormFieldModule,
+    MatSortModule,
+    MatInputModule,
+    // MaterialExampleModule, 
 
     MatListModule,
     MatCardModule,
