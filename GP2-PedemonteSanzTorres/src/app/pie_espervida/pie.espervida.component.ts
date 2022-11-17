@@ -46,7 +46,7 @@ private createColors(): void {
 private drawChart(): void {
   // Compute the position of each group on the pie:
   //filtrar solo los paises que tienen un valor de Adult_Mortality menor a 40
-  const pie = d3.pie<any>().value((d: any) => Number(d.Adult_Mortality < 10));
+  const pie = d3.pie<any>().value((d: any) => Number(d.Adult_Mortality < 5));
   // Build the pie chart
   this.svg
   .selectAll('pieces')
@@ -72,7 +72,7 @@ private drawChart(): void {
   .enter()
   .append('text')
   //filtrar solo los mayores a 50
-  .filter(function(d) { return d.data.Adult_Mortality < 10; })
+  .filter(function(d) { return d.data.Adult_Mortality < 5; })
   .text(d => d.data.Pais)
   .attr("transform", d => "translate(" + labelLocation.centroid(d) + ")")
   .style("text-anchor", "middle")

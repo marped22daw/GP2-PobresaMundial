@@ -33,7 +33,7 @@ export class ScatterComponent implements OnInit {
 private drawPlot(): void {
   // Add X axis
   const x = d3.scaleLinear()
-  .domain([2009, 2017])
+  .domain([1999, 2016])
   .range([ 0, this.width ]);
   this.svg.append("g")
   .attr("transform", "translate(0," + this.height + ")")
