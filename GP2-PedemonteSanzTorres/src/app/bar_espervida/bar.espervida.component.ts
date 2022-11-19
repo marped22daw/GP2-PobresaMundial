@@ -11,8 +11,8 @@ export class BarComponentEspervida implements OnInit {
 
   private svg:any;
   private margin = 50;
-  private width = 1350 - (this.margin * 2);
-  private height = 500 - (this.margin * 2);
+  private width = ((window.innerWidth * 90)/100) - (this.margin * 2);
+  private height = ((window.innerHeight * 80)/100) - (this.margin * 2);
 
   private createSvg(): void {
     this.svg = d3.select("figure#bar")
