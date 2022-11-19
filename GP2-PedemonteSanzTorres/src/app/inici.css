@@ -6,6 +6,7 @@ mat-toolbar {
     height: 60px;
     justify-content: center;
     align-items: center;
+    border-bottom: 1px rgba(0, 0, 0, 0.329) solid;
 }
 .topbutton {
     margin-right: 20px;
