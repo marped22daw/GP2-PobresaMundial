@@ -8,70 +8,70 @@
   
       <!-- País Column -->
       <ng-container matColumnDef="Country">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by name">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by name" [@column1]="currentState">
           País
         </th>
-        <td mat-cell *matCellDef="let Paisos"> {{Paisos.Country}} </td>
+        <td mat-cell *matCellDef="let Paisos" [@column1]="currentState"> {{Paisos.Country}} </td>
       </ng-container>
   
       <!-- Any Column -->
       <ng-container matColumnDef="any2020">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight" [@column2]="currentState">
             2020
         </th>
-        <td mat-cell *matCellDef="let Paisos"> {{Paisos.any2020}} </td>
+        <td mat-cell *matCellDef="let Paisos" [@column2]="currentState"> {{Paisos.any2020}} </td>
       </ng-container>
   
       <!-- Espervida Column -->
       <ng-container matColumnDef="any2019">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol" [@column3]="currentState">
         2019
         </th>
-        <td mat-cell *matCellDef="let Paisos"> {{Paisos.any2019}} </td>
+        <td mat-cell *matCellDef="let Paisos" [@column3]="currentState"> {{Paisos.any2019}} </td>
       </ng-container>
   
       <!-- Adult_Mortality Column -->
       <ng-container matColumnDef="any2011">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol" [@column4]="currentState">
         2011
         </th>
-        <td mat-cell *matCellDef="let Paisos"> {{Paisos.any2011}} </td>
+        <td mat-cell *matCellDef="let Paisos" [@column4]="currentState"> {{Paisos.any2011}} </td>
       </ng-container>
   
       <!-- Infant_Deaths Column -->
       <ng-container matColumnDef="any2001">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol" [@column5]="currentState">
         2001
         </th>
-        <td mat-cell *matCellDef="let Paisos"> {{Paisos.any2001}} </td>
+        <td mat-cell *matCellDef="let Paisos" [@column5]="currentState"> {{Paisos.any2001}} </td>
       </ng-container>
   
       <ng-container matColumnDef="any1991">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight" [@column6]="currentState">
         1991
         </th>
-        <td mat-cell *matCellDef="let Paisos"> {{Paisos.any1991}} </td>
+        <td mat-cell *matCellDef="let Paisos" [@column6]="currentState"> {{Paisos.any1991}} </td>
       </ng-container>
   
       <ng-container matColumnDef="any1981">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight" [@column7]="currentState">
         1981
         </th>
-        <td mat-cell *matCellDef="let Paisos"> {{Paisos.any1981}} </td>
+        <td mat-cell *matCellDef="let Paisos" [@column7]="currentState"> {{Paisos.any1981}} </td>
       </ng-container>
   
       <ng-container matColumnDef="any1971">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight" [@column8]="currentState">
         1971
         </th>
-        <td mat-cell *matCellDef="let Paisos"> {{Paisos.any1971}} </td>
+        <td mat-cell *matCellDef="let Paisos" [@column8]="currentState"> {{Paisos.any1971}} </td>
       </ng-container>
   
       <ng-container matColumnDef="any1961">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight" [@column9]="currentState">
         1961
         </th>
-        <td mat-cell *matCellDef="let Paisos"> {{Paisos.any1961}} </td>
+        <td mat-cell *matCellDef="let Paisos" [@column9]="currentState"> {{Paisos.any1961}} </td>
       </ng-container>
   
       <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
