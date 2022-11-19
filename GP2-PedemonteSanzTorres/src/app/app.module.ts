@@ -26,7 +26,7 @@ import { RouterLinkActive } from '@angular/router';
 import { RouterLink } from '@angular/router';
 import { BarComponentEspervida } from './bar_espervida/bar.espervida.component';
 import { PieComponent } from './pie_espervida/pie.espervida.component';
-import { ScatterComponent } from './scatter_pobresa/scatter.pobresa.component';
+import { ScatterComponent } from './scatter_fertilitat/scatter.fertilitat.component';
 import { PuntsPipe } from './pipes/Pipe_punts';
 import { BarComponentPobresa } from './bar_pobresa/bar.pobresa.component';
 

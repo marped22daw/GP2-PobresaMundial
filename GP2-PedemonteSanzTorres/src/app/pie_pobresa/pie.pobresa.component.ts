@@ -9,8 +9,8 @@ import PobresamundialJson from '../json/pobmundial.json';
 })
 export class PieComponentPobresa implements OnInit {
   
-  private data = PobresamundialJson.filter(function(d) { return d.Continent; });
-  private data2 = PobresamundialJson.filter(function(d) { return d.Continent; });
+  private data = PobresamundialJson.filter(function(d) { return d.Poblacio_2022 > 200000000; });
+  private data2 = PobresamundialJson.filter(function(d) { return d.Area > 3000000; });
   private svg;
   private svg2;
   private margin = 50;
@@ -53,7 +53,7 @@ private createColors(): void {
 private drawChart(): void {
   // Compute the position of each group on the pie:
   //filtrar solo los paises que tienen un valor de Adult_Mortality menor a 40
-  const pie = d3.pie<any>().value((d: any) => Number(d.Continent));
+  const pie = d3.pie<any>().value((d: any) => Number(d.Poblacio_2022));
   // Build the pie chart
   this.svg
   .selectAll('pieces')
@@ -79,8 +79,8 @@ private drawChart(): void {
   .enter()
   .append('text')
   //filtrar solo los mayores a 50
-  .filter(function(d) { return d.data.Continent; })
-  .text(d => d.data.Poblacio_2020+ " ("+d.data.Continent+")")
+  .filter(function(d) { return d.data.Poblacio_2022; })
+  .text(d => d.data.Pais+ " ("+d.data.Poblacio_2022+")")
   .attr("transform", d => "translate(" + labelLocation.centroid(d) + ")")
   .style("text-anchor", "middle")
   .style("font-size", 15);
@@ -89,7 +89,7 @@ private drawChart(): void {
 private drawChart2(): void {
   // Compute the position of each group on the pie:
   //filtrar solo los paises que tienen un valor de Adult_Mortality menor a 40
-  const pie = d3.pie<any>().value((d: any) => Number(d.Poblacio_2022));
+  const pie = d3.pie<any>().value((d: any) => Number(d.Area));
   // Build the pie chart
   this.svg2
   .selectAll('pieces')
@@ -114,8 +114,8 @@ private drawChart2(): void {
   .data(pie(this.data2))
   .enter()
   .append('text')
-  .filter(function(d) { return d.data.Poblacio_2022; })
-  .text(d => d.data.Continent+ " ("+d.data.Poblacio_2022+")")
+  .filter(function(d) { return d.data.Area; })
+  .text(d => d.data.Pais+ " ("+d.data.Area+" km2)")
   .attr("transform", d => "translate(" + labelLocation.centroid(d) + ")")
   .style("text-anchor", "middle")
   .style("font-size", 15);

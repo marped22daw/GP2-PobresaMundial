@@ -10,7 +10,7 @@ import FertilitatJson from '../json/fertilitat.json';
 export class BarComponentFertilitat implements OnInit {
 
   private svg:any;
-  private margin = 50;
+  private margin = 100;
   private width = ((window.innerWidth * 90)/100)  - (this.margin * 2);
   private height = ((window.innerHeight * 80)/100) - (this.margin * 2);
 

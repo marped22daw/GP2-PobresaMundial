@@ -10,7 +10,7 @@ import PobresamundialJson from '../json/pobmundial.json';
 export class BarComponentPobresa implements OnInit {
 
   private svg:any;
-  private margin = 50;
+  private margin = 100;
   private width = ((window.innerWidth * 90)/100) - (this.margin * 2);
   private height = ((window.innerHeight * 80)/100) - (this.margin * 2);
 
@@ -40,7 +40,7 @@ export class BarComponentPobresa implements OnInit {
   
     // Create the Y-axis band scale
     const y = d3.scaleLinear()
-    .domain([0, 25887337])
+    .domain([0, 3])
     .range([this.height, 0]);
   
     // Draw the Y-axis on the DOM
@@ -65,12 +65,12 @@ export class BarComponentPobresa implements OnInit {
     this.createSvg();
     //this.drawBars(this.data);
     this.drawBars(PobresamundialJson
-      .slice(0, 60)
+      .slice(20, 60)
 
       .map(d => {
         return {
           PobresamundialJson: d.Pais,
-          Stars: d.Poblacio_2022
+          Stars: d.Poblacio_Mundial
         };
         }));
   }
