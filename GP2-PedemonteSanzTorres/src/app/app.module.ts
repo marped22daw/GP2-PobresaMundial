@@ -29,6 +29,10 @@ import { PieComponent } from './pie_espervida/pie.espervida.component';
 import { ScatterComponent } from './scatter_espervida/scatter.espervida.component';
 import { PuntsPipe } from './pipes/Pipe_punts';
 import { BarComponentPobresa } from './bar_pobresa/bar.pobresa.component';
+
+import { NgImageSliderModule } from 'ng-image-slider';
+import { CarouselComponent } from './carousel/carousel';
+import { PrincipalComponent } from './paginici/principal';
 // import { MaterialExampleModule } from './material.module';
 
 @NgModule({
@@ -42,7 +46,9 @@ import { BarComponentPobresa } from './bar_pobresa/bar.pobresa.component';
   BarComponentPobresa,
   PieComponent,
   ScatterComponent,
-  PuntsPipe
+  PuntsPipe,
+  CarouselComponent,
+  PrincipalComponent
   
 ],
   imports: [
@@ -64,6 +70,8 @@ import { BarComponentPobresa } from './bar_pobresa/bar.pobresa.component';
     MatListModule,
     MatCardModule,
     MatGridListModule,
+
+    NgImageSliderModule,
 
     RouterLinkActive,
     RouterLink
