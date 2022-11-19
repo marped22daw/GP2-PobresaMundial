@@ -2,7 +2,7 @@
 import { Component, ViewChild } from '@angular/core';
 import { MatPaginator } from '@angular/material/paginator';
 
-import PobresamundialJson from './json/pobmundial.json';
+import PobresamundialJson from '../json/pobmundial.json';
 import { MatSort } from '@angular/material/sort';
 import { MatTableDataSource } from '@angular/material/table';
 

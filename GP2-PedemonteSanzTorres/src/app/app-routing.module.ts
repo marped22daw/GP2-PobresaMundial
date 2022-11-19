@@ -1,10 +1,10 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { IniciComponent} from './inici';
-import { EspervidaComponent } from './espervida';
-import { FertilitatComponent } from './fertilitat';
-import { PobresaComponent } from './pobresa';
-import { PrincipalComponent } from './principal';
+import { EspervidaComponent } from './espervida/espervida';
+import { FertilitatComponent } from './fertilitat/fertilitat';
+import { PobresaComponent } from './pobresa/pobresa';
+import { PrincipalComponent } from './paginici/principal';
 import {Router} from '@angular/router';
 
 const routes: Routes = [

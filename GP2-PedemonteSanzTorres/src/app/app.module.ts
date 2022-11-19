@@ -10,9 +10,9 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { MatDividerModule } from '@angular/material/divider';
 import { IniciComponent } from './inici';
-import { EspervidaComponent } from './espervida';
-import { FertilitatComponent } from './fertilitat';
-import { PobresaComponent } from './pobresa';
+import { EspervidaComponent } from './espervida/espervida';
+import { FertilitatComponent } from './fertilitat/fertilitat';
+import { PobresaComponent } from './pobresa/pobresa';
 import { MatTableModule } from '@angular/material/table'
 import { MatPaginatorModule } from '@angular/material/paginator';
 import {MatFormFieldModule} from '@angular/material/form-field';
@@ -27,7 +27,7 @@ import { RouterLink } from '@angular/router';
 import { BarComponentEspervida } from './bar_espervida/bar.espervida.component';
 import { PieComponent } from './pie_espervida/pie.espervida.component';
 import { ScatterComponent } from './scatter_espervida/scatter.espervida.component';
-import { PuntsPipe } from './Pipe_punts';
+import { PuntsPipe } from './pipes/Pipe_punts';
 import { BarComponentPobresa } from './bar_pobresa/bar.pobresa.component';
 // import { MaterialExampleModule } from './material.module';
 
