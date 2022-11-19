@@ -7,11 +7,10 @@
             close
         </mat-icon>
     </button>
-    
-    <span *ngIf="router.url === '/principal'">Inici</span>
-    <span *ngIf="router.url === '/pobresa'">Pobresa</span>
-    <span *ngIf="router.url === '/espervida'">Esperança de vida</span>
-    <span *ngIf="router.url === '/fertilitat'">Fertilitat</span>
+    <span *ngIf="router.url === '/principal'" [@flyInOut]="currentState">Inici</span>
+    <span *ngIf="router.url === '/pobresa'" [@flyInOut]="currentState">Pobresa</span>
+    <span *ngIf="router.url === '/espervida'" [@flyInOut]="currentState">Esperança de vida</span>
+    <span *ngIf="router.url === '/fertilitat'" [@flyInOut]="currentState">Fertilitat</span>
     
 </mat-toolbar>
 
