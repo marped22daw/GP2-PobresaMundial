@@ -10,7 +10,7 @@ import EspervidaJson from '../json/espervida.json';
 export class BarComponentEspervida implements OnInit {
 
   private svg:any;
-  private margin = 50;
+  private margin = 140;
   private width = ((window.innerWidth * 90)/100)  - (this.margin * 2);
   private height = ((window.innerHeight * 80)/100) - (this.margin * 2);
 

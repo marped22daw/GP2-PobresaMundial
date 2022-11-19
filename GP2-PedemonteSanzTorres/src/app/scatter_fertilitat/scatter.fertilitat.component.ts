@@ -9,12 +9,6 @@ import FertilitatJson from '../json/fertilitat.json';
 })
 export class ScatterComponent implements OnInit {
 
-  // private data = [
-  //   {"Continent": "Asia", "Muertes": "200", "Released": "2014"},
-  //   {"Continent": "Europa", "Muertes": "150", "Released": "2013"},
-  //   {"Continent": "Norte America", "Muertes": "500", "Released": "2016"},
-  //   {"Continent": "Oceania", "Muertes": "20", "Released": "2010"},
-  // ];
   private data = FertilitatJson;
   private svg;
   private margin = 50;
@@ -33,7 +27,7 @@ export class ScatterComponent implements OnInit {
 private drawPlot(): void {
   // Add X axis
   const x = d3.scaleLinear()
-  .domain([1999, 2016])
+  .domain([2010, 2022])
   .range([ 0, this.width ]);
   this.svg.append("g")
   .attr("transform", "translate(0," + this.height + ")")
@@ -41,7 +35,7 @@ private drawPlot(): void {
 
   // Add Y axis
   const y = d3.scaleLinear()
-  .domain([0, 550])
+  .domain([0, 7])
   .range([ this.height, 0]);
   this.svg.append("g")
   .call(d3.axisLeft(y));
@@ -53,8 +47,8 @@ private drawPlot(): void {
   .enter()
   .append("circle")
   .attr("cx", d => x(d.any2020))
-  .filter(d => d.Pais)
-  .attr("cy", d => y(d.Pais))
+  .filter(d => d.Country)
+  .attr("cy", d => y(d.Country))
   .attr("r", 7)
   .style("opacity", .5)
   .style("fill", "#69b3a2");
@@ -65,10 +59,10 @@ private drawPlot(): void {
   .enter()
   .append("text")
   //filtrar los paises mayores a 150 muertes
-  .filter(d => d.Pais )
-  .text(d => d.Pais)
+  .filter(d => d.Country )
+  .text(d => d.Country)
   .attr("x", d => x(d.any2020))
-  .attr("y", d => y(d.Pais))
+  .attr("y", d => y(d.Country))
 }
 
   constructor() { }
