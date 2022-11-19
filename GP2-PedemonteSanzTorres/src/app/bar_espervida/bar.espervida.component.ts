@@ -11,7 +11,7 @@ export class BarComponentEspervida implements OnInit {
 
   private svg:any;
   private margin = 50;
-  private width = ((window.innerWidth * 90)/100) - (this.margin * 2);
+  private width = ((window.innerWidth * 90)/100)  - (this.margin * 2);
   private height = ((window.innerHeight * 80)/100) - (this.margin * 2);
 
   private createSvg(): void {
@@ -63,10 +63,8 @@ export class BarComponentEspervida implements OnInit {
 
   ngOnInit(): void {
     this.createSvg();
-    //this.drawBars(this.data);
     this.drawBars(EspervidaJson
-      .slice(0, 60)
-
+      .slice(60, 200)
       .map(d => {
         return {
           EspervidaJson: d.Pais,
