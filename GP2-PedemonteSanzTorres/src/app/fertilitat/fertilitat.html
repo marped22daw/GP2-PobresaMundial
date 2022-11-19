@@ -1,93 +1,96 @@
 <div class="content mat-elevation-z4">
-    <h1>Fertilitat</h1>
-    <mat-form-field appearance="standard">
-      <mat-label>Filter</mat-label>
-      <input matInput (keyup)="applyFilter($event)" placeholder="Ex. Mia" #input>
-    </mat-form-field>
-    <table mat-table [dataSource]="dataSource" class="mat-elevation-z8" matSort>
-  
-      <!-- País Column -->
-      <ng-container matColumnDef="Country">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by name" [@column1]="currentState">
-          País
-        </th>
-        <td mat-cell *matCellDef="let Paisos" [@column1]="currentState"> {{Paisos.Country}} </td>
-      </ng-container>
-  
-      <!-- Any Column -->
-      <ng-container matColumnDef="any2020">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight" [@column2]="currentState">
-            2020
-        </th>
-        <td mat-cell *matCellDef="let Paisos" [@column2]="currentState"> {{Paisos.any2020 | comas}} </td>
-      </ng-container>
-  
-      <!-- Espervida Column -->
-      <ng-container matColumnDef="any2019">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol" [@column3]="currentState">
-        2019
-        </th>
-        <td mat-cell *matCellDef="let Paisos" [@column3]="currentState"> {{Paisos.any2019}} </td>
-      </ng-container>
-  
-      <!-- Adult_Mortality Column -->
-      <ng-container matColumnDef="any2011">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol" [@column4]="currentState">
-        2011
-        </th>
-        <td mat-cell *matCellDef="let Paisos" [@column4]="currentState"> {{Paisos.any2011}} </td>
-      </ng-container>
-  
-      <!-- Infant_Deaths Column -->
-      <ng-container matColumnDef="any2001">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol" [@column5]="currentState">
-        2001
-        </th>
-        <td mat-cell *matCellDef="let Paisos" [@column5]="currentState"> {{Paisos.any2001}} </td>
-      </ng-container>
-  
-      <ng-container matColumnDef="any1991">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight" [@column6]="currentState">
-        1991
-        </th>
-        <td mat-cell *matCellDef="let Paisos" [@column6]="currentState"> {{Paisos.any1991}} </td>
-      </ng-container>
-  
-      <ng-container matColumnDef="any1981">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight" [@column7]="currentState">
-        1981
-        </th>
-        <td mat-cell *matCellDef="let Paisos" [@column7]="currentState"> {{Paisos.any1981}} </td>
-      </ng-container>
-  
-      <ng-container matColumnDef="any1971">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight" [@column8]="currentState">
-        1971
-        </th>
-        <td mat-cell *matCellDef="let Paisos" [@column8]="currentState"> {{Paisos.any1971}} </td>
-      </ng-container>
-  
-      <ng-container matColumnDef="any1961">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight" [@column9]="currentState">
-        1961
-        </th>
-        <td mat-cell *matCellDef="let Paisos" [@column9]="currentState"> {{Paisos.any1961}} </td>
-      </ng-container>
-  
-      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
-      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
-  
-      <!-- <tr class="mat-row" *matNoDataRow>
-          <td class="mat-cell" colspan="4">No data matching the filter "{{input.value}}"</td>
-        </tr> -->
-    </table>
-  
-    <mat-paginator [pageSizeOptions]="[5, 10, 20]" showFirstLastButtons aria-label="Select page of periodic elements">
-    </mat-paginator>
-  
-    <!-- <br><br><br><br> -->
-  </div>
+  <h1>Fertilitat</h1>
+  <mat-form-field appearance="standard">
+    <mat-label>Filter</mat-label>
+    <input matInput (keyup)="applyFilter($event)" placeholder="Ex. Mia" #input>
+  </mat-form-field>
+  <table mat-table [dataSource]="dataSource" class="mat-elevation-z8" matSort>
 
-  <div class="content mat-elevation-z4">
+    <ng-container matColumnDef="Country">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by name"
+        [@column1]="currentState">
+        País
+      </th>
+      <td mat-cell *matCellDef="let Paisos" [@column1]="currentState"> {{Paisos.Country}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="any2020">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight"
+        [@column2]="currentState">
+        2020
+      </th>
+      <td mat-cell *matCellDef="let Paisos" [@column2]="currentState"> {{Paisos.any2020 | comas}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="any2019">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol"
+        [@column3]="currentState">
+        2019
+      </th>
+      <td mat-cell *matCellDef="let Paisos" [@column3]="currentState"> {{Paisos.any2019 | comas}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="any2011">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol"
+        [@column4]="currentState">
+        2011
+      </th>
+      <td mat-cell *matCellDef="let Paisos" [@column4]="currentState"> {{Paisos.any2011 | comas}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="any2001">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol"
+        [@column5]="currentState">
+        2001
+      </th>
+      <td mat-cell *matCellDef="let Paisos" [@column5]="currentState"> {{Paisos.any2001 | comas}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="any1991">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight"
+        [@column6]="currentState">
+        1991
+      </th>
+      <td mat-cell *matCellDef="let Paisos" [@column6]="currentState"> {{Paisos.any1991 | comas}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="any1981">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight"
+        [@column7]="currentState">
+        1981
+      </th>
+      <td mat-cell *matCellDef="let Paisos" [@column7]="currentState"> {{Paisos.any1981 | comas}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="any1971">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight"
+        [@column8]="currentState">
+        1971
+      </th>
+      <td mat-cell *matCellDef="let Paisos" [@column8]="currentState"> {{Paisos.any1971 | comas}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="any1961">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight"
+        [@column9]="currentState">
+        1961
+      </th>
+      <td mat-cell *matCellDef="let Paisos" [@column9]="currentState"> {{Paisos.any1961 | comas}} </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+
+    <tr class="mat-row" *matNoDataRow>
+      <td class="mat-cell" colspan="4">No s'han trobat dades amb el filtre "{{input.value}}"</td>
+    </tr>
+  </table>
+
+  <mat-paginator [pageSizeOptions]="[5, 10, 20]" showFirstLastButtons aria-label="Select page of periodic elements">
+  </mat-paginator>
+
+</div>
+
+<div class="content mat-elevation-z4">
   <app-bar-fertilitat></app-bar-fertilitat>
 </div>

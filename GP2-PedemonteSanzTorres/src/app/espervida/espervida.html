@@ -6,58 +6,57 @@
   </mat-form-field>
   <table mat-table [dataSource]="dataSource" class="mat-elevation-z8" matSort>
 
-    <!-- País Column -->
-    <ng-container matColumnDef="Pais" >
-      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by name" [@column1]="currentState">
+    <ng-container matColumnDef="Pais">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by name"
+        [@column1]="currentState">
         País
       </th>
       <td mat-cell *matCellDef="let Paisos" [@column1]="currentState"> {{Paisos.Pais}} </td>
     </ng-container>
 
-    <!-- Any Column -->
     <ng-container matColumnDef="Any">
-      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight" [@column2]="currentState">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by weight"
+        [@column2]="currentState">
         Any
       </th>
       <td mat-cell *matCellDef="let Paisos" [@column2]="currentState"> {{Paisos.Any}} </td>
     </ng-container>
 
-    <!-- Espervida Column -->
     <ng-container matColumnDef="Espervida">
-      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol" [@column3]="currentState">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol"
+        [@column3]="currentState">
         Esperança de vida
       </th>
-      <td mat-cell *matCellDef="let Paisos" [@column3]="currentState"> {{Paisos.Espervida}} </td>
+      <td mat-cell *matCellDef="let Paisos" [@column3]="currentState"> {{Paisos.Espervida | comas}} </td>
     </ng-container>
 
-    <!-- Adult_Mortality Column -->
-    <ng-container matColumnDef="Adult_Mortality"> 
-      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol" [@column4]="currentState">
+    <ng-container matColumnDef="Adult_Mortality">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol"
+        [@column4]="currentState">
         Mortalitat adult (per 1000 habitants)
       </th>
-      <td mat-cell *matCellDef="let Paisos" [@column4]="currentState"> {{Paisos.Adult_Mortality}} </td>
+      <td mat-cell *matCellDef="let Paisos" [@column4]="currentState"> {{Paisos.Adult_Mortality | punts}} </td>
     </ng-container>
 
-    <!-- Infant_Deaths Column -->
     <ng-container matColumnDef="Infant_Deaths">
-      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol" [@column5]="currentState">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by symbol"
+        [@column5]="currentState">
         Mortalitat joves (per 1000 habitants)
       </th>
-      <td mat-cell *matCellDef="let Paisos" [@column5]="currentState"> {{Paisos.Infant_Deaths}} </td>
+      <td mat-cell *matCellDef="let Paisos" [@column5]="currentState"> {{Paisos.Infant_Deaths | punts}} </td>
     </ng-container>
 
     <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
     <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
 
-    <!-- <tr class="mat-row" *matNoDataRow>
-        <td class="mat-cell" colspan="4">No data matching the filter "{{input.value}}"</td>
-      </tr> -->
+    <tr class="mat-row" *matNoDataRow>
+      <td class="mat-cell" colspan="4">No s'han trobat dades amb el filtre "{{input.value}}"</td>
+    </tr>
   </table>
 
   <mat-paginator [pageSizeOptions]="[5, 10, 20]" showFirstLastButtons aria-label="Select page of periodic elements">
   </mat-paginator>
 
-  <!-- <br><br><br><br> -->
 </div>
 
 <div class="content mat-elevation-z4">
