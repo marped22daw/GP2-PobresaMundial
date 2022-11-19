@@ -1,0 +1,28 @@
+#divCarroussel{
+    position: relative;
+    top: 10%;
+    width: 60%;
+    height: 60%;
+    background-color: white;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+#aboutUs{
+    margin-top: 9%;
+    width: 100%;
+    height: 100%;
+    background-color: #d8d9db;
+}
+
+h1{
+    margin: 0 auto;
+    font-size: 40px;
+    font-weight: bold;
+    color: #282D81;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+    color: #282D81;
+}
