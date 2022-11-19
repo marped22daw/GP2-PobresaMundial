@@ -26,13 +26,16 @@ import { RouterLinkActive } from '@angular/router';
 import { RouterLink } from '@angular/router';
 import { BarComponentEspervida } from './bar_espervida/bar.espervida.component';
 import { PieComponent } from './pie_espervida/pie.espervida.component';
-import { ScatterComponent } from './scatter_espervida/scatter.espervida.component';
+import { ScatterComponent } from './scatter_pobresa/scatter.pobresa.component';
 import { PuntsPipe } from './pipes/Pipe_punts';
 import { BarComponentPobresa } from './bar_pobresa/bar.pobresa.component';
 
 import { NgImageSliderModule } from 'ng-image-slider';
 import { CarouselComponent } from './carousel/carousel';
 import { PrincipalComponent } from './paginici/principal';
+import { PieComponentPobresa } from './pie_pobresa/pie.pobresa.component';
+import { BarComponentFertilitat } from './bar_fertilitat/bar.fertilitat.component';
+import { ComasPipe } from './pipes/Pipe_comas';
 // import { MaterialExampleModule } from './material.module';
 
 @NgModule({
@@ -47,8 +50,11 @@ import { PrincipalComponent } from './paginici/principal';
   PieComponent,
   ScatterComponent,
   PuntsPipe,
+  ComasPipe,
   CarouselComponent,
-  PrincipalComponent
+  PrincipalComponent,
+  PieComponentPobresa,
+  BarComponentFertilitat
   
 ],
   imports: [

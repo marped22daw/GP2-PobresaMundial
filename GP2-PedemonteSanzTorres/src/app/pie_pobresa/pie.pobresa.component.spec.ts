@@ -1,18 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { ScatterComponent } from './scatter.espervida.component';
+import { PieComponentPobresa } from './pie.pobresa.component';
 
-describe('ScatterComponent', () => {
-  let component: ScatterComponent;
-  let fixture: ComponentFixture<ScatterComponent>;
+describe('PieComponent', () => {
+  let component: PieComponentPobresa;
+  let fixture: ComponentFixture<PieComponentPobresa>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ ScatterComponent ]
+      declarations: [ PieComponentPobresa ]
     })
     .compileComponents();
 
-    fixture = TestBed.createComponent(ScatterComponent);
+    fixture = TestBed.createComponent(PieComponentPobresa);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

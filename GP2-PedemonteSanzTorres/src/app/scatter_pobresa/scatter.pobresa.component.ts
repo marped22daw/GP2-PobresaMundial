@@ -1,11 +1,11 @@
 import { Component, OnInit } from '@angular/core';
 import * as d3 from 'd3';
-import EspervidaJson from '../json/espervida.json';
+import PobresamundialJson from '../json/pobmundial.json';
 
 @Component({
-  selector: 'app-scatter-espervida',
-  templateUrl: './scatter.espervida.component.html',
-  styleUrls: ['./scatter.espervida.component.css']
+  selector: 'app-scatter-pobresa',
+  templateUrl: './scatter.pobresa.component.html',
+  styleUrls: ['./scatter.pobresa.component.css']
 })
 export class ScatterComponent implements OnInit {
 
@@ -15,7 +15,7 @@ export class ScatterComponent implements OnInit {
   //   {"Continent": "Norte America", "Muertes": "500", "Released": "2016"},
   //   {"Continent": "Oceania", "Muertes": "20", "Released": "2010"},
   // ];
-  private data = EspervidaJson;
+  private data = PobresamundialJson;
   private svg;
   private margin = 50;
   private width = 750 - (this.margin * 2);
@@ -53,8 +53,8 @@ private drawPlot(): void {
   .enter()
   .append("circle")
   .attr("cx", d => x(d.Any))
-  .filter(d => d.Infant_Deaths > 150)
-  .attr("cy", d => y(d.Infant_Deaths))
+  .filter(d => d.Area)
+  .attr("cy", d => y(d.Area))
   .attr("r", 7)
   .style("opacity", .5)
   .style("fill", "#69b3a2");
@@ -65,10 +65,10 @@ private drawPlot(): void {
   .enter()
   .append("text")
   //filtrar los paises mayores a 150 muertes
-  .filter(d => d.Infant_Deaths > 150)
+  .filter(d => d.Area )
   .text(d => d.Pais)
   .attr("x", d => x(d.Any))
-  .attr("y", d => y(d.Infant_Deaths))
+  .attr("y", d => y(d.Area))
 }
 
   constructor() { }
