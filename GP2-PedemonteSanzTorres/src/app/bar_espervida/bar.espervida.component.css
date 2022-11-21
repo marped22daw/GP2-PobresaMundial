@@ -6,8 +6,44 @@
     color: #000000;
     text-align: center;
 }
-
+.juntar1{
+    display: flex;
+    margin-left: 13%;
+}
+.juntar2{
+    display: flex;
+    margin-left: 13%;
+}
+.color2015{
+    background-color: #100C2E;
+    width: 10px;
+    height: 10px;
+    margin-right: 1%;
+    margin-top: 0.5%;
+}
+.color2010{
+    background-color: #22256D;
+    width: 10px;
+    height: 10px;
+    margin-right: 1%;
+    margin-top: 0.5%;
+}
+.color2005{
+    background-color: #333CA5;
+    width: 10px;
+    height: 10px;
+    margin-right: 1%;
+    margin-top: 0.5%;
+}
+.color2000{
+    background-color: #4554E1;
+    width: 10px;
+    height: 10px;
+    margin-right: 1%;
+    margin-top: 0.5%;
+}
 #bar {
+    margin-top: -10%;
     padding-bottom: 2%;
     position: relative;
 }

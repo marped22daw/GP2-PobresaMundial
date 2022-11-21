@@ -47,7 +47,7 @@ private createSvg2(): void {
 private createColors(): void {
   this.colors = d3.scaleOrdinal()
   .domain(this.data.map(d => d.Adult_Mortality.toString()))
-  .range(["#c7d3ec", "#a5b8db", "#879cc4", "#677795", "#5a6782"]);
+  .range(["#202265","#262A79", "#2C338E", "#3944BA", "#4656E5"]);
 }
 
 private drawChart(): void {
