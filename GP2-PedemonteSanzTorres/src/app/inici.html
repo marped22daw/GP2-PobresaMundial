@@ -3,7 +3,7 @@
         <mat-icon *ngIf="!sidenav.opened">
             menu
         </mat-icon>
-        <mat-icon *ngIf="sidenav.opened">
+        <mat-icon *ngIf="sidenav.opened" (click)="reloadPage()">
             close
         </mat-icon>
     </button>
