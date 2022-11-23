@@ -42,6 +42,9 @@ export class IniciComponent {
     constructor(private observer: BreakpointObserver, public router: Router) {
 
     }
+    reloadPage(){
+        window.location.reload();
+      }
     ngAfterViewInit() {
         this.observer.observe(['']).subscribe(result => {
             if (result.matches) {
