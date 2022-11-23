@@ -67,7 +67,9 @@ import { delay } from 'rxjs';
       ]
 })
 
+
 export class EspervidaComponent {
+  
     //Poner Json en una tabla
     @Input() currentState;
     displayedColumns: any[] = ['Pais', 'Any', 'Espervida', 'Adult_Mortality', 'Infant_Deaths'];
