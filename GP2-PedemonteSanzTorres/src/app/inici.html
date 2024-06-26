@@ -3,14 +3,14 @@
         <mat-icon *ngIf="!sidenav.opened">
             menu
         </mat-icon>
-        <mat-icon *ngIf="sidenav.opened" (click)="reloadPage()">
+        <mat-icon *ngIf="sidenav.opened">
             close
         </mat-icon>
     </button>
-    <span *ngIf="router.url === '/principal'" [@flyInOut]="currentState">Inici</span>
-    <span *ngIf="router.url === '/pobresa'" [@flyInOut]="currentState">Pobresa</span>
-    <span *ngIf="router.url === '/espervida'" [@flyInOut]="currentState">Esperança de vida</span>
-    <span *ngIf="router.url === '/fertilitat'" [@flyInOut]="currentState">Fertilitat</span>
+    <span *ngIf="router.url === '/inicio'" [@flyInOut]="currentState">Inicio</span>
+    <span *ngIf="router.url === '/poblacion'" [@flyInOut]="currentState">Población</span>
+    <span *ngIf="router.url === '/vida'" [@flyInOut]="currentState">Esperanza de vida</span>
+    <span *ngIf="router.url === '/fertilidad'" [@flyInOut]="currentState">Fertilidad</span>
     
 </mat-toolbar>
 
@@ -20,21 +20,21 @@
 
         
 
-        <button class="button" routerLink="/principal" [routerLinkActive]="'activebutton'">
+        <button class="button" routerLink="/inicio" [routerLinkActive]="'activebutton'">
             <mat-icon>home</mat-icon>
-            <span>Inici</span>
+            <span>Inicio</span>
         </button>
-        <button class="button" routerLink="/pobresa" [routerLinkActive]="'activebutton'">
-            <mat-icon>attach_money</mat-icon>
-            <span>Pobresa</span>
+        <button class="button" routerLink="/poblacion" [routerLinkActive]="'activebutton'">
+            <mat-icon>family_restroom</mat-icon>
+            <span>Población</span>
         </button>
-        <button class="button" routerLink="/espervida" [routerLinkActive]="'activebutton'">
+        <button class="button" routerLink="/vida" [routerLinkActive]="'activebutton'">
             <mat-icon>favorite</mat-icon>
-            <span>Esper. vida</span>
+            <span>Vida</span>
         </button>
-        <button class="button" routerLink="/fertilitat" [routerLinkActive]="'activebutton'">
-            <mat-icon>local_hotel</mat-icon>
-            <span>Fertilitat</span>
+        <button class="button" routerLink="/fertilidad" [routerLinkActive]="'activebutton'">
+            <mat-icon>baby_changing_station</mat-icon>
+            <span>Fertilidad</span>
         </button>
     </mat-sidenav>
     <mat-sidenav-content>

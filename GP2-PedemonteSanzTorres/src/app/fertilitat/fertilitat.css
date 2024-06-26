@@ -4,6 +4,8 @@
   margin-left: 32px;
   border-radius: 10px;
   background-color: white;
+  padding-bottom: 1.25em;
+  overflow-x: auto;
 }
 
 h1{
@@ -17,6 +19,8 @@ table {
   border-collapse: collapse;
   justify-content: center;
   align-items: center;
+  /* margin-bottom: 2rem; */
+  cursor: pointer;
 }
  /*paginator  */
 .mat-paginator{
@@ -25,7 +29,6 @@ table {
 td {
   text-align: center;
   border: 1px solid #ddd;
-  padding: 8px;
   width: 100px;
 }
 /* header taula (th) */
@@ -96,4 +99,27 @@ tr.example-element-row:not(.example-expanded-row):active {
 
 .example-element-description-attribution {
   opacity: 0.5;
+}
+
+:host ::ng-deep .mat-sort-header-container {
+  display: flex !important;
+  cursor: pointer !important;
+  letter-spacing: normal !important;
+  outline: 0 !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+th.mat-header-cell:last-of-type, td.mat-cell:last-of-type, td.mat-footer-cell:last-of-type {
+  padding-right: 0;
+}
+th.mat-header-cell:first-of-type, td.mat-cell:first-of-type, td.mat-footer-cell:first-of-type {
+  padding-left: 0;
+}
+
+::ng-deep .mat-sort-header-arrow {
+  color: white!important;
+}
+::ng-deep .mat-sort-header:hover .mat-sort-header-container .mat-sort-header-arrow {
+  opacity: 1!important;
 }

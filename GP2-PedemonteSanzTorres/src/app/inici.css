@@ -10,6 +10,8 @@ mat-toolbar {
 }
 .topbutton {
     margin-right: 20px;
+    display: flex;
+    justify-content: flex-end;
 }
 mat-sidenav {
     position: fixed;

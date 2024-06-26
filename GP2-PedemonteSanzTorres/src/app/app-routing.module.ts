@@ -8,11 +8,11 @@ import { PrincipalComponent } from './paginici/principal';
 import {Router} from '@angular/router';
 
 const routes: Routes = [
-  { path: '', redirectTo: '/principal', pathMatch: 'full' },
-  { path: 'principal', component: PrincipalComponent },
-  { path: 'espervida', component: EspervidaComponent },
-  { path: 'fertilitat', component: FertilitatComponent },
-  { path: 'pobresa', component: PobresaComponent },
+  { path: '', redirectTo: '/inicio', pathMatch: 'full' },
+  { path: 'inicio', component: PrincipalComponent },
+  { path: 'vida', component: EspervidaComponent },
+  { path: 'fertilidad', component: FertilitatComponent },
+  { path: 'poblacion', component: PobresaComponent },
 ];
 
 @NgModule({

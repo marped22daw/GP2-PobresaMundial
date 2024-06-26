@@ -1,15 +1,36 @@
-
+/* DIV contenedores */
 .content {
-  width: 96%;
-  margin: 16px;
-  margin-left: 32px;
+  width: 90%;
+  margin: 20px auto;
   border-radius: 10px;
   background-color: white;
+  margin: 20px auto;
+  height: auto;
 }
 
 h1{
   margin-left: 1%;
 }
+
+/* DIV DE LA TABLA Y SCROLLBAR */
+.tabla-contenedora {
+  width: 100%;
+  overflow-x: auto;
+}
+.tabla-contenedora::-webkit-scrollbar {
+  height: 10px;
+}
+.tabla-contenedora::-webkit-scrollbar-thumb {
+  background: #282D81;
+  border-radius: 3px;
+}
+.tabla-contenedora::-webkit-scrollbar-thumb:hover {
+  background: #5358b9; 
+}
+.tabla-contenedora::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+
 table {
   margin-left: 1%;
   margin-right: 1%;
@@ -18,10 +39,7 @@ table {
   border-collapse: collapse;
   justify-content: center;
   align-items: center;
-}
- /*paginator  */
-.mat-paginator{
-  border-radius: 10px;
+  table-layout: auto;
 }
 td {
   text-align: center;
@@ -37,16 +55,131 @@ td {
   font-size: 16px;
   border: 1px solid;
 }
+::ng-deep .mat-sort-header-arrow {
+  color: white !important;
+}
+
 /* sombrejat alternat taula */
 tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
 
-/* .mat-elevation-z4{
-  height: 100%;
-} */
-
 .mat-form-field {
-  font-size: 14px;
+  width: 320px;
+  margin-left: 1rem;
+  font-size:1.2rem
+}
+ /*paginator  */
+ .mat-paginator{
+  border-radius: 10px;
+}
+::ng-deep .mat-paginator-container{
+  justify-content: center!important;
+}
+/* GRAFICO DE BARRAS */
+figure#bar {
+  width: 50%;
+  height: 50%;
+  margin: 0;
+  padding: 0;
+}
+
+figure#bar svg {
   width: 100%;
+  height: 100%;
+
+}
+::ng-deep svg{
+  overflow: visible;
+
+}
+::ng-deep text{
+  font-size: 15px;
+}
+
+:host ::ng-deep .mat-sort-header-container {
+  display: flex !important;
+  cursor: pointer !important;
+  letter-spacing: normal !important;
+  outline: 0 !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+th.mat-header-cell:last-of-type, td.mat-cell:last-of-type, td.mat-footer-cell:last-of-type {
+  padding-right: 0;
+}
+th.mat-header-cell:first-of-type, td.mat-cell:first-of-type, td.mat-footer-cell:first-of-type {
+  padding-left: 0;
+}
+::ng-deep .mat-sort-header-arrow {
+  color: white!important;
+}
+::ng-deep .mat-sort-header:hover .mat-sort-header-container .mat-sort-header-arrow {
+  opacity: 1!important;
+}
+/* TOOLTIP */
+::ng-deep .chart-tooltip {
+  position: absolute;
+  width: auto;
+  max-width: 180px;
+  height: auto;
+  padding: 11px;
+  font: 15px sans-serif;
+  line-height: 1.5;
+  background: #b4d5ff;
+  border: 2px #88bcff solid;
+  box-shadow: rgba(0, 0, 0, 0.3) 0 2px 10px;
+  border-radius: 6px;
+  pointer-events: none;
+  opacity: 0.9;
+  z-index: 1;
+  
+}
+/* MEDIA QUERIES */
+
+@media (max-width: 500px) {
+  ::ng-deep .mat-form-field {
+    width: 200px!important;
+  }
+  ::ng-deep #PaisPaginator .mat-form-field {
+    width: 100px!important;
+  }
+  ::ng-deep .mat-paginator-range-label {
+    display: contents;
+  }
+}
+
+@media (max-width: 1050px) {
+  .content{
+    width: 95%!important;
+  }
+}
+@media (max-width: 1200px) {
+  ::ng-deep figure#pie svg g text {
+    font-size: 23px!important;
+  }
+  ::ng-deep figure#pie2 svg g text {
+    font-size: 23px!important;
+  }
+}
+/* ADAPTAR GRAFICO DE BARRAS A RESOLUCION PEQUEÑA (<600) */
+@media (max-width: 600px) {
+  figure#bar {
+    height: 80vh;
+  }
+
+  figure#bar svg text {
+    font-size: 10px;
+  }
+
+  figure#bar svg .axis text {
+    transform: translate(-5,0)rotate(-30deg);
+    text-anchor: end;
+  }
+  ::ng-deep figure#pie svg g text {
+    font-size: 13px!important;
+  }
+  ::ng-deep figure#pie2 svg g text {
+    font-size: 13px!important;
+  }
 }

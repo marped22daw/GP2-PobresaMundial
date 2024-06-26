@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, AfterViewInit } from '@angular/core';
 import * as d3 from 'd3';
 import EspervidaJson from '../json/espervida.json';
 
@@ -7,19 +7,33 @@ import EspervidaJson from '../json/espervida.json';
   templateUrl: './pie.espervida.component.html',
   styleUrls: ['./pie.espervida.component.css']
 })
-export class PieComponent implements OnInit {
+export class PieComponent implements OnInit, AfterViewInit {
   
   private data = EspervidaJson.filter(function(d) { return d.Adult_Mortality < 7; });
   private data2 = EspervidaJson.filter(function(d) { return d.Adult_Mortality > 590; });
   private svg;
   private svg2;
   private margin = 50;
-  private width = 750;
-  private height = 600;
+  private width = 650;
+  private height = 650;
   // The radius of the pie chart is half the smallest side
   private radius = Math.min(this.width, this.height) / 2 - this.margin;
   private colors;
 
+  constructor() { }
+
+  ngOnInit(): void {
+  }
+
+  ngAfterViewInit(): void {
+    setTimeout(() => {
+      this.createSvg();
+      this.createSvg2();
+      this.createColors();
+      this.drawChart();
+      this.drawChart2();
+      }, 0);
+  }
   private createSvg(): void {
     this.svg = d3.select("figure#pie")
     .append("svg")
@@ -29,7 +43,8 @@ export class PieComponent implements OnInit {
     .attr(
       "transform",
       "translate(" + this.width / 2 + "," + this.height / 2 + ")"
-    );
+    )
+    .style("fill", "#6ec2ff");
 }
 
 private createSvg2(): void {
@@ -41,7 +56,8 @@ private createSvg2(): void {
   .attr(
     "transform",
     "translate(" + this.width / 2 + "," + this.height / 2 + ")"
-  );
+  )
+  .style("fill", "#6ec2ff");
 }
 
 private createColors(): void {
@@ -120,15 +136,5 @@ private drawChart2(): void {
   .style("text-anchor", "middle")
   .style("font-size", 15);
 }
-
-  constructor() { }
-
-  ngOnInit(): void {
-    this.createSvg();
-    this.createSvg2();
-    this.createColors();
-    this.drawChart();
-    this.drawChart2();
-  }
 
 }

@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, AfterViewInit } from '@angular/core';
 import * as d3 from 'd3';
 import { index } from 'd3';
 import EspervidaJson from '../json/espervida.json';
@@ -8,7 +8,7 @@ import EspervidaJson from '../json/espervida.json';
   templateUrl: './bar.espervida.component.html',
   styleUrls: ['./bar.espervida.component.css']
 })
-export class BarComponentEspervida implements OnInit {
+export class BarComponentEspervida implements OnInit, AfterViewInit {
 
   private svg:any;
   private margin = 140;
@@ -16,6 +16,24 @@ export class BarComponentEspervida implements OnInit {
   private height = ((window.innerHeight * 80)/100) - (this.margin * 2);
   private colors;
 
+  constructor() { }
+
+  ngOnInit(): void {
+  }
+  ngAfterViewInit(): void {
+    setTimeout(() => {
+      this.createSvg();
+      this.createColors();
+      this.drawBars(EspervidaJson
+        .slice(60, 200)
+        .map(d => {
+          return {
+            EspervidaJson: d.Pais,
+            Stars: d.Espervida
+          };
+          }));
+      }, 0);
+  }
   private createSvg(): void {
     this.svg = d3.select("figure#bar")
     .append("svg")
@@ -65,18 +83,4 @@ export class BarComponentEspervida implements OnInit {
     .attr("fill", (d, i) => (this.colors(i)));
   }
 
-  constructor() { }
-
-  ngOnInit(): void {
-    this.createSvg();
-    this.createColors();
-    this.drawBars(EspervidaJson
-      .slice(60, 200)
-      .map(d => {
-        return {
-          EspervidaJson: d.Pais,
-          Stars: d.Espervida
-        };
-        }));
-  }
 }

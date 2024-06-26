@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, AfterViewInit } from '@angular/core';
 import * as d3 from 'd3';
 import FertilitatJson from '../json/fertilitat.json';
 
@@ -7,7 +7,7 @@ import FertilitatJson from '../json/fertilitat.json';
   templateUrl: './bar.fertilitat.component.html',
   styleUrls: ['./bar.fertilitat.component.css']
 })
-export class BarComponentFertilitat implements OnInit {
+export class BarComponentFertilitat implements OnInit, AfterViewInit {
 
   private svg:any;
   private margin = 100;
@@ -15,6 +15,28 @@ export class BarComponentFertilitat implements OnInit {
   private height = ((window.innerHeight * 80)/100) - (this.margin * 2);
   private colors;
 
+  constructor() { }
+  private createColors(): void {
+    this.colors = d3.scaleOrdinal()
+    // .domain(this.data2.map(d => d.Adult_Mortality.toString()))
+    .range(["#100C2E", "#22256D", "#333CA5", "#4554E1"]);
+  }
+  ngOnInit(): void {
+  }
+  ngAfterViewInit(): void {
+    setTimeout(() => {
+      this.createSvg();
+      this.createColors();
+      this.drawBars(FertilitatJson
+        .slice(120, 200)
+        .map(d => {
+          return {
+            FertilitatJson: d.Country,
+            Stars: d.any2020
+          };
+          }));
+      }, 0);
+  }
   private createSvg(): void {
     this.svg = d3.select("figure#bar")
     .append("svg")
@@ -58,24 +80,5 @@ export class BarComponentFertilitat implements OnInit {
     .attr("width", x.bandwidth())
     .attr("height", (d) => this.height - y(d.Stars))
     .attr("fill", (d, i) => (this.colors(i)));
-  }
-
-  constructor() { }
-  private createColors(): void {
-    this.colors = d3.scaleOrdinal()
-    // .domain(this.data2.map(d => d.Adult_Mortality.toString()))
-    .range(["#100C2E", "#22256D", "#333CA5", "#4554E1"]);
-  }
-  ngOnInit(): void {
-    this.createSvg();
-    this.createColors();
-    this.drawBars(FertilitatJson
-      .slice(120, 200)
-      .map(d => {
-        return {
-          FertilitatJson: d.Country,
-          Stars: d.any2020
-        };
-        }));
   }
 }
