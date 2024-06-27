@@ -1,32 +1,65 @@
-.div{
+/* Area 2x2 graficos pie y titulos */
+.div {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: auto auto;
+    grid-template-areas:
+        "titulo1 titulo2"
+        "grafic1 grafic2";
     gap: 10px;
     align-items: center;
     text-align: center;
+    justify-items: center;
 }
 
-#pie{
-    position: relative;
-    width: 40%;
+p:first-child {
+    grid-area: titulo1;
+}
+
+p:last-of-type {
+    grid-area: titulo2;
+}
+
+#pie {
+    width: 80%;
     font-weight: 450;
+    grid-area: grafic1;
+    /* position: relative; */
 }
 
-#pie2{
-    position: relative;
-    width: 40%;
+#pie2 {
+    width: 80%;
     font-weight: 450;
+    grid-area: grafic2;
+    /* position: relative; */
 }
 
-.titol1{
+.titol1 {
     position: relative;
     top: 10%;
     text-align: center;
     font-size: 1.5em;
     font-weight: bold;
     color: #000000;
-    padding-top: 15px;
+    padding-top: 2%;
 }
 
+.chart-text {
+    fill: red;
+}
 
+::ng-deep text {
+    pointer-events: none;
+}
+
+/* Cambiar divs de los graficos pie a diseño vertical */
+
+@media (max-width: 600px) {
+    .div {
+        display: flex;
+        align-items: center;
+        text-align: center;
+        justify-items: center;
+        flex-direction: column;
+    }
+}

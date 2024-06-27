@@ -1,4 +1,4 @@
-<p class="titol">Esperança de vida d'alguns paisos</p>
+<p class="titol">Esperanza de vida</p>
 <br><br>
 <div class="juntar1"><div class="color2015"></div><p>2015</p></div>
 <div class="juntar2"><div class="color2010"></div><p>2010</p></div>
@@ -6,4 +6,11 @@
 <div class="juntar1"><div class="color2000"></div><p>2000</p></div>
 
 <figure id="bar"></figure>
-
+<div class="bar-pagination">
+    <button class="button-paginator"  (click)="prevPage()" [disabled]="currentPage === 1">
+        <mat-icon class="icon-paginator">keyboard_arrow_left</mat-icon>
+    </button>
+    <button class="button-paginator" (click)="nextPage()" [disabled]="currentPage === totalPages">
+        <mat-icon class="icon-paginator">keyboard_arrow_right</mat-icon>
+    </button>
+</div>

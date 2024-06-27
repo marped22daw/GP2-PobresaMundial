@@ -1,3 +1,10 @@
-<p class="titol">Fertilitat de diferents països a l'any 2020</p>
-<figure id="bar"></figure>
-
+<p class="titol">Promedio hijos por mujer en 2020</p>
+<figure id="bar" style="width: 80%; height: 60vh; margin: auto;"></figure>
+<div class="bar-pagination">
+    <button class="button-paginator"  (click)="prevPage()" [disabled]="currentPage === 1">
+        <mat-icon class="icon-paginator">keyboard_arrow_left</mat-icon>
+    </button>
+    <button class="button-paginator" (click)="nextPage()" [disabled]="currentPage === totalPages">
+        <mat-icon class="icon-paginator">keyboard_arrow_right</mat-icon>
+    </button>
+</div>

@@ -21,13 +21,6 @@ import { delay } from 'rxjs';
     templateUrl: './espervida.html',
     styleUrls: ['./espervida.css'],
     animations: [
-        // animation triggers go here
-        // trigger('changeState', [
-        //     state ('stateLogin', style({transform: 'translateX(-50%)', opacity: 1})),
-        //     state ('stateRegister', style({transform: 'translateX(150%)', opacity: 0, display: 'none'})),
-        //     transition('stateRegister=>stateLogin', [animate('0.3s ease-in')]),
-        //     transition('stateLogin=>stateRegister', [animate('0.3s ease-out')])
-        // ])
         trigger('column1', [
             state('in', style({ scale: 1})),
             transition('void => *', [
